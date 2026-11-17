@@ -1,0 +1,2001 @@
+id,Podcast_Name,Episode_Title,Episode_Length_minutes,Genre,Host_Popularity_percentage,Publication_Day,Publication_Time,Guest_Popularity_percentage,Number_of_Ads,Episode_Sentiment,Listening_Time_minutes
+0,Podcast_16,Episode 41,51.1,Business,46.0,Thursday,Evening,56.3,4,Neutral,45.2
+1,Podcast_33,Episode 25,24.2,True Crime,41.7,Sunday,Evening,72.4,3,Positive,36.4
+2,Podcast_8,Episode 29,60.0,Music,63.7,Tuesday,Night,56.8,2,Neutral,30.4
+3,Podcast_31,Episode 15,63.8,Health,60.0,Saturday,Night,100.0,4,Neutral,55.7
+4,Podcast_3,Episode 56,6.0,Lifestyle,26.9,Thursday,Night,85.7,4,Neutral,17.8
+5,Podcast_1,Episode 15,19.0,Music,77.5,Tuesday,Night,42.3,1,Neutral,14.2
+6,Podcast_13,Episode 69,47.6,Education,53.1,Tuesday,Morning,42.0,4,Neutral,10.1
+7,Podcast_9,Episode 26,38.7,Music,32.8,Wednesday,Morning,61.7,5,Negative,15.6
+8,Podcast_25,Episode 57,44.7,Education,78.8,Tuesday,Afternoon,29.0,4,Neutral,40.5
+9,Podcast_9,Episode 54,27.9,Comedy,67.5,Sunday,Morning,79.2,4,Negative,31.4
+10,Podcast_13,Episode 64,62.6,True Crime,29.7,Tuesday,Afternoon,59.0,4,Neutral,29.4
+11,Podcast_5,Episode 76,60.6,Education,90.5,Friday,Evening,56.4,4,Negative,52.2
+12,Podcast_45,Episode 57,46.3,Lifestyle,68.2,Thursday,Afternoon,67.2,1,Negative,15.5
+13,Podcast_37,Episode 86,67.5,Music,54.8,Thursday,Morning,93.1,4,Positive,50.7
+14,Podcast_11,Episode 26,54.4,Technology,86.8,Friday,Night,54.3,1,Positive,50.1
+15,Podcast_7,Episode 76,27.8,Comedy,58.2,Sunday,Afternoon,,2,Neutral,33.4
+16,Podcast_43,Episode 35,52.4,Health,54.4,Sunday,Night,87.7,5,Positive,53.4
+17,Podcast_34,Episode 63,25.8,Health,41.8,Sunday,Evening,74.2,1,Neutral,32.2
+18,Podcast_45,Episode 50,62.6,Sports,66.6,Thursday,Evening,42.0,5,Neutral,28.0
+19,Podcast_9,Episode 91,44.0,News,64.5,Saturday,Night,,2,Negative,35.2
+20,Podcast_18,Episode 28,41.3,Music,55.3,Tuesday,Afternoon,54.9,1,Positive,45.7
+21,Podcast_6,Episode 52,31.4,Education,39.2,Sunday,Morning,59.0,0,Neutral,14.5
+22,Podcast_22,Episode 17,69.5,True Crime,57.6,Tuesday,Night,16.1,3,Positive,34.2
+23,Podcast_9,Episode 64,41.9,Education,53.6,Monday,Evening,11.4,2,Neutral,36.7
+24,Podcast_1,Episode 4,36.4,Lifestyle,28.3,Saturday,Afternoon,27.8,3,Positive,27.7
+25,Podcast_26,Episode 42,38.0,True Crime,25.6,Saturday,Evening,25.9,0,Neutral,16.5
+26,Podcast_49,Episode 1,55.6,Health,66.3,Monday,Afternoon,33.9,1,Neutral,39.8
+27,Podcast_33,Episode 33,52.3,Music,3.0,Sunday,Night,65.9,0,Neutral,37.4
+28,Podcast_38,Episode 49,53.3,Comedy,59.1,Monday,Evening,45.8,1,Neutral,39.4
+29,Podcast_41,Episode 34,53.6,Health,45.4,Monday,Afternoon,54.9,5,Positive,27.3
+30,Podcast_49,Episode 39,87.8,Sports,81.2,Sunday,Evening,19.4,0,Positive,85.1
+31,Podcast_7,Episode 15,36.9,Lifestyle,45.1,Tuesday,Night,38.5,4,Positive,39.0
+32,Podcast_13,Episode 72,34.8,Comedy,68.2,Tuesday,Afternoon,64.7,0,Negative,25.8
+33,Podcast_31,Episode 80,28.7,Sports,47.1,Saturday,Night,64.9,3,Negative,14.3
+34,Podcast_42,Episode 46,57.3,Music,57.3,Friday,Morning,31.9,5,Positive,44.5
+35,Podcast_39,Episode 6,67.6,True Crime,69.7,Thursday,Morning,54.0,2,Positive,47.3
+36,Podcast_37,Episode 7,42.7,Sports,45.7,Sunday,Night,,1,Positive,47.1
+37,Podcast_16,Episode 68,28.2,Education,74.9,Monday,Evening,49.6,3,Neutral,14.7
+38,Podcast_19,Episode 93,28.5,Business,35.1,Sunday,Morning,32.7,1,Positive,29.2
+39,Podcast_4,Episode 87,58.0,True Crime,60.9,Tuesday,Evening,45.7,5,Positive,34.3
+40,Podcast_16,Episode 41,59.9,Technology,73.5,Friday,Afternoon,52.3,5,Positive,38.2
+41,Podcast_8,Episode 50,55.9,Music,68.2,Wednesday,Afternoon,,3,Positive,60.4
+42,Podcast_47,Episode 17,31.7,News,93.3,Wednesday,Afternoon,49.2,3,Positive,38.4
+43,Podcast_5,Episode 8,49.6,Technology,39.7,Wednesday,Afternoon,13.9,3,Positive,38.6
+44,Podcast_19,Episode 77,47.3,Music,27.4,Thursday,Night,,4,Neutral,8.9
+45,Podcast_45,Episode 43,49.4,Lifestyle,35.1,Sunday,Afternoon,46.3,2,Neutral,27.7
+46,Podcast_48,Episode 50,62.4,Business,68.2,Monday,Afternoon,45.9,5,Positive,50.9
+47,Podcast_19,Episode 35,49.5,Health,65.0,Friday,Night,35.8,2,Neutral,37.8
+48,Podcast_24,Episode 32,58.6,True Crime,57.0,Sunday,Evening,45.6,0,Neutral,27.2
+49,Podcast_27,Episode 99,46.4,Business,32.5,Saturday,Morning,,4,Neutral,29.0
+50,Podcast_42,Episode 82,50.8,Business,70.3,Sunday,Evening,72.2,3,Negative,35.8
+51,Podcast_39,Episode 70,57.6,Health,30.5,Monday,Evening,47.5,5,Positive,49.3
+52,Podcast_27,Episode 39,15.9,Business,78.2,Wednesday,Evening,60.0,2,Negative,10.4
+53,Podcast_19,Episode 73,38.6,Health,100.0,Wednesday,Morning,,2,Neutral,17.6
+54,Podcast_19,Episode 34,35.6,Music,62.3,Thursday,Afternoon,64.3,3,Neutral,20.7
+55,Podcast_33,Episode 52,32.2,Business,66.7,Wednesday,Evening,59.4,2,Positive,28.1
+56,Podcast_42,Episode 15,39.5,True Crime,45.1,Tuesday,Evening,71.6,4,Positive,40.9
+57,Podcast_4,Episode 71,74.9,Business,18.8,Saturday,Evening,67.8,2,Positive,32.1
+58,Podcast_39,Episode 7,27.7,News,42.9,Tuesday,Night,64.7,4,Negative,10.1
+59,Podcast_25,Episode 73,64.4,News,33.1,Sunday,Evening,,2,Neutral,52.0
+60,Podcast_8,Episode 61,11.3,Music,26.1,Monday,Afternoon,56.1,1,Positive,20.9
+61,Podcast_5,Episode 7,38.3,Health,89.4,Wednesday,Evening,,5,Neutral,38.8
+62,Podcast_17,Episode 51,48.3,Comedy,60.5,Friday,Afternoon,33.7,3,Positive,27.8
+63,Podcast_13,Episode 23,56.7,True Crime,62.6,Sunday,Afternoon,,4,Positive,31.3
+64,Podcast_6,Episode 48,59.2,Lifestyle,48.8,Saturday,Evening,54.5,3,Neutral,50.4
+65,Podcast_15,Episode 2,60.9,Business,51.5,Monday,Afternoon,60.4,2,Neutral,43.2
+66,Podcast_42,Episode 73,38.0,Music,74.3,Saturday,Evening,,5,Neutral,26.2
+67,Podcast_36,Episode 51,35.8,Health,54.4,Wednesday,Evening,48.1,2,Neutral,19.1
+68,Podcast_11,Episode 37,62.2,Comedy,65.6,Sunday,Night,47.7,5,Neutral,39.6
+69,Podcast_34,Episode 88,41.2,Technology,51.1,Saturday,Morning,,2,Negative,11.5
+70,Podcast_23,Episode 65,19.5,Comedy,48.2,Tuesday,Afternoon,44.5,0,Positive,39.0
+71,Podcast_38,Episode 61,22.3,Sports,26.9,Wednesday,Night,46.1,0,Neutral,41.8
+72,Podcast_13,Episode 15,26.6,Sports,15.4,Saturday,Afternoon,46.0,5,Neutral,15.5
+73,Podcast_4,Episode 51,54.9,Education,49.8,Sunday,Evening,85.4,3,Positive,42.0
+74,Podcast_16,Episode 71,47.8,Sports,56.1,Friday,Evening,19.6,2,Positive,20.4
+75,Podcast_50,Episode 93,58.8,Health,29.3,Tuesday,Night,29.4,4,Positive,26.4
+76,Podcast_28,Episode 61,36.5,Sports,54.3,Wednesday,Morning,0.0,3,Positive,43.2
+77,Podcast_3,Episode 18,48.2,Business,56.1,Saturday,Afternoon,38.0,3,Neutral,24.3
+78,Podcast_49,Episode 68,57.5,Education,11.9,Friday,Afternoon,,4,Positive,34.5
+79,Podcast_42,Episode 8,38.8,Business,36.7,Tuesday,Evening,37.3,1,Neutral,33.3
+80,Podcast_28,Episode 32,54.1,True Crime,63.1,Tuesday,Night,77.7,0,Positive,65.3
+81,Podcast_38,Episode 92,31.8,Sports,62.7,Tuesday,Morning,,4,Positive,31.8
+82,Podcast_10,Episode 81,37.7,Lifestyle,31.9,Thursday,Morning,,0,Positive,34.5
+83,Podcast_30,Episode 91,37.4,News,58.2,Thursday,Night,40.7,4,Positive,33.9
+84,Podcast_46,Episode 36,21.1,Business,75.4,Thursday,Evening,75.7,0,Negative,17.9
+85,Podcast_22,Episode 69,54.7,Technology,70.5,Sunday,Evening,,1,Positive,46.3
+86,Podcast_2,Episode 71,35.6,True Crime,53.1,Friday,Morning,29.5,4,Positive,34.0
+87,Podcast_38,Episode 25,45.2,Business,45.6,Friday,Evening,7.1,3,Positive,36.4
+88,Podcast_37,Episode 95,54.6,News,42.4,Wednesday,Afternoon,39.0,4,Positive,57.4
+89,Podcast_37,Episode 97,53.9,News,64.4,Friday,Evening,68.9,3,Neutral,42.9
+90,Podcast_33,Episode 12,58.3,True Crime,58.9,Sunday,Morning,100.0,0,Neutral,58.1
+91,Podcast_7,Episode 77,43.0,Technology,67.6,Monday,Afternoon,51.5,5,Positive,28.4
+92,Podcast_6,Episode 45,36.5,Business,57.6,Wednesday,Evening,30.9,1,Neutral,33.6
+93,Podcast_40,Episode 68,43.4,Technology,71.4,Monday,Evening,20.4,0,Neutral,30.4
+94,Podcast_43,Episode 56,11.3,True Crime,56.9,Tuesday,Night,,5,Negative,8.0
+95,Podcast_4,Episode 23,16.1,True Crime,70.7,Monday,Night,5.9,1,Neutral,23.6
+96,Podcast_30,Episode 10,18.5,Lifestyle,72.4,Friday,Morning,63.8,3,Positive,29.2
+97,Podcast_26,Episode 52,25.1,Lifestyle,38.9,Saturday,Morning,70.4,2,Neutral,40.9
+98,Podcast_18,Episode 84,53.0,Comedy,18.8,Sunday,Afternoon,60.9,4,Negative,35.1
+99,Podcast_33,Episode 83,26.9,Technology,85.9,Tuesday,Night,44.5,0,Neutral,40.6
+100,Podcast_46,Episode 28,37.4,Sports,60.1,Friday,Afternoon,64.1,0,Negative,34.9
+101,Podcast_42,Episode 87,71.0,News,20.7,Wednesday,Night,54.3,2,Negative,51.0
+102,Podcast_8,Episode 36,37.9,Business,40.7,Wednesday,Morning,30.5,2,Positive,22.3
+103,Podcast_24,Episode 57,59.8,Lifestyle,70.4,Friday,Night,96.3,4,Neutral,54.9
+104,Podcast_47,Episode 33,26.3,Technology,49.4,Friday,Morning,41.2,3,Neutral,11.9
+105,Podcast_12,Episode 53,40.9,Lifestyle,44.8,Friday,Night,69.4,0,Neutral,30.2
+106,Podcast_43,Episode 53,26.0,Comedy,83.0,Monday,Night,0.0,5,Neutral,22.2
+107,Podcast_25,Episode 70,38.2,News,34.1,Wednesday,Afternoon,81.9,2,Negative,32.9
+108,Podcast_27,Episode 48,61.8,Health,39.0,Tuesday,Afternoon,86.7,5,Neutral,28.6
+109,Podcast_13,Episode 53,10.5,Music,59.2,Monday,Evening,50.7,5,Neutral,5.6
+110,Podcast_46,Episode 66,53.7,Health,62.8,Monday,Evening,64.0,0,Positive,52.8
+111,Podcast_27,Episode 42,49.8,Technology,64.9,Thursday,Morning,64.0,3,Positive,43.3
+112,Podcast_29,Episode 53,33.1,News,73.2,Monday,Morning,33.9,2,Negative,29.1
+113,Podcast_24,Episode 9,16.1,Sports,59.0,Saturday,Night,63.7,2,Neutral,46.7
+114,Podcast_5,Episode 87,46.4,Health,64.8,Monday,Night,29.8,1,Positive,47.2
+115,Podcast_40,Episode 13,34.4,Comedy,49.8,Tuesday,Morning,34.8,3,Negative,11.9
+116,Podcast_17,Episode 88,49.7,Health,56.3,Sunday,Night,78.2,2,Negative,22.0
+117,Podcast_13,Episode 77,45.4,Education,57.2,Friday,Night,74.4,1,Neutral,35.1
+118,Podcast_40,Episode 95,77.0,Comedy,59.3,Thursday,Night,32.3,1,Positive,52.5
+119,Podcast_10,Episode 3,40.2,News,70.5,Monday,Morning,31.7,0,Neutral,39.0
+120,Podcast_35,Episode 22,24.5,Lifestyle,66.1,Monday,Evening,,5,Positive,28.7
+121,Podcast_24,Episode 6,48.6,Sports,55.9,Sunday,Morning,68.3,4,Positive,37.7
+122,Podcast_40,Episode 42,49.4,Comedy,38.8,Saturday,Morning,25.0,2,Neutral,47.3
+123,Podcast_3,Episode 91,72.2,Comedy,56.4,Sunday,Morning,58.9,2,Negative,37.4
+124,Podcast_39,Episode 77,61.7,True Crime,54.4,Saturday,Afternoon,68.7,0,Positive,54.6
+125,Podcast_12,Episode 71,52.1,Education,58.9,Monday,Evening,47.8,1,Negative,38.6
+126,Podcast_44,Episode 85,74.3,Education,99.1,Saturday,Morning,75.3,5,Negative,53.9
+127,Podcast_18,Episode 1,21.2,Business,44.5,Thursday,Morning,42.4,0,Positive,40.0
+128,Podcast_1,Episode 79,32.2,Technology,63.4,Friday,Afternoon,44.7,0,Positive,42.2
+129,Podcast_25,Episode 32,26.5,Comedy,76.4,Wednesday,Morning,25.6,5,Neutral,27.5
+130,Podcast_3,Episode 70,37.2,Business,57.0,Saturday,Night,,3,Neutral,24.3
+131,Podcast_14,Episode 77,17.5,Music,100.0,Saturday,Morning,30.8,0,Positive,42.4
+132,Podcast_36,Episode 69,57.7,Technology,47.4,Sunday,Afternoon,58.7,2,Neutral,47.2
+133,Podcast_29,Episode 42,40.6,True Crime,61.5,Thursday,Afternoon,48.2,4,Neutral,40.3
+134,Podcast_36,Episode 62,15.6,Business,39.0,Tuesday,Morning,,2,Neutral,1.0
+135,Podcast_44,Episode 47,24.7,Technology,48.0,Friday,Night,,2,Neutral,12.7
+136,Podcast_24,Episode 63,51.3,Music,60.0,Thursday,Morning,84.6,3,Positive,53.1
+137,Podcast_28,Episode 46,61.8,News,71.9,Tuesday,Afternoon,55.0,3,Positive,30.6
+138,Podcast_3,Episode 40,84.9,Health,61.4,Saturday,Evening,24.8,5,Positive,60.8
+139,Podcast_15,Episode 21,103.3,True Crime,80.2,Monday,Afternoon,57.6,1,Negative,74.1
+140,Podcast_37,Episode 39,53.3,Business,53.1,Wednesday,Afternoon,46.3,1,Negative,28.6
+141,Podcast_4,Episode 73,25.2,Technology,48.4,Friday,Morning,100.0,0,Neutral,25.7
+142,Podcast_18,Episode 88,5.0,Comedy,100.0,Sunday,Afternoon,,3,Positive,16.3
+143,Podcast_7,Episode 11,50.4,Health,62.9,Friday,Morning,40.5,3,Neutral,30.8
+144,Podcast_43,Episode 19,28.7,Music,40.6,Sunday,Afternoon,85.5,2,Positive,29.2
+145,Podcast_29,Episode 51,36.7,Business,41.1,Saturday,Afternoon,,4,Positive,22.0
+146,Podcast_33,Episode 71,32.8,Sports,36.1,Tuesday,Afternoon,52.4,2,Positive,26.1
+147,Podcast_35,Episode 17,42.2,Education,73.7,Saturday,Morning,99.9,1,Negative,32.3
+148,Podcast_12,Episode 33,66.3,Technology,47.7,Wednesday,Night,47.1,3,Positive,47.7
+149,Podcast_3,Episode 5,48.1,Education,57.5,Friday,Morning,,2,Neutral,47.0
+150,Podcast_20,Episode 6,41.8,Lifestyle,53.7,Tuesday,Morning,40.1,2,Negative,21.5
+151,Podcast_10,Episode 15,24.3,Sports,69.6,Thursday,Morning,,2,Neutral,29.9
+152,Podcast_17,Episode 73,11.5,Sports,38.1,Friday,Night,59.4,5,Positive,11.2
+153,Podcast_16,Episode 87,35.3,True Crime,33.5,Sunday,Afternoon,29.0,1,Negative,14.2
+154,Podcast_40,Episode 50,43.9,Health,59.5,Sunday,Afternoon,32.9,1,Neutral,20.3
+155,Podcast_16,Episode 18,80.4,Business,67.0,Saturday,Night,36.0,3,Neutral,39.2
+156,Podcast_8,Episode 93,47.6,Business,61.7,Thursday,Morning,,0,Neutral,30.5
+157,Podcast_48,Episode 28,64.7,Music,38.8,Sunday,Morning,83.5,0,Negative,43.5
+158,Podcast_3,Episode 16,35.0,Business,68.5,Monday,Morning,76.3,3,Neutral,38.9
+159,Podcast_11,Episode 14,21.3,News,40.1,Sunday,Evening,61.4,3,Neutral,3.0
+160,Podcast_18,Episode 36,25.7,News,44.6,Tuesday,Night,16.7,3,Neutral,12.4
+161,Podcast_4,Episode 74,30.5,Business,36.1,Wednesday,Evening,16.8,0,Positive,20.6
+162,Podcast_45,Episode 40,87.6,Music,81.0,Sunday,Night,63.3,5,Neutral,54.3
+163,Podcast_18,Episode 45,28.6,Lifestyle,67.7,Saturday,Night,16.4,2,Positive,40.2
+164,Podcast_40,Episode 35,61.8,Business,67.1,Saturday,Afternoon,44.4,0,Positive,52.0
+165,Podcast_7,Episode 95,26.9,Health,79.9,Friday,Morning,57.6,1,Positive,37.2
+166,Podcast_27,Episode 69,63.6,Music,100.0,Friday,Morning,21.6,1,Positive,69.6
+167,Podcast_7,Episode 67,52.7,Lifestyle,20.8,Tuesday,Night,24.4,2,Positive,42.1
+168,Podcast_12,Episode 44,41.9,Comedy,40.2,Sunday,Evening,47.6,2,Neutral,23.2
+169,Podcast_21,Episode 54,44.2,True Crime,42.7,Friday,Night,62.6,2,Positive,41.4
+170,Podcast_44,Episode 89,31.9,True Crime,38.0,Friday,Evening,76.5,2,Positive,27.1
+171,Podcast_16,Episode 66,53.9,Health,33.4,Wednesday,Night,,5,Negative,28.3
+172,Podcast_38,Episode 82,35.9,News,49.0,Sunday,Night,51.8,5,Negative,20.4
+173,Podcast_5,Episode 5,20.5,True Crime,30.7,Thursday,Night,31.3,2,Neutral,3.8
+174,Podcast_13,Episode 86,19.4,Comedy,61.7,Tuesday,Night,23.2,5,Positive,22.2
+175,Podcast_31,Episode 96,48.5,Comedy,56.0,Tuesday,Morning,37.2,4,Positive,37.9
+176,Podcast_24,Episode 67,76.6,Education,64.6,Friday,Evening,60.2,4,Positive,61.8
+177,Podcast_26,Episode 96,48.2,Lifestyle,65.2,Saturday,Night,58.4,1,Positive,53.8
+178,Podcast_34,Episode 57,42.6,News,67.1,Tuesday,Afternoon,0.0,2,Negative,27.7
+179,Podcast_4,Episode 28,50.7,News,47.5,Friday,Night,30.4,2,Neutral,31.4
+180,Podcast_35,Episode 61,71.1,News,97.4,Sunday,Afternoon,80.1,0,Positive,75.6
+181,Podcast_44,Episode 63,49.4,Lifestyle,59.7,Thursday,Morning,52.0,0,Negative,27.3
+182,Podcast_39,Episode 15,36.8,Business,17.8,Sunday,Evening,14.6,3,Positive,16.1
+183,Podcast_15,Episode 21,67.1,Business,35.0,Tuesday,Morning,100.0,2,Positive,29.0
+184,Podcast_18,Episode 30,53.6,Technology,20.2,Wednesday,Afternoon,,4,Positive,36.7
+185,Podcast_49,Episode 55,75.7,Lifestyle,55.3,Thursday,Night,59.6,4,Positive,48.9
+186,Podcast_40,Episode 15,48.7,Technology,52.6,Wednesday,Morning,60.0,0,Negative,36.6
+187,Podcast_47,Episode 78,20.5,Lifestyle,45.6,Monday,Morning,40.8,5,Positive,4.6
+188,Podcast_46,Episode 11,17.6,Lifestyle,95.2,Thursday,Night,31.8,2,Neutral,17.8
+189,Podcast_22,Episode 94,78.0,Health,66.0,Wednesday,Night,,3,Positive,67.2
+190,Podcast_7,Episode 68,79.5,Music,69.5,Tuesday,Afternoon,75.1,5,Negative,36.9
+191,Podcast_12,Episode 34,41.4,Lifestyle,36.4,Wednesday,Afternoon,70.5,3,Neutral,31.7
+192,Podcast_15,Episode 38,37.3,Health,35.0,Wednesday,Night,64.4,0,Neutral,26.5
+193,Podcast_42,Episode 70,74.2,Sports,55.7,Sunday,Evening,24.9,1,Positive,57.1
+194,Podcast_14,Episode 9,22.9,Health,58.5,Thursday,Night,81.9,2,Negative,23.1
+195,Podcast_19,Episode 72,27.1,Health,17.9,Wednesday,Morning,28.9,0,Neutral,27.5
+196,Podcast_43,Episode 56,57.9,True Crime,51.4,Wednesday,Evening,57.1,1,Positive,51.0
+197,Podcast_9,Episode 23,37.1,Business,55.3,Friday,Evening,9.0,4,Negative,9.7
+198,Podcast_34,Episode 90,44.9,News,50.7,Tuesday,Morning,0.0,0,Positive,36.6
+199,Podcast_28,Episode 63,41.7,Technology,38.7,Sunday,Evening,58.0,1,Positive,44.7
+200,Podcast_50,Episode 17,51.8,News,44.2,Wednesday,Morning,,3,Neutral,23.9
+201,Podcast_25,Episode 66,73.1,Comedy,51.5,Wednesday,Night,0.3,0,Positive,54.5
+202,Podcast_27,Episode 42,46.8,Lifestyle,56.8,Monday,Evening,63.5,1,Neutral,34.5
+203,Podcast_43,Episode 77,57.9,News,67.1,Sunday,Morning,100.0,5,Positive,48.1
+204,Podcast_50,Episode 50,5.0,Sports,76.6,Thursday,Evening,84.7,3,Positive,15.5
+205,Podcast_37,Episode 100,44.0,Education,49.1,Monday,Morning,43.6,5,Positive,19.3
+206,Podcast_35,Episode 93,28.1,True Crime,45.9,Tuesday,Night,50.2,2,Positive,34.9
+207,Podcast_44,Episode 5,20.6,News,63.8,Wednesday,Morning,72.2,3,Negative,23.0
+208,Podcast_49,Episode 42,27.4,Music,67.2,Saturday,Evening,78.1,1,Neutral,15.3
+209,Podcast_37,Episode 21,38.3,Health,46.3,Monday,Morning,41.4,2,Neutral,30.7
+210,Podcast_15,Episode 46,63.3,Education,70.8,Monday,Morning,50.9,1,Positive,64.4
+211,Podcast_33,Episode 15,18.5,Business,74.6,Thursday,Night,57.5,4,Neutral,23.5
+212,Podcast_12,Episode 54,45.6,Music,80.8,Thursday,Afternoon,63.8,1,Positive,45.2
+213,Podcast_26,Episode 16,35.3,Business,90.6,Sunday,Morning,46.7,1,Positive,35.4
+214,Podcast_23,Episode 63,38.4,Education,37.7,Saturday,Evening,47.0,2,Neutral,27.6
+215,Podcast_50,Episode 46,65.1,Music,55.3,Friday,Morning,84.5,2,Neutral,49.2
+216,Podcast_28,Episode 100,55.8,Music,55.2,Wednesday,Evening,80.2,1,Neutral,44.3
+217,Podcast_48,Episode 88,71.7,Lifestyle,53.0,Friday,Night,61.9,2,Negative,41.3
+218,Podcast_41,Episode 61,41.9,Comedy,42.0,Friday,Evening,93.0,1,Negative,20.3
+219,Podcast_43,Episode 45,31.1,Music,25.3,Tuesday,Morning,40.3,5,Positive,26.5
+220,Podcast_9,Episode 72,40.5,Technology,56.9,Wednesday,Morning,90.6,3,Positive,44.4
+221,Podcast_39,Episode 67,49.8,Business,39.6,Sunday,Morning,63.6,5,Positive,39.1
+222,Podcast_13,Episode 14,48.5,Business,56.7,Thursday,Evening,100.0,5,Neutral,35.1
+223,Podcast_29,Episode 38,23.3,News,39.1,Thursday,Evening,20.2,3,Negative,22.3
+224,Podcast_25,Episode 100,46.8,Comedy,33.0,Saturday,Evening,32.8,4,Negative,15.1
+225,Podcast_13,Episode 32,49.6,Lifestyle,59.7,Tuesday,Afternoon,,0,Positive,59.3
+226,Podcast_50,Episode 2,95.3,Music,58.0,Tuesday,Morning,59.9,5,Negative,45.1
+227,Podcast_44,Episode 84,82.5,Technology,66.6,Sunday,Night,98.8,2,Neutral,68.6
+228,Podcast_29,Episode 94,27.9,Business,98.7,Saturday,Evening,33.3,4,Negative,29.5
+229,Podcast_1,Episode 66,39.3,Technology,60.5,Wednesday,Evening,72.6,1,Neutral,32.3
+230,Podcast_10,Episode 64,15.7,Health,64.7,Sunday,Morning,79.1,0,Positive,46.0
+231,Podcast_12,Episode 36,33.2,True Crime,33.4,Wednesday,Afternoon,,5,Positive,31.4
+232,Podcast_49,Episode 36,51.3,Sports,29.3,Friday,Afternoon,26.0,2,Negative,18.1
+233,Podcast_21,Episode 92,69.1,Health,86.7,Monday,Evening,,0,Positive,62.8
+234,Podcast_3,Episode 86,30.4,Education,36.5,Friday,Night,,3,Positive,40.3
+235,Podcast_30,Episode 50,31.9,Business,34.1,Tuesday,Night,,0,Positive,43.3
+236,Podcast_48,Episode 32,5.0,Education,54.2,Tuesday,Evening,55.1,2,Positive,11.2
+237,Podcast_29,Episode 19,41.7,Comedy,53.2,Saturday,Afternoon,55.7,4,Negative,21.1
+238,Podcast_23,Episode 2,23.8,Health,36.9,Tuesday,Afternoon,48.0,4,Positive,24.9
+239,Podcast_9,Episode 49,34.4,Sports,48.9,Thursday,Evening,66.0,2,Positive,31.9
+240,Podcast_44,Episode 56,27.5,Education,79.6,Sunday,Afternoon,50.8,2,Neutral,46.4
+241,Podcast_6,Episode 68,43.1,Technology,38.9,Sunday,Afternoon,28.8,5,Neutral,24.7
+242,Podcast_47,Episode 81,9.8,Comedy,27.1,Thursday,Night,23.8,1,Positive,17.1
+243,Podcast_12,Episode 37,15.7,News,73.9,Monday,Evening,31.2,0,Positive,39.7
+244,Podcast_7,Episode 17,87.6,Sports,64.8,Wednesday,Afternoon,55.6,0,Positive,67.4
+245,Podcast_18,Episode 85,19.3,True Crime,42.6,Friday,Evening,49.3,4,Positive,29.8
+246,Podcast_1,Episode 77,23.1,Lifestyle,23.4,Wednesday,Afternoon,55.4,2,Positive,11.7
+247,Podcast_1,Episode 54,81.7,True Crime,40.1,Saturday,Morning,62.5,0,Positive,60.3
+248,Podcast_10,Episode 4,103.1,Education,53.9,Sunday,Night,34.3,1,Neutral,74.1
+249,Podcast_35,Episode 47,21.6,Sports,78.3,Friday,Afternoon,86.6,0,Negative,37.1
+250,Podcast_41,Episode 62,37.6,Business,34.3,Friday,Afternoon,43.3,4,Negative,9.9
+251,Podcast_13,Episode 86,51.8,Comedy,53.3,Thursday,Morning,39.2,2,Positive,36.9
+252,Podcast_33,Episode 51,79.6,Comedy,68.5,Tuesday,Night,62.1,0,Positive,71.5
+253,Podcast_18,Episode 47,25.3,Technology,7.4,Friday,Evening,,1,Negative,2.5
+254,Podcast_22,Episode 38,40.1,Music,75.7,Sunday,Afternoon,,3,Neutral,28.3
+255,Podcast_17,Episode 42,60.5,Comedy,31.4,Friday,Evening,74.5,3,Neutral,45.6
+256,Podcast_45,Episode 2,53.7,Comedy,61.6,Saturday,Afternoon,6.6,4,Positive,35.8
+257,Podcast_26,Episode 11,37.5,Sports,59.9,Sunday,Afternoon,77.9,0,Positive,28.1
+258,Podcast_26,Episode 76,42.3,Business,76.7,Wednesday,Afternoon,87.8,0,Neutral,31.4
+259,Podcast_43,Episode 37,17.5,Lifestyle,66.0,Wednesday,Morning,40.8,0,Neutral,22.9
+260,Podcast_33,Episode 86,40.2,News,7.5,Sunday,Night,,2,Positive,17.3
+261,Podcast_8,Episode 40,39.7,Business,39.3,Thursday,Night,78.0,4,Negative,18.4
+262,Podcast_10,Episode 100,49.6,Technology,57.8,Saturday,Night,38.3,3,Neutral,22.5
+263,Podcast_18,Episode 19,33.9,Health,51.1,Friday,Afternoon,71.7,1,Neutral,43.4
+264,Podcast_5,Episode 19,54.4,Technology,64.6,Monday,Night,33.2,3,Positive,62.2
+265,Podcast_35,Episode 59,65.3,Lifestyle,70.8,Wednesday,Afternoon,38.1,3,Neutral,35.7
+266,Podcast_25,Episode 81,48.1,Education,67.2,Wednesday,Night,30.0,1,Neutral,39.2
+267,Podcast_3,Episode 15,52.0,News,50.7,Tuesday,Morning,58.6,4,Positive,34.0
+268,Podcast_21,Episode 51,46.1,Lifestyle,18.1,Saturday,Afternoon,,2,Neutral,28.3
+269,Podcast_42,Episode 23,45.0,Comedy,45.9,Sunday,Evening,,0,Neutral,49.7
+270,Podcast_46,Episode 74,30.6,Sports,63.3,Sunday,Night,18.2,2,Negative,14.4
+271,Podcast_49,Episode 57,51.3,Health,33.2,Tuesday,Afternoon,22.9,4,Positive,33.6
+272,Podcast_47,Episode 66,43.1,Business,67.6,Thursday,Afternoon,59.9,4,Negative,17.9
+273,Podcast_31,Episode 27,86.9,News,73.2,Tuesday,Night,96.1,1,Neutral,73.8
+274,Podcast_47,Episode 29,76.5,Music,57.5,Monday,Afternoon,59.8,4,Positive,30.2
+275,Podcast_48,Episode 64,52.7,Education,0.0,Friday,Evening,40.3,2,Positive,33.1
+276,Podcast_32,Episode 36,29.7,Education,29.4,Sunday,Afternoon,69.2,2,Positive,30.3
+277,Podcast_21,Episode 70,22.8,Education,92.7,Monday,Morning,44.0,0,Positive,32.7
+278,Podcast_49,Episode 16,68.8,News,44.1,Friday,Afternoon,40.5,5,Neutral,45.6
+279,Podcast_21,Episode 31,50.3,True Crime,15.3,Monday,Evening,26.0,5,Neutral,32.6
+280,Podcast_9,Episode 11,54.6,Technology,79.7,Saturday,Morning,85.2,1,Positive,43.7
+281,Podcast_6,Episode 9,10.1,Education,55.3,Monday,Morning,0.0,3,Negative,19.2
+282,Podcast_29,Episode 27,63.5,Education,77.1,Thursday,Night,69.9,4,Positive,41.5
+283,Podcast_2,Episode 49,54.1,True Crime,60.5,Monday,Morning,38.4,3,Neutral,46.8
+284,Podcast_6,Episode 15,22.8,Lifestyle,64.2,Wednesday,Morning,39.7,1,Negative,18.7
+285,Podcast_13,Episode 10,35.6,Technology,62.3,Thursday,Evening,92.3,5,Negative,17.3
+286,Podcast_27,Episode 88,50.3,Lifestyle,68.9,Thursday,Evening,32.1,1,Neutral,35.5
+287,Podcast_24,Episode 52,46.0,Music,100.0,Saturday,Morning,33.0,2,Neutral,39.1
+288,Podcast_26,Episode 72,39.2,Comedy,74.4,Sunday,Morning,46.7,2,Positive,42.5
+289,Podcast_26,Episode 73,42.9,Sports,23.4,Wednesday,Night,60.3,5,Positive,23.6
+290,Podcast_50,Episode 11,40.0,News,63.9,Sunday,Evening,39.0,3,Positive,35.4
+291,Podcast_11,Episode 63,48.1,Comedy,77.8,Wednesday,Evening,10.7,4,Positive,33.6
+292,Podcast_24,Episode 87,74.4,Music,79.1,Monday,Morning,28.4,5,Positive,44.3
+293,Podcast_31,Episode 45,5.0,Technology,46.5,Friday,Morning,82.0,5,Positive,8.7
+294,Podcast_14,Episode 87,40.3,News,78.3,Saturday,Morning,51.9,5,Negative,13.8
+295,Podcast_10,Episode 95,48.5,Comedy,73.6,Wednesday,Night,61.3,5,Negative,24.3
+296,Podcast_3,Episode 55,50.9,Technology,100.0,Friday,Night,43.5,5,Negative,34.9
+297,Podcast_17,Episode 11,37.6,Comedy,40.0,Thursday,Evening,,5,Neutral,21.3
+298,Podcast_13,Episode 62,9.9,Music,44.9,Tuesday,Evening,91.9,3,Positive,37.9
+299,Podcast_10,Episode 89,51.6,Comedy,48.9,Wednesday,Morning,45.3,0,Positive,29.6
+300,Podcast_14,Episode 58,79.5,Sports,45.2,Wednesday,Night,,0,Neutral,57.4
+301,Podcast_35,Episode 81,14.3,Technology,37.2,Wednesday,Evening,77.4,4,Neutral,12.5
+302,Podcast_42,Episode 54,62.3,Lifestyle,0.0,Sunday,Evening,31.9,1,Positive,49.5
+303,Podcast_26,Episode 42,38.4,Music,46.3,Wednesday,Night,35.1,4,Neutral,29.4
+304,Podcast_4,Episode 95,43.8,Business,62.4,Friday,Morning,50.3,5,Neutral,27.1
+305,Podcast_37,Episode 16,23.9,Music,45.1,Monday,Afternoon,50.0,3,Positive,27.9
+306,Podcast_8,Episode 45,38.3,News,93.7,Wednesday,Morning,56.5,4,Positive,34.5
+307,Podcast_3,Episode 16,71.0,Sports,55.3,Sunday,Afternoon,100.0,1,Positive,66.5
+308,Podcast_29,Episode 66,56.7,News,80.8,Sunday,Afternoon,,2,Neutral,29.3
+309,Podcast_22,Episode 93,79.6,Business,60.2,Sunday,Afternoon,0.0,5,Negative,44.1
+310,Podcast_16,Episode 100,68.5,Lifestyle,71.5,Monday,Evening,58.2,4,Neutral,45.7
+311,Podcast_49,Episode 24,53.8,Sports,60.6,Sunday,Afternoon,50.9,1,Neutral,37.0
+312,Podcast_5,Episode 73,79.9,News,82.4,Tuesday,Morning,51.1,5,Negative,43.5
+313,Podcast_3,Episode 88,53.8,Sports,56.1,Monday,Morning,56.1,2,Positive,45.6
+314,Podcast_30,Episode 84,61.6,Music,64.9,Monday,Evening,49.3,5,Neutral,48.9
+315,Podcast_21,Episode 51,39.1,Music,62.3,Saturday,Evening,,3,Neutral,55.2
+316,Podcast_41,Episode 18,46.3,Sports,49.2,Friday,Night,65.3,3,Neutral,42.5
+317,Podcast_3,Episode 47,31.1,Sports,63.1,Friday,Night,36.4,0,Positive,32.9
+318,Podcast_21,Episode 78,64.8,Sports,99.7,Sunday,Morning,26.3,2,Negative,48.1
+319,Podcast_8,Episode 62,21.4,Sports,49.6,Monday,Evening,100.0,4,Negative,19.4
+320,Podcast_3,Episode 39,60.6,Technology,63.4,Monday,Morning,,5,Positive,37.0
+321,Podcast_24,Episode 22,41.2,Music,80.2,Sunday,Morning,52.5,0,Positive,36.8
+322,Podcast_37,Episode 66,68.4,Technology,77.8,Friday,Night,12.6,0,Positive,57.8
+323,Podcast_8,Episode 43,60.0,Health,55.2,Saturday,Afternoon,52.9,4,Neutral,44.8
+324,Podcast_43,Episode 48,81.4,True Crime,7.3,Thursday,Night,26.7,2,Neutral,31.5
+325,Podcast_26,Episode 94,59.6,News,65.3,Tuesday,Morning,38.9,5,Positive,38.9
+326,Podcast_25,Episode 1,13.6,News,10.6,Thursday,Evening,76.1,0,Negative,13.7
+327,Podcast_47,Episode 24,43.7,Comedy,84.4,Sunday,Afternoon,61.8,2,Positive,46.4
+328,Podcast_17,Episode 92,21.6,Education,58.4,Monday,Night,64.2,0,Neutral,37.1
+329,Podcast_11,Episode 93,34.6,Education,75.0,Monday,Evening,,4,Positive,20.3
+330,Podcast_40,Episode 31,75.2,Education,37.0,Wednesday,Night,95.9,5,Neutral,64.4
+331,Podcast_6,Episode 100,57.8,Comedy,23.9,Thursday,Afternoon,20.2,0,Neutral,24.7
+332,Podcast_44,Episode 22,31.0,Business,60.2,Friday,Night,88.2,1,Positive,23.1
+333,Podcast_42,Episode 6,24.7,Technology,54.3,Tuesday,Night,,5,Positive,26.3
+334,Podcast_49,Episode 31,45.7,Music,45.2,Sunday,Night,,0,Negative,22.0
+335,Podcast_24,Episode 54,20.7,Comedy,56.7,Tuesday,Afternoon,,5,Neutral,12.9
+336,Podcast_32,Episode 1,31.6,Comedy,100.0,Tuesday,Night,53.8,5,Negative,21.1
+337,Podcast_45,Episode 18,51.2,True Crime,71.7,Sunday,Evening,38.2,0,Neutral,40.4
+338,Podcast_7,Episode 80,68.1,Education,76.0,Wednesday,Morning,50.7,0,Neutral,46.2
+339,Podcast_16,Episode 63,57.2,Lifestyle,71.9,Friday,Night,43.8,4,Positive,50.0
+340,Podcast_24,Episode 61,5.0,Health,84.6,Thursday,Morning,0.0,0,Neutral,12.9
+341,Podcast_32,Episode 99,51.1,True Crime,51.2,Tuesday,Evening,78.0,3,Positive,53.5
+342,Podcast_34,Episode 23,46.4,Music,13.9,Thursday,Morning,48.0,0,Positive,38.0
+343,Podcast_47,Episode 90,53.3,News,51.2,Saturday,Night,37.9,3,Positive,34.9
+344,Podcast_25,Episode 36,77.3,Music,71.2,Monday,Evening,36.0,2,Positive,47.0
+345,Podcast_9,Episode 93,5.0,Education,35.6,Sunday,Night,,4,Negative,1.0
+346,Podcast_10,Episode 79,33.2,True Crime,51.5,Tuesday,Evening,27.7,5,Negative,3.0
+347,Podcast_41,Episode 22,56.8,True Crime,41.2,Sunday,Evening,0.0,2,Neutral,23.0
+348,Podcast_24,Episode 21,13.4,Comedy,85.0,Sunday,Night,60.2,3,Positive,31.7
+349,Podcast_32,Episode 55,74.5,Business,70.0,Sunday,Afternoon,63.0,3,Negative,30.9
+350,Podcast_29,Episode 51,52.4,Health,68.0,Friday,Evening,45.0,5,Neutral,44.9
+351,Podcast_41,Episode 24,61.9,Business,67.4,Sunday,Afternoon,21.3,1,Positive,53.4
+352,Podcast_11,Episode 27,33.6,Business,54.3,Sunday,Morning,52.2,1,Neutral,28.6
+353,Podcast_9,Episode 90,61.3,Comedy,59.0,Friday,Night,13.4,2,Neutral,31.7
+354,Podcast_37,Episode 76,66.4,Music,31.3,Sunday,Afternoon,24.3,4,Positive,50.1
+355,Podcast_22,Episode 20,49.7,Health,11.3,Wednesday,Morning,31.2,5,Neutral,22.5
+356,Podcast_41,Episode 73,49.7,Business,58.0,Saturday,Night,71.1,1,Neutral,34.4
+357,Podcast_7,Episode 16,50.4,Comedy,61.5,Sunday,Night,40.9,0,Positive,49.8
+358,Podcast_14,Episode 45,27.7,Sports,79.2,Friday,Evening,38.8,3,Positive,19.4
+359,Podcast_49,Episode 2,42.0,Business,86.4,Monday,Afternoon,98.9,3,Neutral,25.5
+360,Podcast_43,Episode 65,41.9,True Crime,86.4,Tuesday,Night,58.8,2,Neutral,28.2
+361,Podcast_4,Episode 19,52.7,Lifestyle,35.0,Tuesday,Evening,,1,Negative,33.9
+362,Podcast_41,Episode 24,65.0,Business,48.0,Thursday,Afternoon,40.8,5,Negative,31.2
+363,Podcast_4,Episode 19,23.8,Lifestyle,64.6,Thursday,Afternoon,35.1,5,Neutral,25.0
+364,Podcast_7,Episode 19,42.5,Music,100.0,Saturday,Night,0.0,4,Neutral,23.8
+365,Podcast_45,Episode 8,74.6,News,84.6,Tuesday,Night,,3,Neutral,58.9
+366,Podcast_7,Episode 56,30.1,Lifestyle,77.4,Tuesday,Evening,61.2,1,Neutral,30.4
+367,Podcast_16,Episode 87,28.6,Sports,47.2,Friday,Morning,45.5,2,Positive,23.3
+368,Podcast_7,Episode 31,49.0,Technology,37.3,Monday,Morning,,0,Neutral,39.4
+369,Podcast_30,Episode 78,61.9,Sports,70.8,Sunday,Afternoon,68.4,1,Neutral,47.8
+370,Podcast_3,Episode 55,45.2,Education,33.0,Monday,Evening,11.1,2,Neutral,22.1
+371,Podcast_15,Episode 26,71.6,Music,50.2,Thursday,Night,35.3,2,Negative,40.5
+372,Podcast_17,Episode 7,62.1,Technology,52.7,Sunday,Night,21.6,0,Neutral,42.8
+373,Podcast_33,Episode 79,61.8,News,86.9,Thursday,Afternoon,94.3,5,Positive,52.4
+374,Podcast_25,Episode 3,56.1,True Crime,47.9,Saturday,Morning,71.9,1,Positive,46.7
+375,Podcast_10,Episode 43,91.6,Education,6.2,Wednesday,Afternoon,,3,Positive,43.4
+376,Podcast_24,Episode 4,40.9,Business,65.1,Saturday,Morning,12.2,2,Positive,38.2
+377,Podcast_23,Episode 78,5.0,News,41.0,Friday,Night,46.7,2,Neutral,2.6
+378,Podcast_18,Episode 99,77.1,Sports,55.9,Thursday,Morning,38.2,5,Positive,44.7
+379,Podcast_27,Episode 33,35.8,Comedy,53.3,Monday,Night,16.9,4,Positive,27.9
+380,Podcast_17,Episode 32,47.2,True Crime,49.5,Sunday,Evening,98.6,5,Positive,46.1
+381,Podcast_17,Episode 57,71.2,Business,70.8,Monday,Morning,57.8,2,Neutral,52.3
+382,Podcast_40,Episode 51,13.0,News,24.3,Wednesday,Evening,,1,Neutral,9.7
+383,Podcast_13,Episode 39,20.0,Education,44.7,Friday,Evening,,2,Positive,20.1
+384,Podcast_17,Episode 37,13.0,Business,68.7,Saturday,Morning,68.1,3,Positive,30.6
+385,Podcast_8,Episode 19,29.1,News,42.7,Thursday,Morning,,2,Positive,10.9
+386,Podcast_35,Episode 26,53.8,Lifestyle,22.8,Wednesday,Afternoon,42.9,2,Positive,47.2
+387,Podcast_36,Episode 59,55.5,Music,68.4,Wednesday,Morning,65.3,0,Positive,39.0
+388,Podcast_34,Episode 74,50.5,Lifestyle,77.5,Sunday,Evening,,3,Positive,31.4
+389,Podcast_9,Episode 76,16.7,Education,54.1,Wednesday,Evening,89.9,4,Positive,21.2
+390,Podcast_23,Episode 52,5.0,True Crime,15.8,Saturday,Morning,54.6,3,Negative,15.4
+391,Podcast_15,Episode 76,46.1,Lifestyle,69.1,Monday,Morning,,5,Neutral,46.7
+392,Podcast_39,Episode 60,35.6,Sports,21.8,Friday,Evening,23.1,5,Negative,15.3
+393,Podcast_17,Episode 36,54.2,Sports,61.2,Friday,Afternoon,26.9,5,Positive,43.0
+394,Podcast_21,Episode 36,59.0,Technology,37.3,Friday,Afternoon,21.0,0,Positive,32.8
+395,Podcast_23,Episode 52,47.8,Music,31.8,Wednesday,Afternoon,56.3,5,Negative,21.8
+396,Podcast_39,Episode 31,60.2,Health,46.2,Friday,Morning,51.6,2,Positive,44.2
+397,Podcast_36,Episode 77,49.6,Sports,51.3,Thursday,Night,38.4,2,Neutral,27.9
+398,Podcast_41,Episode 19,55.6,Music,42.1,Friday,Night,24.6,2,Negative,30.5
+399,Podcast_22,Episode 6,30.9,Technology,66.8,Sunday,Evening,18.3,1,Neutral,22.9
+400,Podcast_41,Episode 50,41.4,Comedy,46.1,Friday,Afternoon,48.8,5,Positive,39.5
+401,Podcast_44,Episode 8,48.9,Comedy,74.6,Saturday,Morning,38.4,3,Neutral,20.3
+402,Podcast_27,Episode 20,61.4,Business,60.6,Sunday,Afternoon,32.9,5,Positive,45.1
+403,Podcast_34,Episode 38,37.1,Lifestyle,41.0,Tuesday,Night,88.7,5,Positive,25.6
+404,Podcast_46,Episode 1,55.4,Comedy,37.7,Friday,Morning,47.9,2,Positive,41.1
+405,Podcast_42,Episode 23,39.7,Technology,22.1,Friday,Night,81.8,4,Negative,20.9
+406,Podcast_14,Episode 55,42.6,Education,60.8,Friday,Afternoon,36.7,3,Neutral,21.2
+407,Podcast_36,Episode 38,61.6,True Crime,47.9,Monday,Afternoon,56.1,2,Positive,51.3
+408,Podcast_23,Episode 90,5.1,Technology,7.6,Saturday,Night,,4,Positive,7.0
+409,Podcast_8,Episode 10,19.1,Business,44.3,Tuesday,Night,,4,Neutral,5.3
+410,Podcast_19,Episode 72,15.4,Lifestyle,37.0,Wednesday,Night,85.7,5,Negative,2.1
+411,Podcast_49,Episode 60,5.0,News,86.5,Friday,Afternoon,,4,Positive,19.0
+412,Podcast_48,Episode 65,31.4,Comedy,20.9,Tuesday,Evening,68.7,3,Positive,22.4
+413,Podcast_40,Episode 68,60.0,News,26.2,Monday,Afternoon,31.2,5,Negative,24.5
+414,Podcast_50,Episode 6,39.3,Technology,77.2,Friday,Morning,,0,Negative,28.6
+415,Podcast_29,Episode 80,49.0,Education,82.1,Tuesday,Afternoon,28.3,4,Negative,23.4
+416,Podcast_38,Episode 34,66.8,Technology,40.1,Saturday,Morning,80.9,2,Positive,66.3
+417,Podcast_9,Episode 66,71.6,True Crime,42.4,Sunday,Morning,57.8,2,Positive,58.1
+418,Podcast_15,Episode 30,43.6,Technology,67.3,Wednesday,Evening,,4,Positive,36.6
+419,Podcast_9,Episode 40,72.1,Business,8.5,Saturday,Evening,84.0,1,Positive,55.0
+420,Podcast_47,Episode 71,46.8,Education,17.8,Tuesday,Afternoon,78.9,5,Negative,11.5
+421,Podcast_31,Episode 94,28.3,Comedy,49.4,Sunday,Evening,69.1,2,Positive,29.4
+422,Podcast_47,Episode 88,33.1,Comedy,86.0,Tuesday,Night,14.5,2,Neutral,26.1
+423,Podcast_21,Episode 73,15.4,Education,46.3,Sunday,Night,32.6,1,Negative,1.0
+424,Podcast_21,Episode 54,27.2,Health,57.0,Saturday,Evening,24.9,2,Negative,19.0
+425,Podcast_34,Episode 53,37.8,Technology,77.7,Wednesday,Morning,68.2,5,Neutral,24.9
+426,Podcast_29,Episode 97,61.1,True Crime,97.1,Saturday,Evening,54.3,0,Negative,43.7
+427,Podcast_19,Episode 21,79.4,Business,43.5,Friday,Morning,15.2,3,Positive,49.5
+428,Podcast_16,Episode 96,17.4,Education,54.7,Friday,Morning,45.3,5,Positive,44.0
+429,Podcast_26,Episode 65,52.9,Technology,91.4,Wednesday,Afternoon,12.6,2,Positive,42.9
+430,Podcast_4,Episode 62,24.2,True Crime,24.6,Tuesday,Afternoon,,3,Negative,1.0
+431,Podcast_10,Episode 60,54.5,Technology,75.6,Friday,Morning,8.6,2,Negative,19.6
+432,Podcast_3,Episode 82,42.4,Lifestyle,34.6,Monday,Morning,63.2,0,Positive,47.6
+433,Podcast_8,Episode 69,8.4,Music,57.0,Wednesday,Night,59.4,3,Positive,31.2
+434,Podcast_10,Episode 10,63.6,True Crime,50.1,Monday,Evening,,5,Positive,43.8
+435,Podcast_4,Episode 79,32.9,News,35.8,Monday,Evening,,3,Positive,42.0
+436,Podcast_3,Episode 73,34.3,Technology,35.3,Monday,Morning,,2,Negative,23.7
+437,Podcast_41,Episode 92,23.6,Sports,60.5,Monday,Night,70.5,0,Positive,34.2
+438,Podcast_10,Episode 94,31.9,Lifestyle,74.9,Sunday,Afternoon,,5,Neutral,18.9
+439,Podcast_28,Episode 95,53.6,News,52.4,Saturday,Evening,,5,Neutral,31.8
+440,Podcast_5,Episode 5,41.2,Business,56.4,Sunday,Afternoon,58.3,5,Positive,41.8
+441,Podcast_48,Episode 64,51.6,News,66.4,Monday,Morning,0.0,2,Positive,45.9
+442,Podcast_12,Episode 94,52.2,Lifestyle,35.6,Sunday,Afternoon,49.1,3,Negative,21.2
+443,Podcast_38,Episode 97,71.4,News,69.8,Friday,Morning,24.5,2,Neutral,46.7
+444,Podcast_33,Episode 55,38.1,Comedy,71.4,Saturday,Night,,1,Positive,57.9
+445,Podcast_39,Episode 92,15.5,Music,100.0,Sunday,Afternoon,23.1,1,Positive,33.6
+446,Podcast_32,Episode 89,66.3,Lifestyle,47.5,Tuesday,Night,60.6,2,Negative,45.8
+447,Podcast_26,Episode 1,38.4,True Crime,45.8,Saturday,Night,50.5,3,Negative,24.9
+448,Podcast_39,Episode 89,67.3,Lifestyle,70.4,Friday,Morning,85.0,0,Negative,50.6
+449,Podcast_41,Episode 64,52.7,News,71.4,Wednesday,Afternoon,50.2,4,Neutral,37.4
+450,Podcast_19,Episode 58,42.4,News,44.3,Thursday,Morning,30.8,2,Negative,30.0
+451,Podcast_48,Episode 18,52.0,Health,46.9,Tuesday,Morning,43.8,5,Positive,43.9
+452,Podcast_50,Episode 92,84.0,Business,65.8,Tuesday,Night,16.4,1,Neutral,57.7
+453,Podcast_37,Episode 30,86.5,True Crime,38.4,Sunday,Evening,60.2,0,Positive,60.6
+454,Podcast_47,Episode 42,46.4,Sports,46.8,Saturday,Afternoon,64.7,1,Neutral,39.0
+455,Podcast_6,Episode 30,48.2,Sports,56.8,Thursday,Morning,100.0,5,Negative,27.5
+456,Podcast_28,Episode 97,66.5,Technology,74.9,Friday,Evening,34.5,1,Negative,40.3
+457,Podcast_33,Episode 49,28.1,Lifestyle,42.9,Wednesday,Evening,43.3,4,Neutral,39.6
+458,Podcast_47,Episode 12,51.7,Technology,18.2,Tuesday,Morning,35.6,5,Neutral,12.7
+459,Podcast_7,Episode 2,44.5,Health,16.7,Sunday,Morning,55.3,1,Negative,31.3
+460,Podcast_41,Episode 99,51.3,Education,29.8,Sunday,Afternoon,,3,Negative,19.1
+461,Podcast_4,Episode 24,28.3,Education,28.7,Tuesday,Evening,48.7,1,Neutral,23.0
+462,Podcast_18,Episode 78,13.2,Technology,51.9,Saturday,Night,77.2,2,Positive,46.2
+463,Podcast_35,Episode 3,5.0,True Crime,31.2,Thursday,Afternoon,34.6,1,Positive,8.7
+464,Podcast_15,Episode 90,22.7,Comedy,40.9,Friday,Morning,74.7,4,Negative,5.6
+465,Podcast_42,Episode 66,35.8,Lifestyle,39.5,Monday,Night,63.5,5,Neutral,21.6
+466,Podcast_47,Episode 23,39.1,Technology,46.2,Thursday,Afternoon,,1,Neutral,23.9
+467,Podcast_8,Episode 89,83.7,Education,81.5,Monday,Evening,42.1,1,Neutral,66.9
+468,Podcast_13,Episode 30,67.1,News,68.2,Saturday,Morning,100.0,4,Positive,51.7
+469,Podcast_4,Episode 100,25.8,Technology,55.3,Wednesday,Morning,29.6,2,Positive,34.5
+470,Podcast_36,Episode 60,52.0,True Crime,45.8,Tuesday,Morning,57.4,3,Negative,18.0
+471,Podcast_45,Episode 45,36.9,Lifestyle,46.3,Friday,Night,,4,Positive,16.1
+472,Podcast_31,Episode 6,39.3,Education,61.6,Sunday,Morning,94.6,0,Neutral,36.6
+473,Podcast_7,Episode 27,48.7,Lifestyle,66.7,Wednesday,Night,72.2,5,Neutral,21.0
+474,Podcast_9,Episode 6,57.4,Music,36.8,Saturday,Night,33.0,2,Negative,42.3
+475,Podcast_2,Episode 86,38.2,Education,55.7,Friday,Evening,62.8,3,Positive,24.8
+476,Podcast_25,Episode 11,66.3,Lifestyle,14.4,Thursday,Night,56.4,2,Neutral,31.2
+477,Podcast_37,Episode 12,22.2,True Crime,59.2,Saturday,Night,37.1,4,Positive,28.1
+478,Podcast_8,Episode 13,45.1,Health,70.2,Monday,Evening,,3,Positive,38.8
+479,Podcast_43,Episode 98,97.0,Business,49.4,Sunday,Night,59.7,1,Positive,59.6
+480,Podcast_13,Episode 98,49.5,Health,91.3,Wednesday,Evening,55.4,1,Positive,67.9
+481,Podcast_26,Episode 72,73.7,Music,37.4,Monday,Morning,49.0,5,Negative,27.0
+482,Podcast_34,Episode 8,46.8,Technology,59.3,Sunday,Morning,60.8,3,Negative,26.6
+483,Podcast_27,Episode 51,56.6,Education,54.3,Saturday,Afternoon,55.7,1,Positive,48.3
+484,Podcast_24,Episode 95,43.9,Business,53.0,Saturday,Afternoon,51.5,0,Negative,35.9
+485,Podcast_17,Episode 10,41.6,True Crime,52.7,Tuesday,Afternoon,34.0,0,Neutral,37.2
+486,Podcast_22,Episode 80,29.4,Music,57.1,Saturday,Morning,92.3,5,Neutral,16.5
+487,Podcast_12,Episode 2,53.6,True Crime,72.0,Friday,Evening,23.7,5,Negative,24.6
+488,Podcast_15,Episode 81,28.0,True Crime,82.6,Sunday,Afternoon,60.7,2,Neutral,27.2
+489,Podcast_38,Episode 55,58.3,True Crime,55.0,Wednesday,Night,42.0,1,Positive,55.9
+490,Podcast_45,Episode 89,66.7,Business,71.3,Sunday,Night,94.0,2,Positive,50.0
+491,Podcast_43,Episode 42,52.3,Technology,41.0,Friday,Evening,27.4,0,Neutral,53.3
+492,Podcast_17,Episode 79,39.3,Technology,70.3,Tuesday,Night,31.6,3,Negative,17.2
+493,Podcast_17,Episode 85,54.1,Sports,39.8,Tuesday,Afternoon,25.8,3,Neutral,32.3
+494,Podcast_3,Episode 33,38.8,News,76.8,Sunday,Night,58.1,5,Positive,27.2
+495,Podcast_14,Episode 65,63.7,Technology,99.2,Friday,Night,15.7,1,Positive,47.0
+496,Podcast_30,Episode 47,8.4,News,52.6,Monday,Morning,38.0,1,Negative,1.0
+497,Podcast_14,Episode 44,38.3,True Crime,11.1,Monday,Evening,0.0,0,Positive,23.0
+498,Podcast_37,Episode 80,5.2,Comedy,44.0,Saturday,Afternoon,56.0,2,Neutral,7.0
+499,Podcast_3,Episode 23,15.1,Music,79.6,Tuesday,Afternoon,,3,Neutral,10.0
+500,Podcast_21,Episode 12,72.3,Technology,66.1,Tuesday,Afternoon,12.8,0,Positive,64.3
+501,Podcast_15,Episode 49,62.9,Education,60.0,Friday,Night,77.1,4,Positive,44.3
+502,Podcast_25,Episode 83,30.6,News,75.2,Sunday,Night,17.3,2,Positive,26.7
+503,Podcast_2,Episode 17,14.9,News,64.7,Wednesday,Afternoon,69.9,4,Positive,21.2
+504,Podcast_21,Episode 35,5.0,Comedy,79.4,Friday,Afternoon,32.5,2,Neutral,21.6
+505,Podcast_40,Episode 67,34.1,Lifestyle,73.4,Friday,Evening,90.0,0,Negative,32.7
+506,Podcast_43,Episode 48,93.4,Lifestyle,85.4,Friday,Evening,68.7,0,Positive,76.9
+507,Podcast_13,Episode 61,53.7,Technology,62.2,Friday,Afternoon,,3,Neutral,24.0
+508,Podcast_22,Episode 53,33.8,Technology,73.1,Tuesday,Afternoon,,3,Positive,25.2
+509,Podcast_35,Episode 82,54.3,Music,48.9,Friday,Night,65.1,4,Positive,33.0
+510,Podcast_24,Episode 88,13.8,Education,43.0,Monday,Afternoon,43.4,5,Neutral,19.0
+511,Podcast_28,Episode 45,39.1,Comedy,89.1,Saturday,Afternoon,45.8,0,Neutral,42.8
+512,Podcast_18,Episode 44,47.0,Technology,59.3,Saturday,Afternoon,81.8,1,Neutral,32.6
+513,Podcast_42,Episode 28,43.3,Education,71.1,Saturday,Afternoon,31.3,1,Positive,38.7
+514,Podcast_32,Episode 45,60.8,Health,57.5,Monday,Evening,52.3,0,Neutral,39.7
+515,Podcast_49,Episode 84,51.9,Business,43.3,Sunday,Evening,73.9,0,Positive,41.9
+516,Podcast_39,Episode 51,58.4,Technology,55.2,Thursday,Morning,70.2,0,Negative,43.7
+517,Podcast_19,Episode 70,31.2,True Crime,83.7,Monday,Night,46.0,3,Neutral,25.7
+518,Podcast_17,Episode 42,63.0,News,66.1,Thursday,Afternoon,42.8,0,Negative,58.6
+519,Podcast_5,Episode 71,77.6,Health,20.8,Friday,Morning,6.5,1,Positive,62.5
+520,Podcast_32,Episode 72,25.6,True Crime,50.7,Wednesday,Evening,,0,Neutral,34.0
+521,Podcast_38,Episode 53,27.2,News,90.6,Saturday,Morning,58.0,4,Neutral,31.4
+522,Podcast_18,Episode 94,71.7,Music,50.7,Thursday,Night,46.6,3,Positive,50.0
+523,Podcast_2,Episode 88,41.2,Health,19.0,Tuesday,Night,51.9,5,Neutral,25.4
+524,Podcast_42,Episode 16,73.1,Education,92.9,Friday,Evening,76.0,0,Neutral,57.4
+525,Podcast_12,Episode 23,36.1,Technology,68.6,Tuesday,Night,20.3,1,Negative,37.0
+526,Podcast_30,Episode 96,74.1,Comedy,53.6,Monday,Afternoon,44.1,2,Positive,60.0
+527,Podcast_3,Episode 41,47.6,Sports,47.6,Tuesday,Afternoon,54.7,3,Negative,28.4
+528,Podcast_4,Episode 32,50.2,Lifestyle,76.6,Sunday,Evening,32.4,0,Positive,50.7
+529,Podcast_45,Episode 80,76.3,Health,44.2,Friday,Afternoon,85.8,1,Neutral,67.6
+530,Podcast_34,Episode 61,37.8,Comedy,78.0,Wednesday,Night,72.7,2,Neutral,23.2
+531,Podcast_1,Episode 14,26.2,Education,65.8,Wednesday,Afternoon,57.3,0,Positive,51.6
+532,Podcast_6,Episode 10,36.0,News,59.9,Sunday,Afternoon,94.9,2,Negative,25.3
+533,Podcast_25,Episode 81,54.0,Comedy,57.9,Friday,Evening,12.5,4,Negative,15.0
+534,Podcast_35,Episode 77,13.7,Technology,51.5,Saturday,Morning,49.8,3,Negative,1.8
+535,Podcast_22,Episode 36,57.7,Education,75.9,Friday,Evening,59.2,2,Negative,25.1
+536,Podcast_44,Episode 87,34.2,Education,37.7,Sunday,Night,,2,Neutral,28.3
+537,Podcast_33,Episode 13,68.0,Health,22.6,Friday,Night,57.5,5,Neutral,28.1
+538,Podcast_31,Episode 87,5.0,Business,67.3,Wednesday,Morning,22.3,3,Negative,4.6
+539,Podcast_15,Episode 8,29.3,News,67.6,Tuesday,Morning,67.3,3,Positive,43.3
+540,Podcast_35,Episode 64,11.3,News,64.6,Monday,Morning,76.4,5,Negative,1.6
+541,Podcast_44,Episode 85,28.5,Business,63.2,Saturday,Night,56.8,0,Neutral,27.5
+542,Podcast_3,Episode 62,50.0,Technology,48.6,Sunday,Afternoon,3.7,0,Neutral,24.6
+543,Podcast_37,Episode 78,41.4,Comedy,70.7,Friday,Morning,25.8,2,Positive,36.8
+544,Podcast_44,Episode 35,39.9,Music,54.1,Thursday,Evening,64.1,1,Positive,62.0
+545,Podcast_22,Episode 29,41.8,News,45.3,Monday,Night,50.5,1,Positive,46.3
+546,Podcast_39,Episode 27,49.1,Technology,48.8,Friday,Morning,0.0,0,Positive,40.2
+547,Podcast_18,Episode 12,24.8,Sports,95.4,Tuesday,Morning,81.1,5,Positive,28.6
+548,Podcast_10,Episode 28,59.1,Health,20.3,Friday,Morning,53.4,3,Positive,42.1
+549,Podcast_41,Episode 25,58.3,Technology,65.0,Wednesday,Morning,29.5,4,Positive,46.0
+550,Podcast_16,Episode 76,52.7,Music,21.4,Sunday,Morning,,0,Neutral,34.8
+551,Podcast_38,Episode 22,56.1,News,52.8,Sunday,Morning,33.1,2,Positive,50.1
+552,Podcast_16,Episode 17,50.9,Business,46.3,Tuesday,Evening,,3,Negative,18.6
+553,Podcast_20,Episode 74,85.7,Business,13.3,Wednesday,Morning,59.0,3,Positive,48.8
+554,Podcast_35,Episode 54,43.3,Music,62.8,Sunday,Evening,94.5,4,Neutral,36.5
+555,Podcast_18,Episode 22,38.9,Sports,47.4,Monday,Afternoon,90.6,4,Positive,27.2
+556,Podcast_41,Episode 71,29.9,Sports,13.0,Thursday,Evening,59.0,2,Neutral,25.4
+557,Podcast_2,Episode 22,24.4,Comedy,71.8,Monday,Evening,61.6,4,Neutral,21.8
+558,Podcast_1,Episode 79,20.1,Lifestyle,83.7,Thursday,Evening,69.8,1,Neutral,12.8
+559,Podcast_5,Episode 4,27.2,Technology,84.8,Monday,Night,18.6,0,Positive,38.1
+560,Podcast_13,Episode 60,43.6,News,62.2,Monday,Morning,66.1,5,Neutral,16.1
+561,Podcast_3,Episode 60,51.7,Education,55.9,Wednesday,Evening,31.6,0,Positive,52.9
+562,Podcast_20,Episode 38,46.0,News,81.6,Monday,Afternoon,58.0,1,Neutral,38.4
+563,Podcast_2,Episode 69,29.7,Health,88.6,Saturday,Evening,44.3,0,Positive,56.0
+564,Podcast_38,Episode 38,63.0,Comedy,77.7,Friday,Morning,62.5,1,Neutral,58.1
+565,Podcast_8,Episode 66,59.8,Education,36.2,Thursday,Afternoon,53.0,2,Positive,38.5
+566,Podcast_49,Episode 23,41.8,True Crime,59.0,Thursday,Night,0.0,0,Neutral,15.7
+567,Podcast_43,Episode 57,31.9,Business,63.8,Saturday,Night,54.5,2,Positive,29.9
+568,Podcast_35,Episode 76,56.0,Health,18.8,Saturday,Afternoon,66.1,5,Positive,28.1
+569,Podcast_40,Episode 97,48.8,Sports,64.4,Monday,Morning,,0,Positive,64.0
+570,Podcast_39,Episode 37,16.0,Technology,100.0,Friday,Evening,47.4,5,Positive,26.5
+571,Podcast_43,Episode 48,43.6,Lifestyle,67.8,Thursday,Afternoon,91.1,2,Neutral,45.3
+572,Podcast_28,Episode 48,50.2,True Crime,84.5,Saturday,Afternoon,,3,Negative,31.2
+573,Podcast_32,Episode 87,27.0,True Crime,58.7,Saturday,Morning,60.9,2,Neutral,23.5
+574,Podcast_24,Episode 97,48.8,Health,53.5,Friday,Afternoon,76.1,1,Positive,46.9
+575,Podcast_32,Episode 65,15.9,Technology,62.6,Friday,Morning,,0,Positive,39.7
+576,Podcast_20,Episode 83,71.7,Music,38.7,Tuesday,Morning,27.5,3,Negative,38.5
+577,Podcast_7,Episode 9,70.0,News,35.7,Saturday,Evening,0.0,5,Positive,34.4
+578,Podcast_47,Episode 76,39.9,Lifestyle,80.3,Friday,Night,38.1,3,Positive,52.6
+579,Podcast_35,Episode 82,52.3,Technology,82.4,Tuesday,Morning,,3,Negative,32.9
+580,Podcast_36,Episode 72,5.0,Music,35.2,Tuesday,Morning,41.2,3,Positive,10.3
+581,Podcast_15,Episode 59,21.9,True Crime,74.4,Thursday,Morning,70.0,2,Positive,10.6
+582,Podcast_39,Episode 90,39.1,Business,53.3,Wednesday,Evening,53.7,0,Positive,46.9
+583,Podcast_26,Episode 66,23.6,Music,61.8,Friday,Night,82.2,3,Neutral,24.2
+584,Podcast_4,Episode 85,59.3,Technology,64.2,Wednesday,Afternoon,42.6,5,Positive,45.4
+585,Podcast_48,Episode 19,84.9,True Crime,74.9,Tuesday,Morning,,1,Neutral,57.9
+586,Podcast_50,Episode 67,21.5,Lifestyle,56.7,Wednesday,Morning,62.6,5,Positive,19.7
+587,Podcast_44,Episode 44,28.3,Technology,83.2,Saturday,Evening,87.5,5,Positive,31.1
+588,Podcast_24,Episode 87,49.7,Technology,61.2,Saturday,Afternoon,,1,Positive,47.0
+589,Podcast_12,Episode 89,77.2,Health,67.5,Wednesday,Afternoon,38.5,3,Negative,49.4
+590,Podcast_1,Episode 85,20.6,Comedy,38.3,Saturday,Morning,71.2,4,Positive,21.7
+591,Podcast_37,Episode 22,50.0,Lifestyle,98.2,Monday,Night,88.6,2,Neutral,53.3
+592,Podcast_45,Episode 50,81.4,Lifestyle,64.4,Sunday,Afternoon,56.0,4,Positive,59.1
+593,Podcast_6,Episode 1,12.0,Technology,69.3,Saturday,Evening,,5,Positive,15.4
+594,Podcast_35,Episode 98,19.4,Technology,22.8,Monday,Evening,68.9,3,Positive,23.8
+595,Podcast_2,Episode 26,36.5,Sports,38.5,Friday,Morning,71.7,5,Neutral,11.7
+596,Podcast_39,Episode 63,34.6,Health,79.8,Thursday,Morning,41.0,4,Neutral,28.9
+597,Podcast_2,Episode 49,61.3,Music,60.7,Sunday,Night,58.3,4,Negative,21.9
+598,Podcast_49,Episode 91,49.8,Lifestyle,16.7,Tuesday,Night,79.5,5,Negative,13.1
+599,Podcast_9,Episode 83,9.5,Education,75.8,Sunday,Afternoon,97.3,1,Neutral,6.4
+600,Podcast_21,Episode 78,55.3,News,44.1,Sunday,Morning,68.6,0,Neutral,41.1
+601,Podcast_35,Episode 65,33.4,Business,83.2,Tuesday,Afternoon,51.1,0,Neutral,47.8
+602,Podcast_43,Episode 12,70.5,Business,53.2,Thursday,Night,48.6,1,Neutral,47.9
+603,Podcast_19,Episode 92,32.4,Education,59.1,Friday,Evening,63.9,4,Positive,37.8
+604,Podcast_50,Episode 7,32.3,News,78.6,Tuesday,Morning,47.1,3,Negative,40.7
+605,Podcast_1,Episode 46,55.8,News,37.1,Sunday,Evening,54.7,2,Negative,34.3
+606,Podcast_24,Episode 38,60.3,Health,35.1,Tuesday,Morning,23.6,0,Positive,42.2
+607,Podcast_50,Episode 40,54.0,Education,51.1,Tuesday,Afternoon,82.4,4,Negative,25.7
+608,Podcast_14,Episode 98,11.3,Education,71.5,Thursday,Afternoon,21.5,2,Negative,9.1
+609,Podcast_27,Episode 24,55.8,Comedy,28.4,Thursday,Afternoon,39.2,4,Positive,33.8
+610,Podcast_23,Episode 58,24.3,Music,21.6,Monday,Evening,,0,Negative,10.3
+611,Podcast_20,Episode 22,49.7,Sports,71.5,Sunday,Morning,99.8,1,Positive,60.1
+612,Podcast_39,Episode 92,16.5,Lifestyle,42.9,Tuesday,Night,39.4,0,Positive,34.9
+613,Podcast_26,Episode 74,53.9,Music,47.2,Monday,Evening,,1,Positive,32.4
+614,Podcast_36,Episode 42,28.9,Business,17.9,Thursday,Afternoon,36.2,5,Neutral,5.9
+615,Podcast_26,Episode 9,19.3,True Crime,41.4,Sunday,Night,91.5,2,Positive,24.9
+616,Podcast_50,Episode 16,59.3,Business,54.8,Monday,Afternoon,0.0,2,Negative,36.0
+617,Podcast_24,Episode 25,49.8,Health,73.6,Thursday,Afternoon,24.9,1,Positive,55.8
+618,Podcast_40,Episode 41,32.7,Lifestyle,39.6,Sunday,Morning,100.0,1,Positive,59.7
+619,Podcast_31,Episode 89,74.0,News,88.1,Sunday,Night,64.8,4,Neutral,48.2
+620,Podcast_41,Episode 12,36.2,Comedy,41.3,Tuesday,Night,22.4,5,Positive,23.6
+621,Podcast_45,Episode 58,45.6,Technology,41.3,Friday,Morning,49.0,4,Neutral,32.7
+622,Podcast_12,Episode 35,50.4,Technology,85.7,Saturday,Night,51.7,4,Positive,40.0
+623,Podcast_16,Episode 5,32.6,Business,59.2,Friday,Night,71.2,2,Negative,21.8
+624,Podcast_16,Episode 62,54.4,Technology,44.0,Friday,Afternoon,96.0,0,Neutral,40.9
+625,Podcast_25,Episode 71,34.3,Technology,51.9,Saturday,Night,59.7,4,Positive,11.3
+626,Podcast_25,Episode 96,36.8,True Crime,82.1,Thursday,Evening,36.5,4,Positive,37.2
+627,Podcast_1,Episode 51,72.3,Sports,84.3,Monday,Evening,69.7,3,Positive,59.1
+628,Podcast_45,Episode 33,24.2,Education,38.7,Friday,Morning,32.5,0,Negative,25.9
+629,Podcast_43,Episode 86,5.0,News,54.2,Friday,Morning,24.2,4,Neutral,5.6
+630,Podcast_31,Episode 25,77.2,News,56.8,Saturday,Evening,,5,Positive,40.4
+631,Podcast_16,Episode 69,96.0,Music,35.3,Sunday,Afternoon,10.9,1,Positive,63.1
+632,Podcast_42,Episode 95,36.9,Education,53.9,Wednesday,Night,27.6,0,Negative,7.9
+633,Podcast_14,Episode 1,6.3,True Crime,55.1,Sunday,Morning,,4,Positive,4.5
+634,Podcast_16,Episode 93,38.8,Sports,77.8,Monday,Night,57.8,1,Neutral,40.9
+635,Podcast_50,Episode 21,39.3,True Crime,79.1,Sunday,Evening,20.0,4,Neutral,25.9
+636,Podcast_47,Episode 49,41.2,True Crime,48.4,Monday,Night,0.0,4,Positive,38.1
+637,Podcast_30,Episode 26,22.7,Sports,50.7,Friday,Night,23.9,1,Neutral,4.5
+638,Podcast_9,Episode 15,56.6,True Crime,68.3,Friday,Night,,0,Positive,50.5
+639,Podcast_7,Episode 71,55.5,Health,43.3,Friday,Afternoon,34.9,3,Positive,38.6
+640,Podcast_49,Episode 49,15.1,Business,66.8,Sunday,Evening,88.0,2,Negative,23.4
+641,Podcast_14,Episode 51,59.0,News,53.2,Thursday,Morning,34.7,5,Neutral,39.6
+642,Podcast_35,Episode 49,86.1,Technology,35.6,Monday,Afternoon,72.0,2,Negative,54.0
+643,Podcast_18,Episode 75,48.4,Music,35.9,Friday,Afternoon,49.5,1,Neutral,46.5
+644,Podcast_25,Episode 97,38.3,News,83.9,Wednesday,Afternoon,48.9,5,Positive,33.6
+645,Podcast_50,Episode 52,42.2,True Crime,51.9,Friday,Evening,29.1,4,Neutral,36.8
+646,Podcast_30,Episode 16,57.3,Health,87.8,Wednesday,Morning,48.5,3,Neutral,34.8
+647,Podcast_22,Episode 33,10.4,Technology,44.7,Monday,Evening,30.9,5,Positive,5.2
+648,Podcast_21,Episode 50,48.3,Comedy,60.8,Friday,Afternoon,54.3,4,Positive,46.8
+649,Podcast_12,Episode 11,37.2,Education,100.0,Monday,Morning,44.1,5,Neutral,17.9
+650,Podcast_28,Episode 23,82.0,Lifestyle,33.9,Wednesday,Evening,26.4,4,Neutral,49.6
+651,Podcast_29,Episode 21,41.5,Health,17.0,Friday,Night,74.8,2,Positive,36.6
+652,Podcast_5,Episode 98,78.4,Health,80.7,Sunday,Evening,60.7,0,Negative,62.6
+653,Podcast_21,Episode 41,22.9,Business,38.5,Wednesday,Morning,,3,Positive,23.6
+654,Podcast_33,Episode 88,56.7,Music,54.6,Wednesday,Evening,53.6,4,Positive,44.9
+655,Podcast_3,Episode 56,51.4,Music,43.3,Wednesday,Evening,47.9,5,Positive,41.7
+656,Podcast_49,Episode 51,27.6,Comedy,60.4,Friday,Evening,28.3,4,Negative,8.0
+657,Podcast_44,Episode 94,48.5,Health,36.0,Tuesday,Afternoon,51.8,3,Positive,33.2
+658,Podcast_32,Episode 70,69.3,Health,51.4,Thursday,Morning,,3,Neutral,47.0
+659,Podcast_1,Episode 24,38.5,News,64.0,Saturday,Morning,26.4,0,Positive,40.7
+660,Podcast_26,Episode 29,11.2,Lifestyle,34.8,Monday,Afternoon,9.4,0,Neutral,8.9
+661,Podcast_45,Episode 67,44.6,News,41.0,Sunday,Evening,41.0,0,Neutral,33.3
+662,Podcast_2,Episode 1,27.0,Music,48.1,Thursday,Evening,64.2,5,Positive,38.9
+663,Podcast_40,Episode 16,38.2,Technology,26.4,Friday,Evening,32.6,4,Negative,10.8
+664,Podcast_42,Episode 8,43.4,Business,46.5,Friday,Afternoon,,1,Positive,41.3
+665,Podcast_4,Episode 72,10.9,Sports,57.4,Sunday,Afternoon,72.1,2,Positive,11.1
+666,Podcast_12,Episode 45,12.7,Health,47.0,Friday,Morning,82.6,2,Neutral,16.7
+667,Podcast_37,Episode 2,54.6,Technology,49.6,Sunday,Night,69.9,1,Neutral,46.5
+668,Podcast_46,Episode 75,34.5,Technology,54.6,Wednesday,Afternoon,,2,Positive,46.0
+669,Podcast_39,Episode 66,5.0,Business,41.9,Tuesday,Evening,,2,Neutral,8.7
+670,Podcast_27,Episode 72,60.7,Music,68.8,Friday,Afternoon,0.0,4,Positive,52.2
+671,Podcast_31,Episode 17,50.4,Health,83.7,Tuesday,Afternoon,38.8,4,Neutral,42.1
+672,Podcast_27,Episode 88,30.7,Technology,45.7,Monday,Morning,64.0,0,Neutral,37.8
+673,Podcast_29,Episode 19,18.7,Sports,64.7,Tuesday,Night,53.8,2,Negative,22.5
+674,Podcast_39,Episode 58,61.7,Education,50.2,Tuesday,Morning,,5,Neutral,49.6
+675,Podcast_3,Episode 56,52.0,Comedy,62.3,Monday,Night,83.0,5,Neutral,34.2
+676,Podcast_11,Episode 22,92.7,True Crime,86.3,Saturday,Morning,59.6,4,Neutral,50.9
+677,Podcast_3,Episode 38,53.4,News,65.2,Friday,Morning,70.0,4,Positive,50.9
+678,Podcast_40,Episode 6,52.8,Lifestyle,19.5,Tuesday,Night,26.5,0,Positive,48.3
+679,Podcast_37,Episode 48,41.7,Lifestyle,64.1,Tuesday,Night,22.6,5,Negative,31.9
+680,Podcast_3,Episode 68,61.3,Technology,79.7,Sunday,Night,90.4,4,Positive,64.0
+681,Podcast_6,Episode 31,57.5,Health,50.6,Sunday,Night,,5,Neutral,50.0
+682,Podcast_14,Episode 54,70.0,Comedy,74.9,Monday,Afternoon,34.4,5,Positive,56.5
+683,Podcast_13,Episode 96,34.6,Education,41.2,Friday,Morning,,1,Negative,22.0
+684,Podcast_26,Episode 24,36.3,Technology,25.3,Wednesday,Evening,33.8,0,Positive,23.4
+685,Podcast_25,Episode 30,35.4,Sports,57.8,Wednesday,Evening,32.3,3,Negative,21.8
+686,Podcast_18,Episode 12,60.8,Comedy,19.9,Friday,Evening,17.9,2,Neutral,29.8
+687,Podcast_9,Episode 55,75.0,Lifestyle,50.2,Sunday,Morning,,0,Positive,59.5
+688,Podcast_33,Episode 21,35.8,News,80.7,Friday,Morning,45.1,1,Neutral,34.1
+689,Podcast_40,Episode 86,36.5,News,16.8,Sunday,Evening,35.2,5,Neutral,20.2
+690,Podcast_33,Episode 30,51.3,Music,29.4,Saturday,Night,77.7,2,Positive,42.5
+691,Podcast_41,Episode 67,40.1,Lifestyle,34.4,Saturday,Night,57.3,1,Positive,45.5
+692,Podcast_46,Episode 19,64.0,Comedy,53.7,Saturday,Evening,56.6,3,Neutral,20.6
+693,Podcast_43,Episode 33,5.0,Technology,47.7,Saturday,Afternoon,31.4,3,Neutral,8.5
+694,Podcast_33,Episode 18,28.5,Music,83.0,Tuesday,Afternoon,,1,Positive,47.7
+695,Podcast_3,Episode 56,29.4,Lifestyle,74.1,Sunday,Evening,59.0,5,Negative,31.9
+696,Podcast_17,Episode 3,5.0,Education,64.9,Sunday,Evening,67.9,3,Positive,26.4
+697,Podcast_22,Episode 9,25.7,Technology,57.9,Friday,Morning,47.7,0,Positive,48.1
+698,Podcast_36,Episode 51,26.7,Technology,62.9,Friday,Afternoon,77.0,1,Neutral,29.8
+699,Podcast_43,Episode 55,41.0,News,37.8,Sunday,Evening,50.2,5,Positive,31.2
+700,Podcast_33,Episode 33,67.3,Business,72.1,Tuesday,Night,,0,Positive,65.6
+701,Podcast_19,Episode 44,40.1,Comedy,32.8,Monday,Night,37.8,0,Neutral,30.0
+702,Podcast_40,Episode 42,24.4,Business,71.7,Sunday,Night,4.7,3,Positive,20.9
+703,Podcast_35,Episode 76,43.9,Music,78.7,Thursday,Morning,56.7,2,Positive,40.7
+704,Podcast_40,Episode 45,66.0,Technology,59.2,Saturday,Afternoon,68.1,1,Neutral,39.9
+705,Podcast_30,Episode 85,25.5,Lifestyle,51.5,Thursday,Evening,64.4,2,Neutral,27.5
+706,Podcast_33,Episode 22,26.8,Lifestyle,63.0,Thursday,Night,,1,Negative,21.3
+707,Podcast_18,Episode 20,56.2,News,0.0,Monday,Afternoon,,2,Neutral,27.7
+708,Podcast_20,Episode 41,40.6,Technology,61.0,Wednesday,Night,29.8,1,Neutral,27.5
+709,Podcast_14,Episode 9,57.9,True Crime,52.7,Monday,Evening,63.8,3,Positive,51.5
+710,Podcast_13,Episode 68,44.7,News,54.0,Thursday,Evening,60.7,4,Neutral,36.6
+711,Podcast_33,Episode 40,59.0,News,69.1,Monday,Evening,36.0,5,Positive,35.7
+712,Podcast_20,Episode 37,24.3,Lifestyle,53.5,Saturday,Night,77.7,0,Positive,25.3
+713,Podcast_7,Episode 54,44.8,Technology,32.2,Wednesday,Evening,27.9,1,Negative,31.5
+714,Podcast_2,Episode 9,40.8,True Crime,52.2,Saturday,Evening,35.4,1,Neutral,20.3
+715,Podcast_44,Episode 38,20.7,Sports,56.4,Monday,Afternoon,90.9,3,Neutral,26.1
+716,Podcast_22,Episode 98,13.7,Comedy,57.3,Monday,Afternoon,71.7,3,Positive,37.4
+717,Podcast_29,Episode 63,58.7,Comedy,58.2,Wednesday,Evening,41.0,5,Positive,56.3
+718,Podcast_46,Episode 58,38.0,True Crime,75.8,Saturday,Night,57.2,5,Neutral,33.7
+719,Podcast_6,Episode 51,24.6,Lifestyle,33.3,Saturday,Evening,53.9,4,Neutral,21.3
+720,Podcast_47,Episode 47,43.1,Music,58.5,Thursday,Night,0.0,1,Neutral,48.7
+721,Podcast_36,Episode 94,67.6,Lifestyle,80.8,Friday,Evening,27.3,0,Positive,40.8
+722,Podcast_33,Episode 94,5.0,Music,20.3,Friday,Afternoon,48.7,5,Positive,5.0
+723,Podcast_22,Episode 41,15.1,Technology,58.6,Friday,Evening,,5,Neutral,18.2
+724,Podcast_36,Episode 93,26.5,Education,43.3,Saturday,Evening,,1,Neutral,21.1
+725,Podcast_11,Episode 9,74.2,Health,47.6,Monday,Night,,0,Positive,72.1
+726,Podcast_16,Episode 32,50.7,Technology,36.9,Thursday,Afternoon,42.0,4,Positive,37.2
+727,Podcast_49,Episode 31,60.3,Lifestyle,51.6,Saturday,Morning,23.6,3,Positive,46.5
+728,Podcast_14,Episode 70,22.2,Business,91.8,Thursday,Morning,58.1,5,Positive,27.4
+729,Podcast_36,Episode 61,22.6,Music,29.7,Tuesday,Morning,41.8,3,Neutral,10.7
+730,Podcast_47,Episode 48,54.0,News,31.6,Friday,Evening,46.1,4,Positive,34.5
+731,Podcast_30,Episode 26,46.2,Sports,29.0,Wednesday,Night,42.7,4,Neutral,28.1
+732,Podcast_15,Episode 51,56.0,Technology,89.5,Thursday,Evening,100.0,0,Neutral,46.0
+733,Podcast_43,Episode 27,41.2,Comedy,45.8,Thursday,Morning,0.0,0,Negative,31.2
+734,Podcast_42,Episode 50,50.6,Business,54.5,Friday,Afternoon,,4,Negative,31.2
+735,Podcast_28,Episode 34,48.2,Comedy,46.9,Sunday,Night,49.9,1,Positive,52.5
+736,Podcast_6,Episode 89,60.6,News,36.1,Friday,Morning,30.5,1,Positive,38.3
+737,Podcast_23,Episode 75,61.1,Sports,50.3,Sunday,Evening,,4,Positive,34.2
+738,Podcast_22,Episode 18,12.6,Education,100.0,Monday,Afternoon,70.3,1,Neutral,25.7
+739,Podcast_10,Episode 95,5.0,True Crime,82.8,Saturday,Night,48.8,0,Positive,50.3
+740,Podcast_21,Episode 66,65.0,News,37.9,Wednesday,Evening,43.2,0,Positive,63.0
+741,Podcast_8,Episode 36,68.8,Business,68.0,Saturday,Evening,47.2,2,Positive,51.7
+742,Podcast_35,Episode 54,24.6,Lifestyle,38.4,Monday,Evening,47.4,3,Positive,29.1
+743,Podcast_22,Episode 20,7.8,Sports,19.5,Thursday,Night,48.0,4,Neutral,9.7
+744,Podcast_37,Episode 5,47.0,True Crime,75.4,Monday,Evening,45.3,5,Neutral,20.8
+745,Podcast_23,Episode 43,63.6,Education,78.2,Friday,Evening,,3,Neutral,56.8
+746,Podcast_36,Episode 79,81.0,Technology,75.9,Tuesday,Night,68.8,4,Negative,46.9
+747,Podcast_37,Episode 36,55.3,Technology,45.6,Tuesday,Evening,19.2,1,Positive,44.3
+748,Podcast_9,Episode 39,37.6,News,51.7,Monday,Evening,23.7,2,Positive,34.9
+749,Podcast_23,Episode 100,27.1,True Crime,70.0,Tuesday,Afternoon,6.3,1,Positive,41.3
+750,Podcast_38,Episode 99,45.2,Lifestyle,62.8,Sunday,Afternoon,71.7,0,Neutral,34.0
+751,Podcast_30,Episode 47,39.0,Music,47.1,Sunday,Morning,56.3,5,Neutral,10.4
+752,Podcast_12,Episode 5,24.7,Technology,22.6,Monday,Evening,62.6,1,Positive,30.8
+753,Podcast_42,Episode 68,86.0,True Crime,57.3,Sunday,Afternoon,14.3,2,Negative,31.1
+754,Podcast_10,Episode 72,80.7,Comedy,76.6,Friday,Night,94.6,2,Positive,65.4
+755,Podcast_50,Episode 92,67.7,Comedy,31.0,Wednesday,Night,34.8,0,Positive,62.2
+756,Podcast_36,Episode 95,26.6,True Crime,67.8,Sunday,Night,54.2,5,Neutral,24.8
+757,Podcast_17,Episode 63,62.1,Lifestyle,61.6,Tuesday,Afternoon,71.4,1,Negative,49.6
+758,Podcast_10,Episode 11,57.8,Technology,70.0,Tuesday,Evening,25.3,0,Neutral,49.3
+759,Podcast_46,Episode 25,53.9,Business,72.4,Tuesday,Night,36.3,2,Negative,53.1
+760,Podcast_27,Episode 72,70.0,True Crime,41.1,Tuesday,Evening,54.5,0,Positive,52.3
+761,Podcast_41,Episode 61,57.7,Health,22.7,Thursday,Evening,,5,Neutral,37.3
+762,Podcast_42,Episode 44,59.8,Music,44.3,Monday,Afternoon,57.5,1,Negative,32.8
+763,Podcast_4,Episode 41,57.7,Music,72.8,Tuesday,Afternoon,90.2,1,Neutral,55.7
+764,Podcast_35,Episode 71,51.8,Music,44.2,Wednesday,Evening,80.1,1,Positive,47.2
+765,Podcast_17,Episode 43,9.3,Education,41.1,Friday,Night,59.2,0,Negative,23.8
+766,Podcast_46,Episode 16,46.7,Comedy,18.6,Sunday,Morning,25.3,0,Positive,34.2
+767,Podcast_11,Episode 98,33.9,Lifestyle,90.1,Monday,Morning,76.5,3,Positive,52.1
+768,Podcast_2,Episode 35,19.4,Lifestyle,71.5,Friday,Morning,12.5,1,Negative,19.3
+769,Podcast_34,Episode 28,78.6,Music,70.4,Monday,Evening,90.0,0,Negative,54.8
+770,Podcast_28,Episode 7,79.6,Education,74.4,Sunday,Afternoon,55.0,1,Negative,55.9
+771,Podcast_28,Episode 47,72.2,News,66.5,Tuesday,Afternoon,0.0,1,Negative,44.0
+772,Podcast_14,Episode 99,50.1,Technology,50.1,Saturday,Night,41.5,2,Positive,45.6
+773,Podcast_25,Episode 16,72.0,True Crime,51.7,Saturday,Morning,66.3,5,Negative,36.0
+774,Podcast_49,Episode 25,45.2,True Crime,46.4,Wednesday,Morning,,1,Positive,36.0
+775,Podcast_39,Episode 18,49.1,News,100.0,Wednesday,Morning,67.9,4,Neutral,37.5
+776,Podcast_50,Episode 10,23.1,Lifestyle,66.1,Wednesday,Afternoon,28.7,4,Positive,12.3
+777,Podcast_17,Episode 61,52.9,Business,45.7,Thursday,Evening,17.4,0,Negative,38.1
+778,Podcast_44,Episode 30,46.2,News,64.3,Thursday,Morning,48.2,3,Neutral,23.6
+779,Podcast_20,Episode 76,18.9,Business,34.8,Friday,Morning,,2,Negative,8.4
+780,Podcast_47,Episode 41,44.0,Sports,85.1,Thursday,Morning,41.3,3,Positive,48.0
+781,Podcast_44,Episode 64,43.4,Health,41.8,Saturday,Night,,1,Positive,49.5
+782,Podcast_9,Episode 9,81.0,Lifestyle,65.0,Thursday,Morning,,2,Positive,46.8
+783,Podcast_49,Episode 33,62.9,Lifestyle,76.3,Wednesday,Evening,57.8,0,Positive,57.9
+784,Podcast_31,Episode 42,45.2,Education,62.7,Wednesday,Evening,51.7,5,Neutral,33.1
+785,Podcast_39,Episode 6,50.0,Education,56.9,Saturday,Morning,11.1,3,Positive,39.9
+786,Podcast_29,Episode 42,45.9,News,55.2,Monday,Evening,17.0,0,Neutral,45.6
+787,Podcast_11,Episode 48,40.9,Sports,53.9,Wednesday,Afternoon,50.3,3,Positive,30.6
+788,Podcast_50,Episode 41,23.4,Lifestyle,43.5,Wednesday,Evening,99.5,5,Positive,9.9
+789,Podcast_6,Episode 51,42.0,Business,46.0,Friday,Morning,,4,Neutral,34.4
+790,Podcast_41,Episode 80,30.1,News,84.6,Monday,Evening,6.9,1,Positive,31.7
+791,Podcast_11,Episode 78,20.0,Health,52.8,Thursday,Night,0.0,5,Positive,3.9
+792,Podcast_40,Episode 2,55.2,Sports,39.3,Friday,Morning,,1,Positive,46.7
+793,Podcast_22,Episode 65,52.8,Comedy,44.7,Sunday,Evening,47.6,1,Positive,55.6
+794,Podcast_12,Episode 91,9.3,Health,77.0,Thursday,Evening,78.5,0,Neutral,12.8
+795,Podcast_12,Episode 88,42.5,Business,68.5,Sunday,Morning,28.0,5,Positive,53.6
+796,Podcast_16,Episode 33,64.9,Health,66.2,Friday,Evening,58.8,4,Positive,44.4
+797,Podcast_46,Episode 79,66.2,Business,49.8,Saturday,Evening,71.2,3,Neutral,44.9
+798,Podcast_39,Episode 81,65.5,Music,66.5,Tuesday,Afternoon,38.8,4,Neutral,32.2
+799,Podcast_34,Episode 37,45.8,Technology,42.1,Sunday,Afternoon,39.3,1,Neutral,33.2
+800,Podcast_32,Episode 87,28.1,Health,49.8,Tuesday,Evening,50.6,0,Positive,33.9
+801,Podcast_21,Episode 64,23.3,Sports,74.4,Monday,Evening,,5,Negative,2.2
+802,Podcast_46,Episode 76,51.9,Music,72.5,Monday,Night,49.6,5,Positive,65.0
+803,Podcast_14,Episode 75,52.6,Education,35.4,Friday,Morning,74.3,0,Positive,44.2
+804,Podcast_48,Episode 79,70.7,Lifestyle,37.9,Friday,Night,38.5,0,Negative,37.7
+805,Podcast_20,Episode 96,67.0,True Crime,57.2,Tuesday,Morning,16.8,3,Neutral,49.1
+806,Podcast_18,Episode 86,42.4,Education,89.5,Sunday,Evening,99.4,0,Neutral,59.2
+807,Podcast_24,Episode 43,20.1,Music,16.7,Tuesday,Afternoon,,4,Negative,12.2
+808,Podcast_38,Episode 57,38.6,Education,60.6,Friday,Morning,35.8,5,Positive,22.6
+809,Podcast_36,Episode 65,49.3,True Crime,27.5,Thursday,Evening,48.4,1,Negative,29.0
+810,Podcast_39,Episode 86,41.0,Health,42.3,Friday,Evening,51.7,1,Neutral,16.2
+811,Podcast_5,Episode 40,33.4,Business,47.7,Saturday,Evening,40.3,5,Positive,35.0
+812,Podcast_9,Episode 32,50.1,Lifestyle,46.6,Sunday,Afternoon,49.6,2,Positive,29.8
+813,Podcast_43,Episode 74,34.9,Business,44.3,Saturday,Afternoon,49.0,1,Positive,29.5
+814,Podcast_50,Episode 96,32.4,Technology,55.1,Sunday,Evening,54.4,0,Negative,24.4
+815,Podcast_7,Episode 92,51.2,Comedy,44.3,Sunday,Morning,0.0,5,Positive,37.4
+816,Podcast_46,Episode 15,37.0,Lifestyle,25.8,Wednesday,Night,,5,Positive,28.9
+817,Podcast_14,Episode 92,49.9,Education,70.6,Thursday,Evening,46.3,0,Neutral,53.9
+818,Podcast_49,Episode 79,50.5,News,70.1,Tuesday,Night,64.5,4,Neutral,42.0
+819,Podcast_50,Episode 16,22.2,News,71.9,Sunday,Morning,15.5,0,Positive,37.4
+820,Podcast_32,Episode 1,35.4,Technology,24.2,Sunday,Evening,38.2,0,Negative,10.3
+821,Podcast_10,Episode 21,73.8,Technology,61.0,Sunday,Evening,,2,Neutral,62.4
+822,Podcast_40,Episode 93,21.8,Sports,68.5,Saturday,Night,86.7,2,Negative,13.2
+823,Podcast_6,Episode 76,5.0,Business,34.4,Saturday,Afternoon,35.4,5,Positive,23.6
+824,Podcast_17,Episode 58,7.8,Health,55.2,Saturday,Night,69.0,4,Positive,35.0
+825,Podcast_32,Episode 64,45.6,Comedy,52.7,Tuesday,Morning,33.7,0,Neutral,39.8
+826,Podcast_4,Episode 42,45.6,Business,91.8,Tuesday,Night,38.7,3,Positive,52.8
+827,Podcast_20,Episode 91,42.6,Lifestyle,93.5,Thursday,Evening,,5,Neutral,7.3
+828,Podcast_40,Episode 16,69.3,Lifestyle,21.7,Wednesday,Night,,3,Positive,49.0
+829,Podcast_5,Episode 32,5.0,True Crime,100.0,Saturday,Morning,2.8,1,Neutral,25.0
+830,Podcast_19,Episode 21,52.9,Business,36.7,Saturday,Afternoon,,0,Negative,37.4
+831,Podcast_1,Episode 85,76.2,News,74.6,Sunday,Evening,,2,Negative,33.9
+832,Podcast_33,Episode 55,22.4,Music,74.4,Saturday,Evening,22.8,2,Negative,13.4
+833,Podcast_4,Episode 69,37.4,Lifestyle,35.1,Monday,Morning,29.7,2,Negative,1.0
+834,Podcast_15,Episode 92,29.9,News,64.9,Wednesday,Evening,9.6,0,Positive,38.3
+835,Podcast_27,Episode 20,27.1,Education,52.8,Wednesday,Afternoon,31.6,0,Positive,18.3
+836,Podcast_11,Episode 97,38.5,News,66.1,Friday,Morning,0.0,3,Negative,28.7
+837,Podcast_12,Episode 13,73.5,Business,59.6,Wednesday,Evening,,5,Negative,45.8
+838,Podcast_42,Episode 76,81.7,News,78.9,Sunday,Evening,80.0,3,Negative,48.0
+839,Podcast_39,Episode 71,38.3,Business,56.5,Wednesday,Morning,60.1,2,Neutral,34.9
+840,Podcast_5,Episode 83,83.1,Lifestyle,51.6,Thursday,Night,54.7,5,Positive,55.1
+841,Podcast_43,Episode 16,45.7,Music,76.9,Saturday,Evening,24.9,4,Negative,27.4
+842,Podcast_24,Episode 96,80.1,Technology,66.6,Wednesday,Afternoon,11.6,4,Negative,32.6
+843,Podcast_8,Episode 80,43.1,Technology,69.6,Monday,Night,,3,Neutral,35.5
+844,Podcast_46,Episode 12,47.6,Music,41.7,Wednesday,Night,,4,Negative,10.0
+845,Podcast_17,Episode 56,52.3,Comedy,34.1,Wednesday,Night,71.7,3,Neutral,19.6
+846,Podcast_17,Episode 82,108.6,Education,43.6,Friday,Night,72.6,3,Negative,59.7
+847,Podcast_8,Episode 48,62.0,Lifestyle,42.6,Friday,Morning,65.8,3,Positive,46.7
+848,Podcast_45,Episode 39,30.9,Education,70.7,Thursday,Morning,,4,Negative,19.1
+849,Podcast_15,Episode 28,64.4,Comedy,74.5,Wednesday,Morning,,5,Positive,44.4
+850,Podcast_30,Episode 52,37.8,Lifestyle,51.9,Thursday,Night,42.0,1,Positive,53.2
+851,Podcast_12,Episode 99,35.2,Sports,83.6,Tuesday,Afternoon,45.0,4,Positive,37.6
+852,Podcast_45,Episode 61,63.2,True Crime,82.4,Tuesday,Afternoon,,0,Neutral,57.0
+853,Podcast_40,Episode 73,45.6,Business,59.9,Friday,Night,5.9,3,Positive,38.7
+854,Podcast_26,Episode 78,50.6,Business,38.6,Sunday,Morning,44.1,5,Negative,30.2
+855,Podcast_18,Episode 78,45.3,Health,86.5,Thursday,Afternoon,,3,Neutral,43.5
+856,Podcast_33,Episode 41,51.7,Lifestyle,53.8,Monday,Afternoon,13.4,1,Negative,33.3
+857,Podcast_25,Episode 77,53.5,Sports,57.5,Sunday,Afternoon,33.9,3,Positive,49.3
+858,Podcast_48,Episode 33,6.3,News,48.2,Wednesday,Evening,36.8,2,Positive,3.4
+859,Podcast_34,Episode 59,58.3,Lifestyle,37.2,Saturday,Evening,44.4,2,Neutral,23.3
+860,Podcast_2,Episode 31,25.4,Lifestyle,25.6,Sunday,Afternoon,10.1,1,Neutral,16.2
+861,Podcast_42,Episode 94,16.2,Comedy,67.7,Sunday,Morning,64.9,3,Neutral,17.2
+862,Podcast_10,Episode 74,43.8,News,39.3,Monday,Evening,66.7,1,Negative,32.2
+863,Podcast_16,Episode 59,46.7,Business,100.0,Tuesday,Evening,62.7,2,Negative,36.3
+864,Podcast_22,Episode 46,31.1,Music,33.3,Friday,Evening,28.2,5,Neutral,20.0
+865,Podcast_11,Episode 53,61.6,Sports,29.9,Saturday,Afternoon,52.2,4,Negative,19.4
+866,Podcast_48,Episode 78,18.2,Health,65.2,Saturday,Night,27.5,2,Neutral,18.3
+867,Podcast_49,Episode 28,36.9,True Crime,85.6,Thursday,Evening,,5,Neutral,16.7
+868,Podcast_8,Episode 83,33.3,Comedy,56.3,Tuesday,Night,100.0,0,Positive,45.9
+869,Podcast_17,Episode 29,44.1,Music,66.4,Friday,Evening,52.4,5,Positive,22.4
+870,Podcast_19,Episode 15,50.6,Health,18.1,Friday,Afternoon,20.3,2,Positive,39.3
+871,Podcast_34,Episode 74,24.8,Education,41.4,Thursday,Afternoon,54.5,4,Neutral,5.3
+872,Podcast_30,Episode 71,59.5,Lifestyle,33.5,Friday,Evening,16.2,5,Neutral,27.0
+873,Podcast_34,Episode 34,46.3,Technology,17.1,Tuesday,Evening,20.0,3,Positive,39.4
+874,Podcast_2,Episode 65,7.2,News,57.3,Saturday,Evening,,3,Neutral,10.9
+875,Podcast_26,Episode 73,5.8,Music,10.1,Monday,Evening,38.9,4,Positive,1.0
+876,Podcast_11,Episode 79,44.8,News,28.6,Saturday,Afternoon,73.4,1,Positive,35.6
+877,Podcast_12,Episode 96,40.6,Lifestyle,44.3,Saturday,Morning,64.5,1,Negative,14.3
+878,Podcast_39,Episode 86,42.9,Music,38.4,Friday,Afternoon,,2,Positive,25.3
+879,Podcast_8,Episode 44,44.4,Comedy,62.9,Saturday,Night,22.5,2,Positive,41.0
+880,Podcast_2,Episode 24,49.5,Education,61.1,Sunday,Evening,36.5,4,Neutral,36.6
+881,Podcast_25,Episode 10,64.0,Sports,72.9,Tuesday,Night,56.8,1,Positive,60.4
+882,Podcast_37,Episode 58,22.8,Education,70.0,Thursday,Evening,,3,Neutral,25.2
+883,Podcast_26,Episode 67,21.6,News,77.8,Friday,Night,43.0,0,Negative,20.9
+884,Podcast_9,Episode 70,23.1,Comedy,55.0,Sunday,Morning,61.0,0,Neutral,23.7
+885,Podcast_39,Episode 1,50.8,Comedy,61.1,Saturday,Evening,41.3,5,Neutral,22.8
+886,Podcast_20,Episode 71,69.9,Technology,65.2,Friday,Morning,55.7,5,Positive,48.2
+887,Podcast_36,Episode 79,36.4,News,57.8,Thursday,Morning,89.8,5,Neutral,16.3
+888,Podcast_11,Episode 73,5.0,True Crime,47.1,Tuesday,Morning,45.7,1,Positive,12.9
+889,Podcast_46,Episode 53,10.9,Music,48.4,Wednesday,Afternoon,79.5,3,Positive,22.9
+890,Podcast_15,Episode 2,28.3,Health,38.6,Thursday,Morning,64.0,4,Negative,12.4
+891,Podcast_49,Episode 49,33.8,Technology,63.4,Sunday,Afternoon,13.3,1,Positive,59.9
+892,Podcast_19,Episode 65,36.8,Comedy,53.1,Sunday,Morning,22.4,4,Neutral,12.1
+893,Podcast_37,Episode 57,45.8,Technology,41.7,Friday,Morning,29.2,4,Positive,33.6
+894,Podcast_26,Episode 58,38.8,True Crime,41.8,Monday,Afternoon,28.6,2,Negative,8.9
+895,Podcast_4,Episode 52,66.0,Sports,30.8,Saturday,Afternoon,47.7,2,Positive,46.0
+896,Podcast_5,Episode 56,31.5,Comedy,74.6,Thursday,Afternoon,,1,Positive,37.2
+897,Podcast_21,Episode 33,27.8,Education,56.6,Friday,Afternoon,81.4,4,Negative,23.8
+898,Podcast_10,Episode 61,54.6,Education,37.7,Thursday,Afternoon,57.7,5,Neutral,27.7
+899,Podcast_31,Episode 29,14.3,Technology,71.2,Saturday,Morning,,5,Negative,5.1
+900,Podcast_7,Episode 50,52.8,Comedy,43.8,Tuesday,Afternoon,0.0,4,Positive,33.0
+901,Podcast_30,Episode 42,47.1,News,26.9,Tuesday,Night,51.8,2,Neutral,19.2
+902,Podcast_11,Episode 72,42.1,Technology,75.4,Tuesday,Morning,50.6,4,Negative,20.1
+903,Podcast_10,Episode 90,76.8,Sports,44.3,Sunday,Morning,54.6,1,Neutral,48.4
+904,Podcast_19,Episode 64,32.6,Lifestyle,46.8,Monday,Night,100.0,5,Neutral,24.5
+905,Podcast_30,Episode 14,86.2,Business,55.8,Wednesday,Evening,81.0,1,Positive,72.9
+906,Podcast_20,Episode 67,40.5,Sports,77.9,Wednesday,Afternoon,69.6,2,Neutral,34.0
+907,Podcast_18,Episode 33,19.5,Sports,55.4,Saturday,Night,25.9,0,Negative,13.1
+908,Podcast_18,Episode 5,46.4,Music,31.0,Wednesday,Afternoon,37.2,0,Neutral,19.4
+909,Podcast_17,Episode 20,23.5,Comedy,65.9,Sunday,Evening,47.6,2,Negative,21.3
+910,Podcast_21,Episode 100,30.0,Lifestyle,45.3,Sunday,Evening,,3,Neutral,14.8
+911,Podcast_42,Episode 43,52.9,Education,92.8,Friday,Morning,62.5,0,Neutral,54.0
+912,Podcast_29,Episode 21,56.1,Health,55.0,Wednesday,Night,58.9,5,Positive,53.4
+913,Podcast_22,Episode 14,32.6,Sports,10.3,Friday,Evening,,0,Neutral,19.8
+914,Podcast_38,Episode 66,64.7,Education,62.1,Friday,Morning,79.9,5,Negative,28.1
+915,Podcast_27,Episode 77,68.2,News,93.9,Monday,Night,52.6,1,Neutral,53.8
+916,Podcast_48,Episode 36,73.7,Comedy,86.5,Saturday,Evening,6.8,2,Positive,61.3
+917,Podcast_29,Episode 11,55.6,Technology,91.6,Thursday,Night,48.7,0,Neutral,45.7
+918,Podcast_11,Episode 36,72.3,Comedy,34.6,Saturday,Night,,4,Neutral,37.8
+919,Podcast_29,Episode 67,7.4,True Crime,73.2,Friday,Afternoon,74.3,4,Negative,12.3
+920,Podcast_39,Episode 12,38.6,Sports,40.6,Sunday,Night,41.6,0,Positive,42.6
+921,Podcast_11,Episode 27,27.7,True Crime,59.5,Monday,Morning,70.7,0,Positive,35.0
+922,Podcast_11,Episode 1,47.4,Health,29.5,Monday,Afternoon,54.7,3,Positive,24.2
+923,Podcast_30,Episode 48,33.6,Technology,42.1,Monday,Evening,,5,Positive,28.8
+924,Podcast_45,Episode 18,41.7,Health,41.5,Sunday,Evening,14.6,0,Negative,18.2
+925,Podcast_17,Episode 20,82.6,Lifestyle,73.0,Sunday,Morning,78.1,1,Positive,70.6
+926,Podcast_26,Episode 12,41.6,True Crime,71.0,Sunday,Morning,79.9,3,Neutral,35.7
+927,Podcast_33,Episode 74,53.3,Education,60.5,Wednesday,Night,58.1,0,Positive,35.9
+928,Podcast_34,Episode 49,40.4,Lifestyle,28.0,Tuesday,Night,87.4,1,Positive,40.2
+929,Podcast_8,Episode 95,46.5,Business,48.8,Wednesday,Evening,76.4,0,Negative,37.1
+930,Podcast_20,Episode 40,45.1,True Crime,40.1,Saturday,Evening,67.1,2,Neutral,37.7
+931,Podcast_50,Episode 23,54.0,Technology,72.4,Tuesday,Night,27.2,4,Positive,44.5
+932,Podcast_45,Episode 21,68.3,Lifestyle,78.6,Thursday,Morning,93.3,2,Positive,45.4
+933,Podcast_39,Episode 96,77.9,Business,76.1,Friday,Night,63.4,1,Negative,61.8
+934,Podcast_2,Episode 59,51.2,Comedy,39.9,Wednesday,Morning,40.4,2,Negative,31.1
+935,Podcast_21,Episode 33,56.8,Health,0.2,Thursday,Evening,,3,Positive,26.9
+936,Podcast_3,Episode 66,22.0,Lifestyle,19.7,Friday,Afternoon,56.4,0,Neutral,13.3
+937,Podcast_16,Episode 56,43.2,Lifestyle,83.4,Saturday,Night,8.2,0,Positive,46.8
+938,Podcast_44,Episode 12,63.8,Technology,47.0,Tuesday,Morning,67.5,1,Neutral,51.2
+939,Podcast_20,Episode 71,62.3,Education,40.0,Thursday,Evening,,5,Positive,37.5
+940,Podcast_9,Episode 12,49.2,Lifestyle,87.9,Tuesday,Morning,59.3,4,Negative,38.4
+941,Podcast_37,Episode 20,62.7,Sports,80.3,Monday,Morning,37.0,0,Negative,29.2
+942,Podcast_38,Episode 72,54.8,Health,55.5,Friday,Afternoon,43.4,1,Positive,39.8
+943,Podcast_33,Episode 45,69.0,True Crime,49.1,Thursday,Night,31.1,2,Neutral,27.7
+944,Podcast_41,Episode 23,50.8,Sports,52.4,Tuesday,Afternoon,46.0,1,Positive,38.5
+945,Podcast_36,Episode 7,37.9,Health,59.5,Monday,Evening,97.2,5,Positive,48.6
+946,Podcast_32,Episode 60,51.7,Health,87.0,Sunday,Evening,84.6,5,Positive,63.7
+947,Podcast_45,Episode 70,5.0,Lifestyle,63.4,Saturday,Night,,1,Positive,25.1
+948,Podcast_17,Episode 21,52.7,True Crime,69.5,Sunday,Afternoon,49.4,0,Negative,32.2
+949,Podcast_23,Episode 42,5.0,Business,78.4,Monday,Morning,,1,Positive,24.6
+950,Podcast_29,Episode 35,10.5,Comedy,31.6,Monday,Night,78.2,3,Negative,9.2
+951,Podcast_34,Episode 90,54.0,Sports,70.1,Tuesday,Afternoon,29.3,4,Positive,30.9
+952,Podcast_24,Episode 80,54.6,Health,49.1,Monday,Morning,48.1,2,Neutral,33.0
+953,Podcast_23,Episode 28,21.8,Music,4.7,Thursday,Night,4.5,1,Neutral,22.7
+954,Podcast_9,Episode 52,30.8,True Crime,12.4,Friday,Night,78.1,1,Negative,8.9
+955,Podcast_32,Episode 93,72.4,Lifestyle,34.6,Tuesday,Morning,,0,Positive,55.0
+956,Podcast_7,Episode 35,35.3,Health,65.6,Wednesday,Night,52.0,0,Positive,41.5
+957,Podcast_24,Episode 15,89.9,News,57.3,Thursday,Evening,,2,Neutral,56.7
+958,Podcast_21,Episode 30,45.0,Technology,58.7,Wednesday,Afternoon,65.2,3,Neutral,28.3
+959,Podcast_39,Episode 61,53.2,Technology,94.0,Thursday,Evening,27.4,0,Neutral,46.1
+960,Podcast_24,Episode 100,77.3,True Crime,29.6,Friday,Morning,33.4,1,Positive,60.7
+961,Podcast_1,Episode 31,47.6,Health,54.5,Sunday,Morning,65.7,5,Positive,54.3
+962,Podcast_26,Episode 6,25.0,Music,61.1,Wednesday,Morning,56.4,5,Negative,11.4
+963,Podcast_11,Episode 19,42.8,Lifestyle,40.3,Monday,Morning,37.8,3,Neutral,26.9
+964,Podcast_20,Episode 42,44.3,Business,55.6,Sunday,Evening,33.8,3,Neutral,42.2
+965,Podcast_15,Episode 10,17.7,Education,23.0,Friday,Night,53.1,3,Positive,15.6
+966,Podcast_9,Episode 4,39.9,Business,83.2,Thursday,Afternoon,39.8,2,Positive,31.4
+967,Podcast_48,Episode 66,30.2,True Crime,41.4,Saturday,Morning,22.3,1,Negative,18.8
+968,Podcast_13,Episode 83,63.5,News,95.6,Sunday,Afternoon,41.7,2,Neutral,57.6
+969,Podcast_26,Episode 24,45.7,Health,54.4,Monday,Evening,,4,Positive,41.7
+970,Podcast_42,Episode 53,39.3,Music,75.6,Sunday,Night,45.5,3,Negative,24.4
+971,Podcast_19,Episode 58,42.9,Comedy,53.9,Friday,Evening,14.7,4,Neutral,14.1
+972,Podcast_47,Episode 67,49.5,Technology,54.4,Friday,Afternoon,,3,Positive,43.5
+973,Podcast_21,Episode 98,57.3,Technology,43.3,Sunday,Evening,0.0,0,Positive,55.9
+974,Podcast_48,Episode 89,25.0,News,57.4,Wednesday,Morning,38.8,3,Neutral,10.2
+975,Podcast_23,Episode 32,24.2,Technology,61.4,Saturday,Afternoon,,5,Positive,22.3
+976,Podcast_1,Episode 98,67.1,Technology,39.3,Thursday,Evening,53.7,3,Neutral,38.6
+977,Podcast_44,Episode 4,36.8,Comedy,52.5,Sunday,Morning,64.0,3,Neutral,22.2
+978,Podcast_44,Episode 97,16.7,True Crime,42.8,Thursday,Morning,78.2,1,Positive,30.0
+979,Podcast_49,Episode 15,53.9,Sports,100.0,Saturday,Night,32.2,4,Negative,37.6
+980,Podcast_7,Episode 12,54.3,Technology,53.2,Thursday,Morning,64.7,2,Positive,50.9
+981,Podcast_43,Episode 12,14.4,True Crime,85.9,Wednesday,Morning,54.9,1,Positive,23.6
+982,Podcast_18,Episode 13,49.6,Lifestyle,51.1,Wednesday,Evening,7.2,2,Neutral,18.7
+983,Podcast_43,Episode 47,59.7,Technology,60.2,Sunday,Afternoon,97.5,0,Neutral,51.8
+984,Podcast_49,Episode 65,52.5,Lifestyle,28.6,Saturday,Night,14.0,5,Positive,29.2
+985,Podcast_10,Episode 75,57.6,Health,46.1,Tuesday,Night,,4,Neutral,51.0
+986,Podcast_19,Episode 2,16.9,Sports,59.2,Sunday,Night,59.7,1,Negative,30.2
+987,Podcast_14,Episode 30,51.6,True Crime,86.7,Friday,Afternoon,56.9,4,Negative,48.7
+988,Podcast_16,Episode 14,38.9,True Crime,59.4,Monday,Night,37.6,0,Negative,19.8
+989,Podcast_30,Episode 15,35.3,True Crime,82.7,Saturday,Afternoon,,2,Positive,46.4
+990,Podcast_21,Episode 75,62.4,Technology,67.8,Tuesday,Morning,11.0,3,Positive,54.9
+991,Podcast_33,Episode 65,74.6,True Crime,87.5,Sunday,Night,48.4,0,Neutral,64.1
+992,Podcast_34,Episode 21,80.9,Music,53.8,Thursday,Evening,35.9,4,Positive,53.4
+993,Podcast_11,Episode 31,71.3,Comedy,100.0,Sunday,Morning,33.1,4,Neutral,59.9
+994,Podcast_3,Episode 93,42.8,Health,45.3,Thursday,Night,,3,Positive,37.8
+995,Podcast_38,Episode 58,52.1,Business,39.7,Monday,Morning,,1,Positive,48.0
+996,Podcast_10,Episode 24,60.3,Technology,30.8,Saturday,Evening,41.4,4,Positive,29.6
+997,Podcast_10,Episode 94,47.4,Technology,100.0,Saturday,Afternoon,69.5,2,Positive,56.2
+998,Podcast_31,Episode 20,47.6,Health,71.4,Wednesday,Morning,51.2,4,Positive,39.7
+999,Podcast_14,Episode 30,61.5,News,48.3,Tuesday,Night,27.7,3,Neutral,41.6
+1000,Podcast_10,Episode 70,43.8,Lifestyle,80.0,Sunday,Evening,43.6,0,Neutral,41.5
+1001,Podcast_16,Episode 52,30.4,Technology,68.8,Saturday,Night,42.5,0,Positive,39.9
+1002,Podcast_27,Episode 7,36.7,Technology,94.3,Wednesday,Evening,32.6,0,Positive,44.6
+1003,Podcast_43,Episode 81,57.7,True Crime,24.0,Friday,Night,60.7,0,Negative,40.5
+1004,Podcast_50,Episode 23,45.1,True Crime,49.7,Tuesday,Night,55.9,1,Positive,41.3
+1005,Podcast_37,Episode 70,51.8,Technology,45.7,Tuesday,Night,10.2,0,Neutral,24.5
+1006,Podcast_45,Episode 34,58.4,Business,15.5,Friday,Evening,8.7,5,Neutral,30.7
+1007,Podcast_27,Episode 76,37.5,True Crime,76.2,Saturday,Morning,,5,Neutral,21.4
+1008,Podcast_21,Episode 90,60.1,Health,49.6,Sunday,Afternoon,29.6,1,Negative,24.5
+1009,Podcast_41,Episode 78,52.6,News,69.8,Thursday,Evening,57.6,1,Neutral,34.0
+1010,Podcast_16,Episode 93,20.3,Comedy,100.0,Tuesday,Morning,69.5,4,Negative,20.8
+1011,Podcast_41,Episode 54,73.8,Comedy,47.9,Thursday,Morning,18.2,3,Negative,37.1
+1012,Podcast_50,Episode 7,35.0,Comedy,46.6,Friday,Afternoon,14.7,3,Positive,12.9
+1013,Podcast_20,Episode 54,11.9,Music,57.4,Sunday,Night,,5,Positive,18.4
+1014,Podcast_32,Episode 47,24.1,News,74.7,Monday,Afternoon,58.8,3,Positive,41.1
+1015,Podcast_40,Episode 72,24.6,True Crime,43.7,Friday,Night,39.5,4,Positive,20.4
+1016,Podcast_40,Episode 25,46.0,Health,42.4,Thursday,Night,26.7,3,Neutral,27.1
+1017,Podcast_11,Episode 70,39.5,Comedy,76.1,Friday,Afternoon,37.2,3,Positive,47.1
+1018,Podcast_49,Episode 45,38.3,Business,62.6,Monday,Morning,20.2,1,Positive,44.6
+1019,Podcast_26,Episode 68,57.4,Health,14.1,Monday,Night,72.1,3,Positive,50.2
+1020,Podcast_3,Episode 42,51.8,Sports,30.5,Friday,Night,30.6,5,Neutral,4.3
+1021,Podcast_6,Episode 39,51.3,Technology,85.0,Tuesday,Evening,77.3,2,Neutral,57.4
+1022,Podcast_37,Episode 22,53.2,Comedy,63.0,Friday,Night,40.0,0,Negative,41.0
+1023,Podcast_22,Episode 83,57.3,Sports,39.8,Monday,Morning,23.9,3,Positive,61.7
+1024,Podcast_6,Episode 7,5.0,True Crime,51.6,Saturday,Afternoon,,4,Positive,8.2
+1025,Podcast_27,Episode 24,37.7,Comedy,55.3,Wednesday,Evening,0.0,5,Negative,1.0
+1026,Podcast_30,Episode 43,5.0,Health,69.7,Thursday,Morning,47.0,3,Neutral,11.6
+1027,Podcast_4,Episode 16,45.7,Education,27.8,Wednesday,Night,45.7,4,Neutral,23.6
+1028,Podcast_18,Episode 92,44.9,Lifestyle,38.2,Wednesday,Evening,70.6,1,Neutral,39.5
+1029,Podcast_24,Episode 35,65.9,Lifestyle,60.5,Thursday,Afternoon,2.8,2,Positive,58.5
+1030,Podcast_40,Episode 25,68.8,Health,53.0,Friday,Morning,79.0,2,Negative,41.8
+1031,Podcast_33,Episode 26,49.1,Technology,66.4,Friday,Morning,70.5,1,Neutral,38.9
+1032,Podcast_5,Episode 20,35.0,Sports,30.4,Sunday,Evening,81.3,4,Neutral,27.3
+1033,Podcast_31,Episode 67,54.7,News,62.1,Tuesday,Night,48.7,5,Neutral,32.3
+1034,Podcast_46,Episode 49,34.4,Music,76.8,Sunday,Morning,75.3,1,Positive,40.0
+1035,Podcast_3,Episode 24,45.0,Business,64.7,Friday,Afternoon,13.2,0,Positive,51.8
+1036,Podcast_50,Episode 88,64.7,True Crime,57.8,Wednesday,Evening,67.8,4,Neutral,52.6
+1037,Podcast_5,Episode 66,33.8,Lifestyle,53.1,Sunday,Afternoon,30.7,5,Neutral,28.7
+1038,Podcast_32,Episode 41,61.1,Health,38.3,Friday,Evening,8.7,5,Positive,37.7
+1039,Podcast_18,Episode 52,58.5,True Crime,53.6,Tuesday,Evening,21.9,1,Positive,31.1
+1040,Podcast_37,Episode 66,25.9,Technology,80.2,Tuesday,Night,50.1,4,Negative,15.9
+1041,Podcast_43,Episode 16,64.5,Business,52.6,Friday,Evening,,4,Positive,40.4
+1042,Podcast_43,Episode 81,59.0,News,37.2,Saturday,Evening,59.4,4,Positive,42.5
+1043,Podcast_44,Episode 26,47.0,Technology,45.2,Monday,Afternoon,4.8,4,Neutral,20.5
+1044,Podcast_41,Episode 3,29.8,Technology,59.0,Friday,Morning,0.0,5,Negative,10.1
+1045,Podcast_16,Episode 53,27.8,Business,47.5,Thursday,Morning,,2,Neutral,17.3
+1046,Podcast_24,Episode 88,34.2,Lifestyle,64.7,Sunday,Morning,72.6,0,Negative,18.1
+1047,Podcast_36,Episode 74,55.9,News,65.5,Saturday,Night,23.8,1,Positive,58.4
+1048,Podcast_9,Episode 31,25.9,News,72.8,Sunday,Morning,,5,Negative,6.4
+1049,Podcast_29,Episode 40,53.8,Business,83.5,Monday,Afternoon,75.5,5,Negative,33.1
+1050,Podcast_27,Episode 60,20.2,Technology,74.9,Saturday,Evening,60.5,0,Neutral,34.8
+1051,Podcast_50,Episode 24,40.9,Comedy,36.3,Wednesday,Evening,53.7,2,Neutral,36.0
+1052,Podcast_3,Episode 83,47.2,Business,36.9,Thursday,Morning,,1,Positive,50.2
+1053,Podcast_5,Episode 30,93.9,Health,53.5,Sunday,Night,,1,Positive,70.8
+1054,Podcast_2,Episode 22,17.5,Comedy,46.0,Sunday,Afternoon,50.8,3,Positive,29.0
+1055,Podcast_28,Episode 10,74.4,News,32.2,Tuesday,Morning,49.6,3,Positive,63.3
+1056,Podcast_28,Episode 70,48.0,Technology,46.2,Tuesday,Morning,43.2,2,Negative,30.6
+1057,Podcast_30,Episode 3,53.2,Business,45.5,Saturday,Night,40.3,2,Positive,29.0
+1058,Podcast_13,Episode 81,47.4,Business,41.6,Sunday,Night,51.8,3,Neutral,26.8
+1059,Podcast_16,Episode 98,53.9,Sports,48.7,Friday,Night,50.9,4,Positive,47.4
+1060,Podcast_21,Episode 12,41.9,Comedy,78.6,Monday,Afternoon,23.8,0,Positive,39.7
+1061,Podcast_3,Episode 10,74.1,Music,59.0,Tuesday,Night,70.0,0,Positive,76.2
+1062,Podcast_38,Episode 94,35.9,News,100.0,Saturday,Afternoon,25.6,2,Positive,40.7
+1063,Podcast_3,Episode 13,67.6,Lifestyle,58.4,Saturday,Morning,44.5,2,Neutral,46.6
+1064,Podcast_34,Episode 41,32.1,Music,49.2,Sunday,Night,42.6,5,Negative,22.4
+1065,Podcast_23,Episode 88,43.8,Education,55.1,Thursday,Afternoon,59.0,5,Positive,34.6
+1066,Podcast_50,Episode 14,23.6,Sports,60.1,Wednesday,Evening,0.0,3,Negative,12.0
+1067,Podcast_35,Episode 67,54.1,Business,63.7,Monday,Evening,72.3,0,Neutral,52.3
+1068,Podcast_24,Episode 39,73.9,Sports,96.5,Saturday,Morning,,0,Neutral,46.0
+1069,Podcast_36,Episode 44,43.5,Comedy,38.1,Sunday,Night,80.5,2,Positive,38.2
+1070,Podcast_6,Episode 94,41.1,Comedy,72.2,Monday,Morning,38.0,3,Positive,45.7
+1071,Podcast_10,Episode 65,22.7,Lifestyle,59.2,Thursday,Night,48.8,3,Negative,14.4
+1072,Podcast_25,Episode 32,40.4,Sports,23.6,Wednesday,Afternoon,,0,Neutral,45.3
+1073,Podcast_43,Episode 94,13.1,Business,70.4,Saturday,Afternoon,43.1,5,Positive,7.6
+1074,Podcast_42,Episode 59,26.7,True Crime,80.4,Saturday,Afternoon,81.0,2,Negative,10.1
+1075,Podcast_19,Episode 10,49.5,Education,37.9,Tuesday,Evening,51.0,3,Positive,45.8
+1076,Podcast_15,Episode 40,71.4,True Crime,54.8,Sunday,Morning,,0,Neutral,59.2
+1077,Podcast_49,Episode 25,101.2,Education,20.5,Monday,Morning,51.7,4,Positive,62.1
+1078,Podcast_29,Episode 65,33.3,Business,29.8,Saturday,Evening,71.2,3,Negative,20.3
+1079,Podcast_6,Episode 87,73.7,Sports,76.0,Saturday,Evening,32.9,1,Positive,66.7
+1080,Podcast_12,Episode 4,49.9,True Crime,45.7,Tuesday,Night,,1,Positive,36.0
+1081,Podcast_42,Episode 79,42.0,Music,32.8,Friday,Night,34.0,2,Neutral,21.5
+1082,Podcast_45,Episode 92,53.7,Comedy,59.6,Tuesday,Night,52.5,0,Positive,52.2
+1083,Podcast_46,Episode 100,46.2,Music,44.6,Tuesday,Night,44.5,5,Negative,27.9
+1084,Podcast_1,Episode 67,47.2,Business,45.6,Monday,Night,67.8,4,Neutral,21.7
+1085,Podcast_42,Episode 32,36.8,Health,69.8,Saturday,Afternoon,,5,Positive,34.8
+1086,Podcast_6,Episode 15,17.0,True Crime,31.8,Saturday,Night,,2,Positive,18.6
+1087,Podcast_41,Episode 95,14.1,True Crime,36.9,Thursday,Night,31.7,3,Negative,7.8
+1088,Podcast_45,Episode 42,58.1,True Crime,58.1,Saturday,Evening,14.1,2,Neutral,38.1
+1089,Podcast_19,Episode 35,39.5,Lifestyle,74.4,Wednesday,Morning,,2,Negative,26.9
+1090,Podcast_10,Episode 74,33.1,Comedy,79.8,Thursday,Morning,57.6,3,Positive,47.4
+1091,Podcast_36,Episode 72,45.2,Business,41.7,Saturday,Afternoon,62.0,2,Negative,22.1
+1092,Podcast_4,Episode 81,60.9,Lifestyle,73.7,Thursday,Evening,16.5,4,Neutral,36.3
+1093,Podcast_29,Episode 89,48.6,Health,39.3,Friday,Evening,50.0,0,Neutral,23.9
+1094,Podcast_17,Episode 88,31.9,Business,91.5,Tuesday,Night,62.7,1,Positive,36.8
+1095,Podcast_22,Episode 18,69.5,Health,32.3,Thursday,Evening,43.7,5,Positive,49.7
+1096,Podcast_42,Episode 17,76.6,Health,81.6,Saturday,Evening,76.9,5,Negative,48.1
+1097,Podcast_50,Episode 21,54.9,Business,41.9,Saturday,Night,100.0,4,Negative,36.1
+1098,Podcast_21,Episode 63,64.5,Lifestyle,95.3,Wednesday,Night,26.3,2,Positive,60.7
+1099,Podcast_15,Episode 59,69.8,Sports,66.8,Thursday,Evening,24.4,2,Negative,57.5
+1100,Podcast_42,Episode 86,67.6,Music,34.7,Friday,Evening,,0,Positive,46.6
+1101,Podcast_21,Episode 85,57.3,Health,44.6,Sunday,Morning,90.2,1,Positive,38.6
+1102,Podcast_10,Episode 82,57.0,Sports,70.6,Saturday,Evening,76.1,4,Positive,40.4
+1103,Podcast_46,Episode 8,55.4,Music,76.1,Saturday,Morning,46.6,2,Positive,44.4
+1104,Podcast_50,Episode 70,23.1,News,53.6,Saturday,Afternoon,50.9,2,Positive,21.4
+1105,Podcast_15,Episode 86,59.0,Music,55.9,Wednesday,Evening,,0,Positive,52.0
+1106,Podcast_8,Episode 99,17.9,Business,70.2,Wednesday,Morning,72.3,2,Positive,40.6
+1107,Podcast_8,Episode 35,29.1,Education,57.6,Thursday,Evening,40.5,4,Neutral,33.0
+1108,Podcast_30,Episode 78,71.1,Sports,29.1,Wednesday,Afternoon,43.5,3,Negative,39.6
+1109,Podcast_16,Episode 41,61.8,Technology,38.7,Sunday,Evening,65.2,3,Neutral,56.8
+1110,Podcast_32,Episode 17,74.7,Business,59.7,Sunday,Afternoon,45.3,5,Positive,49.8
+1111,Podcast_38,Episode 34,39.6,Health,79.3,Sunday,Afternoon,44.1,1,Neutral,22.3
+1112,Podcast_1,Episode 26,22.0,Music,87.3,Friday,Afternoon,50.3,1,Positive,43.8
+1113,Podcast_43,Episode 92,40.2,Business,70.6,Tuesday,Morning,69.9,3,Neutral,18.2
+1114,Podcast_2,Episode 18,47.0,Health,60.7,Tuesday,Morning,91.2,2,Neutral,32.6
+1115,Podcast_6,Episode 14,46.6,Health,70.0,Tuesday,Night,64.6,5,Positive,44.4
+1116,Podcast_37,Episode 58,67.7,Health,41.7,Friday,Morning,70.1,0,Positive,56.3
+1117,Podcast_32,Episode 58,37.8,Music,51.9,Wednesday,Afternoon,45.0,0,Negative,24.6
+1118,Podcast_49,Episode 57,52.0,Sports,38.5,Friday,Morning,32.3,2,Negative,17.9
+1119,Podcast_29,Episode 15,25.2,Comedy,30.0,Sunday,Evening,66.3,2,Neutral,20.0
+1120,Podcast_21,Episode 50,54.0,Health,61.7,Wednesday,Evening,54.3,5,Negative,36.3
+1121,Podcast_34,Episode 93,45.1,News,58.7,Sunday,Afternoon,14.4,2,Negative,25.3
+1122,Podcast_39,Episode 9,30.0,Technology,68.8,Thursday,Night,41.8,2,Positive,27.9
+1123,Podcast_34,Episode 80,40.3,Music,65.9,Saturday,Afternoon,47.9,1,Neutral,24.1
+1124,Podcast_19,Episode 13,41.3,Music,59.9,Monday,Evening,37.2,2,Positive,32.6
+1125,Podcast_48,Episode 24,39.6,Lifestyle,66.1,Tuesday,Afternoon,87.0,3,Neutral,36.4
+1126,Podcast_16,Episode 90,80.4,True Crime,54.1,Sunday,Evening,,3,Positive,62.7
+1127,Podcast_18,Episode 30,43.0,Education,63.3,Sunday,Morning,84.3,3,Negative,22.1
+1128,Podcast_14,Episode 53,40.1,Sports,40.5,Thursday,Afternoon,56.6,2,Neutral,11.4
+1129,Podcast_15,Episode 39,5.0,Technology,62.4,Monday,Evening,,0,Positive,27.6
+1130,Podcast_11,Episode 62,27.1,Comedy,68.4,Monday,Night,26.6,0,Positive,28.1
+1131,Podcast_30,Episode 41,39.7,Education,41.6,Wednesday,Afternoon,50.3,0,Positive,45.6
+1132,Podcast_37,Episode 45,31.3,Business,56.0,Sunday,Afternoon,50.3,3,Neutral,18.2
+1133,Podcast_22,Episode 82,72.6,Education,42.5,Wednesday,Afternoon,15.8,5,Negative,24.7
+1134,Podcast_47,Episode 56,41.7,News,44.5,Sunday,Afternoon,,5,Positive,32.8
+1135,Podcast_24,Episode 57,70.8,Health,32.5,Thursday,Night,,1,Neutral,64.2
+1136,Podcast_24,Episode 81,46.2,Lifestyle,80.3,Monday,Evening,60.3,0,Neutral,48.3
+1137,Podcast_4,Episode 43,45.7,News,76.3,Thursday,Afternoon,61.5,3,Positive,45.2
+1138,Podcast_46,Episode 83,43.2,Education,65.7,Wednesday,Afternoon,35.5,0,Neutral,39.3
+1139,Podcast_8,Episode 72,45.1,True Crime,94.4,Tuesday,Evening,61.7,3,Positive,32.5
+1140,Podcast_9,Episode 89,79.4,News,51.2,Friday,Evening,,2,Positive,50.4
+1141,Podcast_47,Episode 46,5.0,Business,100.0,Tuesday,Afternoon,0.0,5,Positive,1.0
+1142,Podcast_26,Episode 56,5.0,True Crime,50.4,Sunday,Night,37.9,3,Negative,15.8
+1143,Podcast_4,Episode 13,34.1,Business,60.1,Saturday,Afternoon,77.0,4,Positive,47.0
+1144,Podcast_23,Episode 12,45.3,Comedy,47.0,Saturday,Afternoon,8.0,2,Positive,40.1
+1145,Podcast_30,Episode 11,58.8,Business,62.4,Monday,Morning,,5,Neutral,38.0
+1146,Podcast_1,Episode 64,54.5,Technology,71.7,Sunday,Afternoon,89.6,3,Negative,24.1
+1147,Podcast_38,Episode 33,37.3,True Crime,52.7,Thursday,Night,31.0,3,Neutral,23.8
+1148,Podcast_34,Episode 29,65.4,Music,90.5,Saturday,Night,50.1,2,Positive,72.3
+1149,Podcast_1,Episode 61,65.6,True Crime,59.8,Tuesday,Afternoon,17.4,2,Neutral,43.9
+1150,Podcast_31,Episode 40,48.7,Business,60.4,Saturday,Morning,,5,Positive,37.6
+1151,Podcast_12,Episode 14,64.3,True Crime,36.8,Wednesday,Evening,47.9,2,Neutral,27.0
+1152,Podcast_37,Episode 56,50.5,Lifestyle,63.4,Friday,Evening,51.2,0,Positive,60.4
+1153,Podcast_19,Episode 56,33.8,Lifestyle,52.3,Tuesday,Night,83.9,2,Positive,37.0
+1154,Podcast_11,Episode 14,59.0,Lifestyle,42.8,Sunday,Evening,,2,Positive,34.5
+1155,Podcast_26,Episode 27,47.2,True Crime,39.5,Friday,Morning,,2,Neutral,23.1
+1156,Podcast_23,Episode 24,45.0,True Crime,100.0,Thursday,Night,33.8,0,Positive,40.2
+1157,Podcast_18,Episode 70,74.5,Business,49.7,Thursday,Evening,62.4,0,Positive,60.3
+1158,Podcast_44,Episode 25,5.0,Music,25.9,Monday,Night,34.4,1,Neutral,9.2
+1159,Podcast_33,Episode 3,16.6,Health,41.0,Wednesday,Morning,,2,Neutral,7.7
+1160,Podcast_25,Episode 27,21.3,Sports,54.0,Saturday,Afternoon,48.7,0,Positive,37.9
+1161,Podcast_12,Episode 47,37.7,Music,65.9,Saturday,Afternoon,13.0,2,Neutral,28.7
+1162,Podcast_29,Episode 77,39.9,Sports,66.1,Sunday,Afternoon,90.4,1,Neutral,45.8
+1163,Podcast_2,Episode 6,14.9,True Crime,68.5,Monday,Night,54.4,0,Positive,27.9
+1164,Podcast_45,Episode 89,25.3,News,42.1,Tuesday,Morning,27.4,1,Negative,39.0
+1165,Podcast_1,Episode 34,27.8,Education,61.8,Saturday,Morning,32.5,1,Negative,14.8
+1166,Podcast_35,Episode 35,94.1,Health,37.5,Wednesday,Morning,2.8,0,Positive,58.4
+1167,Podcast_18,Episode 2,81.0,Music,42.6,Tuesday,Night,,4,Positive,45.4
+1168,Podcast_36,Episode 28,36.8,True Crime,36.6,Tuesday,Morning,75.4,0,Positive,38.1
+1169,Podcast_19,Episode 47,37.7,Technology,31.2,Sunday,Evening,,3,Positive,22.3
+1170,Podcast_2,Episode 63,22.0,True Crime,76.3,Sunday,Morning,68.2,3,Neutral,26.0
+1171,Podcast_48,Episode 77,6.8,Health,68.8,Monday,Afternoon,,4,Negative,1.0
+1172,Podcast_39,Episode 53,42.7,News,74.5,Saturday,Evening,39.2,3,Negative,27.7
+1173,Podcast_3,Episode 11,25.0,True Crime,55.8,Thursday,Morning,,3,Positive,16.0
+1174,Podcast_2,Episode 40,43.3,News,70.5,Saturday,Morning,100.0,4,Positive,40.1
+1175,Podcast_27,Episode 74,13.0,Lifestyle,19.8,Friday,Evening,45.3,5,Positive,17.6
+1176,Podcast_48,Episode 64,29.8,Health,72.3,Friday,Morning,100.0,1,Neutral,51.8
+1177,Podcast_29,Episode 59,48.0,Sports,58.5,Friday,Afternoon,84.8,4,Positive,34.1
+1178,Podcast_1,Episode 51,52.3,Health,67.5,Saturday,Evening,6.5,2,Negative,28.6
+1179,Podcast_35,Episode 51,53.3,Comedy,62.6,Saturday,Morning,33.4,0,Negative,29.6
+1180,Podcast_22,Episode 100,18.6,News,35.3,Thursday,Morning,33.3,3,Positive,13.8
+1181,Podcast_32,Episode 60,62.1,Music,25.0,Monday,Afternoon,48.0,5,Neutral,27.0
+1182,Podcast_18,Episode 60,29.0,Health,40.8,Monday,Evening,48.5,0,Neutral,32.5
+1183,Podcast_1,Episode 34,57.7,Sports,66.3,Wednesday,Morning,100.0,0,Negative,39.8
+1184,Podcast_1,Episode 50,44.8,Sports,68.8,Thursday,Afternoon,23.1,5,Neutral,45.8
+1185,Podcast_32,Episode 72,17.5,Health,27.6,Sunday,Night,55.7,3,Positive,24.1
+1186,Podcast_32,Episode 86,38.7,Health,35.4,Monday,Afternoon,65.4,1,Neutral,21.9
+1187,Podcast_17,Episode 78,52.3,News,40.5,Sunday,Afternoon,50.0,4,Positive,36.7
+1188,Podcast_5,Episode 67,57.3,News,47.9,Monday,Evening,52.8,2,Neutral,32.9
+1189,Podcast_39,Episode 78,42.2,Technology,27.8,Thursday,Afternoon,23.9,1,Positive,41.9
+1190,Podcast_8,Episode 4,75.6,News,26.6,Wednesday,Afternoon,52.7,1,Neutral,34.9
+1191,Podcast_10,Episode 27,65.2,Business,38.6,Thursday,Night,,3,Negative,24.5
+1192,Podcast_23,Episode 25,39.9,Lifestyle,56.7,Monday,Morning,58.2,0,Positive,38.4
+1193,Podcast_36,Episode 66,60.0,Education,31.4,Saturday,Evening,64.3,2,Positive,52.7
+1194,Podcast_50,Episode 76,83.7,Business,52.7,Monday,Afternoon,85.3,1,Neutral,68.8
+1195,Podcast_32,Episode 15,84.2,Music,76.2,Saturday,Night,73.4,0,Positive,82.7
+1196,Podcast_49,Episode 20,20.4,Business,29.0,Thursday,Evening,51.8,4,Neutral,16.8
+1197,Podcast_33,Episode 50,26.5,News,50.9,Sunday,Night,20.7,0,Neutral,23.2
+1198,Podcast_43,Episode 97,74.7,News,75.5,Sunday,Morning,35.0,5,Positive,60.6
+1199,Podcast_9,Episode 1,23.8,Business,46.6,Saturday,Morning,,0,Negative,8.5
+1200,Podcast_3,Episode 88,18.5,News,43.5,Thursday,Night,56.3,2,Neutral,2.9
+1201,Podcast_34,Episode 20,35.3,News,78.3,Wednesday,Afternoon,38.0,0,Neutral,37.7
+1202,Podcast_49,Episode 27,53.4,Health,48.9,Friday,Night,,2,Positive,35.2
+1203,Podcast_37,Episode 64,43.0,Business,77.1,Friday,Evening,20.3,3,Positive,38.9
+1204,Podcast_18,Episode 73,32.0,News,63.6,Saturday,Afternoon,8.7,0,Positive,36.8
+1205,Podcast_25,Episode 88,31.5,Comedy,48.1,Thursday,Morning,,3,Negative,18.7
+1206,Podcast_6,Episode 1,30.8,Sports,64.6,Thursday,Morning,13.3,4,Negative,22.0
+1207,Podcast_18,Episode 5,27.4,True Crime,61.4,Monday,Evening,25.0,2,Negative,23.3
+1208,Podcast_35,Episode 48,90.6,Business,75.4,Tuesday,Morning,40.2,0,Positive,73.9
+1209,Podcast_9,Episode 56,51.0,Technology,44.0,Saturday,Morning,16.6,4,Neutral,25.2
+1210,Podcast_25,Episode 27,62.7,True Crime,55.8,Sunday,Morning,59.5,1,Neutral,46.7
+1211,Podcast_15,Episode 64,35.2,Business,53.8,Friday,Night,68.5,0,Neutral,28.1
+1212,Podcast_25,Episode 27,41.3,Technology,69.1,Wednesday,Evening,36.3,2,Positive,38.8
+1213,Podcast_39,Episode 94,30.7,True Crime,34.5,Monday,Evening,39.1,1,Negative,38.3
+1214,Podcast_45,Episode 18,5.0,Sports,75.3,Monday,Evening,63.4,0,Positive,28.6
+1215,Podcast_21,Episode 66,17.4,Sports,64.3,Friday,Evening,32.2,4,Positive,26.2
+1216,Podcast_42,Episode 54,8.8,True Crime,28.7,Friday,Afternoon,30.4,3,Negative,1.0
+1217,Podcast_36,Episode 11,5.0,Technology,79.2,Tuesday,Afternoon,79.9,5,Neutral,20.2
+1218,Podcast_47,Episode 61,21.1,Comedy,99.7,Tuesday,Evening,,2,Positive,42.8
+1219,Podcast_38,Episode 15,71.5,Health,75.0,Monday,Night,65.0,2,Neutral,58.3
+1220,Podcast_28,Episode 54,44.1,Business,83.5,Friday,Night,73.1,5,Negative,29.4
+1221,Podcast_34,Episode 64,70.8,Health,56.7,Friday,Evening,0.6,0,Positive,63.8
+1222,Podcast_16,Episode 8,53.2,Education,21.8,Wednesday,Night,,2,Neutral,45.8
+1223,Podcast_34,Episode 22,60.7,Comedy,18.1,Saturday,Night,59.8,4,Positive,43.9
+1224,Podcast_36,Episode 30,27.0,News,60.1,Saturday,Evening,,1,Positive,35.2
+1225,Podcast_31,Episode 93,55.5,Comedy,43.2,Thursday,Night,59.7,5,Positive,47.9
+1226,Podcast_6,Episode 23,59.6,Education,36.7,Tuesday,Morning,51.2,1,Neutral,33.3
+1227,Podcast_26,Episode 93,33.5,True Crime,53.7,Monday,Morning,43.1,2,Positive,28.6
+1228,Podcast_36,Episode 54,56.2,Comedy,67.3,Saturday,Afternoon,59.2,5,Positive,44.3
+1229,Podcast_10,Episode 95,56.3,Business,25.9,Friday,Morning,,1,Neutral,22.5
+1230,Podcast_40,Episode 84,34.0,True Crime,46.0,Wednesday,Afternoon,71.7,5,Neutral,29.0
+1231,Podcast_43,Episode 30,22.5,Lifestyle,85.2,Monday,Morning,10.3,0,Neutral,18.3
+1232,Podcast_27,Episode 56,21.3,Education,33.5,Saturday,Night,36.5,1,Negative,8.1
+1233,Podcast_49,Episode 72,46.7,Comedy,72.4,Sunday,Evening,,3,Positive,45.5
+1234,Podcast_43,Episode 8,51.5,Sports,45.3,Thursday,Morning,34.3,3,Positive,40.8
+1235,Podcast_24,Episode 67,29.1,Sports,65.9,Tuesday,Evening,44.0,5,Neutral,17.7
+1236,Podcast_45,Episode 46,45.5,Lifestyle,76.9,Friday,Evening,27.9,5,Neutral,29.3
+1237,Podcast_47,Episode 4,56.4,Business,69.8,Sunday,Afternoon,58.4,4,Positive,46.5
+1238,Podcast_6,Episode 87,57.4,True Crime,73.2,Friday,Night,31.6,3,Positive,44.1
+1239,Podcast_50,Episode 27,76.0,Business,32.0,Monday,Night,45.4,1,Positive,50.3
+1240,Podcast_1,Episode 88,70.5,Sports,77.3,Tuesday,Night,71.2,4,Positive,65.5
+1241,Podcast_25,Episode 21,25.0,Health,37.9,Monday,Morning,32.5,3,Negative,1.0
+1242,Podcast_47,Episode 55,78.7,Sports,60.2,Wednesday,Afternoon,69.7,0,Neutral,56.2
+1243,Podcast_37,Episode 38,34.4,Lifestyle,60.2,Thursday,Night,70.6,4,Positive,30.6
+1244,Podcast_14,Episode 90,65.9,Sports,64.7,Thursday,Afternoon,,2,Neutral,51.8
+1245,Podcast_33,Episode 96,46.4,Health,61.7,Saturday,Afternoon,53.5,2,Neutral,23.8
+1246,Podcast_11,Episode 78,36.8,Education,38.1,Monday,Afternoon,,2,Positive,34.3
+1247,Podcast_12,Episode 85,8.8,Music,28.0,Sunday,Afternoon,76.4,4,Positive,15.2
+1248,Podcast_46,Episode 77,41.6,Music,72.4,Tuesday,Evening,58.1,1,Neutral,45.1
+1249,Podcast_3,Episode 30,13.8,News,58.7,Thursday,Morning,28.1,2,Positive,25.7
+1250,Podcast_49,Episode 93,64.3,Comedy,78.0,Tuesday,Night,47.6,0,Neutral,41.4
+1251,Podcast_23,Episode 54,75.3,Music,54.1,Wednesday,Evening,85.7,2,Neutral,48.9
+1252,Podcast_4,Episode 35,29.1,News,26.9,Saturday,Morning,92.7,0,Neutral,34.5
+1253,Podcast_40,Episode 20,51.0,Lifestyle,74.3,Monday,Night,87.0,3,Negative,25.2
+1254,Podcast_3,Episode 71,30.5,Comedy,47.6,Thursday,Evening,69.6,5,Neutral,19.9
+1255,Podcast_17,Episode 28,32.4,Lifestyle,61.8,Friday,Afternoon,18.6,2,Neutral,24.9
+1256,Podcast_13,Episode 66,60.5,Business,42.1,Thursday,Afternoon,62.2,5,Positive,40.5
+1257,Podcast_40,Episode 7,44.2,True Crime,87.9,Wednesday,Evening,,5,Neutral,51.6
+1258,Podcast_20,Episode 64,79.8,Comedy,37.5,Wednesday,Morning,12.8,0,Negative,41.2
+1259,Podcast_33,Episode 65,35.4,Music,48.3,Sunday,Evening,,3,Negative,23.4
+1260,Podcast_4,Episode 53,65.0,Technology,57.1,Tuesday,Evening,63.1,3,Negative,31.8
+1261,Podcast_35,Episode 66,46.9,Comedy,33.2,Thursday,Afternoon,72.6,2,Positive,45.2
+1262,Podcast_36,Episode 100,60.9,Sports,61.6,Wednesday,Afternoon,62.4,4,Neutral,47.5
+1263,Podcast_15,Episode 84,36.1,Business,87.2,Saturday,Evening,63.3,2,Negative,23.7
+1264,Podcast_45,Episode 44,44.0,Technology,45.2,Saturday,Evening,25.4,0,Neutral,32.6
+1265,Podcast_24,Episode 88,42.7,True Crime,62.9,Saturday,Afternoon,,3,Neutral,24.1
+1266,Podcast_34,Episode 96,28.3,Business,0.0,Monday,Night,12.3,1,Neutral,5.6
+1267,Podcast_10,Episode 17,58.2,Business,54.2,Monday,Night,0.0,2,Neutral,44.9
+1268,Podcast_47,Episode 36,58.0,True Crime,48.7,Wednesday,Afternoon,68.5,3,Positive,42.9
+1269,Podcast_13,Episode 75,56.9,Education,38.6,Thursday,Evening,31.2,4,Positive,21.1
+1270,Podcast_32,Episode 52,75.7,Comedy,76.6,Monday,Night,71.8,1,Negative,65.2
+1271,Podcast_5,Episode 14,74.0,Comedy,48.5,Sunday,Morning,77.7,2,Negative,38.2
+1272,Podcast_3,Episode 48,37.5,Lifestyle,51.5,Sunday,Evening,,0,Negative,23.1
+1273,Podcast_7,Episode 38,52.5,News,47.5,Wednesday,Night,64.8,2,Positive,58.7
+1274,Podcast_48,Episode 74,32.5,Lifestyle,16.7,Saturday,Morning,33.5,3,Positive,24.5
+1275,Podcast_11,Episode 52,45.5,Comedy,32.4,Thursday,Afternoon,3.9,3,Positive,31.5
+1276,Podcast_44,Episode 14,33.0,Lifestyle,74.2,Friday,Night,53.1,1,Negative,15.9
+1277,Podcast_30,Episode 5,77.4,Education,12.8,Sunday,Night,38.2,0,Neutral,34.5
+1278,Podcast_5,Episode 29,52.3,Music,39.7,Monday,Night,39.0,3,Negative,25.1
+1279,Podcast_23,Episode 16,40.6,Music,47.0,Tuesday,Evening,99.4,3,Positive,42.9
+1280,Podcast_24,Episode 88,68.9,True Crime,89.9,Wednesday,Morning,11.9,0,Neutral,54.8
+1281,Podcast_14,Episode 28,5.0,Sports,70.4,Sunday,Morning,59.6,3,Neutral,8.8
+1282,Podcast_31,Episode 64,5.0,True Crime,43.9,Friday,Night,25.1,0,Positive,19.5
+1283,Podcast_44,Episode 13,60.9,Sports,81.1,Wednesday,Evening,72.7,2,Negative,27.2
+1284,Podcast_45,Episode 45,46.2,Lifestyle,40.2,Monday,Morning,57.5,3,Neutral,34.3
+1285,Podcast_27,Episode 94,50.0,Music,75.2,Friday,Morning,59.5,4,Positive,45.6
+1286,Podcast_45,Episode 65,18.5,Sports,27.8,Tuesday,Morning,26.4,4,Positive,33.0
+1287,Podcast_47,Episode 29,44.5,True Crime,76.5,Wednesday,Night,,4,Negative,25.3
+1288,Podcast_5,Episode 75,85.1,Technology,46.9,Sunday,Night,73.2,1,Neutral,50.3
+1289,Podcast_32,Episode 51,61.5,Health,34.4,Thursday,Night,94.3,5,Neutral,37.1
+1290,Podcast_39,Episode 24,48.4,Technology,50.7,Monday,Morning,62.0,2,Neutral,33.0
+1291,Podcast_1,Episode 100,36.2,Health,60.5,Monday,Evening,,2,Positive,39.1
+1292,Podcast_31,Episode 94,37.1,Music,45.1,Wednesday,Night,58.5,4,Neutral,24.9
+1293,Podcast_46,Episode 57,5.0,Technology,66.1,Monday,Evening,100.0,1,Negative,2.8
+1294,Podcast_14,Episode 4,50.2,Lifestyle,43.3,Thursday,Night,52.6,0,Positive,33.2
+1295,Podcast_43,Episode 42,61.9,Health,67.4,Wednesday,Evening,86.5,4,Neutral,46.0
+1296,Podcast_47,Episode 52,13.5,Comedy,63.8,Sunday,Morning,31.5,3,Positive,33.2
+1297,Podcast_32,Episode 93,31.8,Sports,53.8,Wednesday,Afternoon,48.9,3,Positive,32.7
+1298,Podcast_32,Episode 74,21.9,Comedy,46.2,Tuesday,Afternoon,65.5,0,Positive,38.7
+1299,Podcast_27,Episode 23,25.7,Business,58.0,Friday,Morning,,3,Negative,24.3
+1300,Podcast_21,Episode 52,46.1,Health,66.0,Friday,Evening,30.8,1,Positive,46.0
+1301,Podcast_23,Episode 18,5.0,Sports,96.2,Monday,Night,29.8,3,Positive,15.7
+1302,Podcast_27,Episode 48,57.3,True Crime,73.8,Monday,Morning,74.7,3,Neutral,44.7
+1303,Podcast_25,Episode 54,60.1,Technology,74.5,Tuesday,Afternoon,79.8,4,Positive,61.1
+1304,Podcast_42,Episode 51,40.0,True Crime,100.0,Saturday,Evening,,5,Neutral,39.3
+1305,Podcast_39,Episode 43,5.0,Sports,65.3,Tuesday,Afternoon,95.1,1,Negative,18.3
+1306,Podcast_18,Episode 44,25.1,Lifestyle,64.7,Sunday,Morning,53.4,0,Positive,32.1
+1307,Podcast_26,Episode 80,69.7,News,69.1,Thursday,Morning,42.2,3,Positive,53.0
+1308,Podcast_11,Episode 51,5.0,True Crime,34.8,Sunday,Morning,,5,Negative,1.0
+1309,Podcast_9,Episode 5,38.0,Music,46.1,Tuesday,Night,67.8,0,Positive,40.9
+1310,Podcast_19,Episode 75,21.4,True Crime,44.9,Wednesday,Afternoon,25.4,2,Positive,34.3
+1311,Podcast_3,Episode 62,61.1,News,68.0,Monday,Night,24.2,2,Negative,17.3
+1312,Podcast_43,Episode 70,31.5,Music,51.5,Saturday,Evening,62.3,1,Negative,22.5
+1313,Podcast_7,Episode 72,53.1,Education,57.8,Friday,Afternoon,45.6,3,Neutral,35.5
+1314,Podcast_17,Episode 18,56.3,Health,76.7,Monday,Night,49.3,1,Neutral,33.7
+1315,Podcast_13,Episode 98,81.7,Education,72.3,Saturday,Afternoon,,2,Negative,57.7
+1316,Podcast_11,Episode 100,40.9,Business,51.8,Sunday,Morning,69.0,5,Neutral,21.0
+1317,Podcast_19,Episode 15,52.5,News,41.6,Friday,Night,83.2,2,Neutral,35.3
+1318,Podcast_36,Episode 22,15.3,Sports,77.7,Saturday,Evening,1.7,0,Negative,29.0
+1319,Podcast_45,Episode 25,68.8,True Crime,70.5,Tuesday,Afternoon,56.3,5,Neutral,52.0
+1320,Podcast_10,Episode 97,29.8,Health,22.9,Thursday,Evening,67.4,1,Neutral,28.0
+1321,Podcast_12,Episode 94,33.8,Technology,48.7,Saturday,Night,11.8,4,Positive,30.7
+1322,Podcast_24,Episode 27,44.6,Comedy,58.3,Friday,Afternoon,33.6,4,Neutral,27.4
+1323,Podcast_16,Episode 64,13.7,Health,70.6,Friday,Night,,3,Neutral,31.1
+1324,Podcast_40,Episode 25,49.6,Technology,73.2,Saturday,Night,50.5,0,Positive,56.7
+1325,Podcast_12,Episode 4,64.3,Lifestyle,60.7,Friday,Night,90.7,5,Positive,44.8
+1326,Podcast_21,Episode 24,50.9,Lifestyle,66.7,Monday,Morning,100.0,4,Negative,21.6
+1327,Podcast_28,Episode 8,13.2,True Crime,56.3,Tuesday,Morning,29.6,2,Positive,27.0
+1328,Podcast_20,Episode 85,42.5,News,41.5,Saturday,Morning,63.2,5,Positive,33.2
+1329,Podcast_31,Episode 79,59.8,Health,49.8,Tuesday,Evening,64.0,4,Positive,34.9
+1330,Podcast_40,Episode 19,7.4,News,55.4,Friday,Afternoon,59.7,4,Positive,21.4
+1331,Podcast_27,Episode 57,23.5,Music,54.3,Thursday,Night,60.0,1,Neutral,21.9
+1332,Podcast_23,Episode 21,62.5,Technology,17.3,Friday,Morning,57.6,3,Positive,48.4
+1333,Podcast_48,Episode 57,50.4,Education,47.1,Tuesday,Afternoon,92.2,1,Positive,51.9
+1334,Podcast_50,Episode 90,53.2,Technology,56.1,Wednesday,Afternoon,77.6,0,Negative,33.0
+1335,Podcast_50,Episode 88,82.2,Music,49.4,Friday,Night,23.5,2,Positive,64.0
+1336,Podcast_1,Episode 84,54.4,Technology,50.1,Tuesday,Morning,69.9,0,Positive,47.0
+1337,Podcast_42,Episode 25,58.2,Education,64.8,Wednesday,Afternoon,72.3,0,Negative,38.0
+1338,Podcast_45,Episode 20,99.2,Music,33.4,Sunday,Night,57.9,4,Neutral,52.8
+1339,Podcast_41,Episode 17,40.7,Education,22.4,Tuesday,Night,78.3,3,Neutral,35.7
+1340,Podcast_38,Episode 13,29.0,Technology,48.0,Friday,Night,,2,Negative,15.7
+1341,Podcast_19,Episode 62,53.6,Technology,70.3,Tuesday,Evening,55.0,1,Negative,47.6
+1342,Podcast_37,Episode 66,53.8,Business,88.8,Friday,Morning,53.0,4,Positive,62.2
+1343,Podcast_29,Episode 89,34.5,Technology,70.6,Monday,Morning,0.0,3,Neutral,18.2
+1344,Podcast_42,Episode 10,24.4,True Crime,25.6,Friday,Afternoon,48.0,3,Neutral,1.0
+1345,Podcast_18,Episode 27,91.2,Business,50.4,Thursday,Afternoon,33.3,1,Positive,74.9
+1346,Podcast_38,Episode 73,51.5,True Crime,60.1,Friday,Evening,20.3,0,Negative,30.3
+1347,Podcast_40,Episode 69,30.4,Music,58.6,Monday,Morning,85.9,0,Positive,33.4
+1348,Podcast_42,Episode 43,63.3,Business,65.8,Thursday,Evening,62.6,0,Negative,39.0
+1349,Podcast_9,Episode 16,42.8,Technology,36.7,Thursday,Afternoon,49.3,5,Neutral,20.7
+1350,Podcast_44,Episode 49,39.9,Music,56.3,Tuesday,Morning,35.9,2,Neutral,40.1
+1351,Podcast_11,Episode 18,56.2,Lifestyle,63.4,Wednesday,Night,,3,Positive,48.9
+1352,Podcast_47,Episode 54,19.2,News,71.5,Friday,Afternoon,74.8,5,Negative,22.5
+1353,Podcast_2,Episode 91,52.1,True Crime,38.9,Thursday,Morning,29.3,5,Neutral,31.8
+1354,Podcast_12,Episode 20,83.3,True Crime,48.1,Friday,Afternoon,49.9,1,Positive,60.7
+1355,Podcast_31,Episode 12,54.3,Education,0.9,Sunday,Night,71.7,2,Positive,37.0
+1356,Podcast_28,Episode 74,37.5,Education,42.6,Wednesday,Night,1.6,2,Neutral,28.0
+1357,Podcast_35,Episode 3,34.9,Music,44.5,Sunday,Morning,,0,Positive,44.3
+1358,Podcast_21,Episode 99,36.8,Business,34.6,Sunday,Evening,39.3,4,Neutral,29.3
+1359,Podcast_1,Episode 78,39.9,Music,58.3,Friday,Evening,46.7,3,Neutral,26.9
+1360,Podcast_31,Episode 41,37.4,True Crime,53.9,Tuesday,Night,,2,Positive,37.5
+1361,Podcast_26,Episode 37,63.3,Health,9.8,Wednesday,Night,,3,Neutral,39.8
+1362,Podcast_26,Episode 39,10.3,Technology,59.3,Monday,Evening,98.1,4,Positive,20.2
+1363,Podcast_19,Episode 40,62.2,News,36.4,Friday,Evening,41.9,0,Negative,28.0
+1364,Podcast_45,Episode 84,37.4,Health,64.7,Tuesday,Afternoon,,3,Negative,17.0
+1365,Podcast_40,Episode 80,52.5,Technology,29.4,Sunday,Night,99.9,5,Positive,38.4
+1366,Podcast_10,Episode 21,22.5,Lifestyle,55.6,Friday,Night,,4,Neutral,21.7
+1367,Podcast_2,Episode 18,71.6,News,49.3,Thursday,Night,95.4,3,Neutral,59.1
+1368,Podcast_10,Episode 55,69.9,Technology,61.1,Tuesday,Night,50.1,0,Negative,34.8
+1369,Podcast_3,Episode 66,64.2,Sports,57.5,Monday,Evening,94.5,4,Positive,47.5
+1370,Podcast_36,Episode 73,14.7,Comedy,49.9,Friday,Night,68.8,4,Neutral,11.0
+1371,Podcast_32,Episode 32,61.6,True Crime,24.3,Saturday,Night,57.7,2,Negative,38.9
+1372,Podcast_24,Episode 49,53.1,Technology,25.5,Tuesday,Morning,48.4,3,Positive,35.3
+1373,Podcast_30,Episode 11,12.9,Business,43.3,Monday,Morning,34.4,3,Neutral,7.5
+1374,Podcast_41,Episode 46,44.5,Music,54.8,Wednesday,Night,,0,Positive,33.6
+1375,Podcast_42,Episode 69,52.3,Technology,42.8,Saturday,Afternoon,72.4,1,Neutral,43.0
+1376,Podcast_22,Episode 31,56.1,Education,67.5,Friday,Night,49.7,4,Positive,44.5
+1377,Podcast_30,Episode 32,48.5,Education,49.4,Monday,Afternoon,42.1,5,Negative,17.2
+1378,Podcast_29,Episode 47,50.8,Business,35.7,Monday,Afternoon,43.7,1,Positive,40.9
+1379,Podcast_48,Episode 87,74.5,True Crime,49.4,Monday,Night,74.8,2,Positive,67.8
+1380,Podcast_39,Episode 61,69.5,Health,59.5,Saturday,Evening,80.6,5,Negative,30.6
+1381,Podcast_16,Episode 92,5.0,Health,61.5,Saturday,Evening,33.3,0,Negative,1.9
+1382,Podcast_45,Episode 7,38.7,Comedy,92.6,Wednesday,Afternoon,33.3,1,Neutral,46.0
+1383,Podcast_20,Episode 85,41.7,Health,41.6,Friday,Evening,,0,Neutral,34.5
+1384,Podcast_38,Episode 5,10.0,Health,53.5,Monday,Afternoon,88.2,1,Positive,32.1
+1385,Podcast_49,Episode 33,46.9,Lifestyle,63.5,Thursday,Night,78.6,3,Neutral,39.4
+1386,Podcast_41,Episode 43,70.0,Health,54.5,Tuesday,Afternoon,18.7,2,Positive,52.3
+1387,Podcast_6,Episode 24,23.3,Music,45.0,Saturday,Morning,43.4,5,Positive,19.2
+1388,Podcast_11,Episode 99,51.7,True Crime,24.0,Thursday,Evening,26.7,5,Negative,25.8
+1389,Podcast_40,Episode 90,26.7,Business,44.8,Saturday,Night,43.3,5,Neutral,25.2
+1390,Podcast_7,Episode 58,31.6,Lifestyle,33.5,Thursday,Night,90.1,4,Positive,39.1
+1391,Podcast_1,Episode 46,74.5,Technology,20.5,Thursday,Morning,14.4,4,Positive,36.5
+1392,Podcast_13,Episode 77,34.1,Health,39.1,Sunday,Night,9.5,3,Negative,24.4
+1393,Podcast_25,Episode 71,54.2,Lifestyle,34.1,Sunday,Afternoon,,5,Positive,33.4
+1394,Podcast_7,Episode 49,7.6,Health,66.7,Thursday,Night,57.2,0,Positive,20.7
+1395,Podcast_8,Episode 83,82.2,Music,67.0,Wednesday,Evening,,4,Positive,60.0
+1396,Podcast_17,Episode 20,57.1,Education,36.9,Friday,Night,60.9,0,Positive,56.4
+1397,Podcast_30,Episode 28,41.4,Music,49.8,Tuesday,Afternoon,79.4,2,Positive,45.3
+1398,Podcast_28,Episode 2,56.5,Business,17.8,Wednesday,Evening,,1,Negative,24.4
+1399,Podcast_40,Episode 12,16.8,Education,45.1,Saturday,Evening,79.7,3,Positive,31.7
+1400,Podcast_50,Episode 20,68.7,News,63.0,Sunday,Morning,42.2,4,Neutral,44.5
+1401,Podcast_2,Episode 63,38.5,Technology,71.5,Wednesday,Night,68.3,0,Neutral,32.8
+1402,Podcast_35,Episode 86,40.9,News,40.7,Wednesday,Morning,,3,Neutral,18.9
+1403,Podcast_9,Episode 60,35.2,Sports,76.0,Sunday,Night,50.1,1,Neutral,36.2
+1404,Podcast_19,Episode 45,33.4,Education,24.7,Tuesday,Morning,,0,Neutral,25.9
+1405,Podcast_18,Episode 28,58.9,True Crime,30.0,Monday,Morning,78.9,2,Neutral,28.6
+1406,Podcast_36,Episode 11,50.1,Education,69.2,Monday,Afternoon,10.4,3,Neutral,40.2
+1407,Podcast_13,Episode 59,58.0,True Crime,88.4,Monday,Morning,50.8,1,Neutral,43.6
+1408,Podcast_45,Episode 15,44.8,Music,64.9,Sunday,Morning,22.9,2,Neutral,45.4
+1409,Podcast_20,Episode 80,55.3,True Crime,54.2,Monday,Morning,,5,Neutral,23.3
+1410,Podcast_41,Episode 41,36.6,Education,11.1,Wednesday,Afternoon,,2,Positive,30.3
+1411,Podcast_48,Episode 36,89.6,Health,14.6,Friday,Afternoon,82.2,5,Neutral,43.4
+1412,Podcast_26,Episode 3,13.6,Business,57.6,Friday,Morning,36.6,5,Neutral,2.3
+1413,Podcast_6,Episode 25,70.2,True Crime,47.8,Saturday,Morning,,2,Positive,52.2
+1414,Podcast_36,Episode 2,72.4,Comedy,32.9,Sunday,Evening,84.0,3,Negative,54.2
+1415,Podcast_22,Episode 73,28.0,Business,56.3,Wednesday,Afternoon,8.9,4,Positive,26.5
+1416,Podcast_17,Episode 49,89.6,Health,57.3,Tuesday,Night,,2,Positive,61.2
+1417,Podcast_23,Episode 79,64.9,Business,73.9,Monday,Night,74.0,2,Negative,28.5
+1418,Podcast_15,Episode 57,64.4,Health,57.7,Sunday,Morning,43.5,1,Positive,40.0
+1419,Podcast_15,Episode 96,45.6,Health,79.6,Wednesday,Night,19.7,0,Positive,42.3
+1420,Podcast_50,Episode 79,40.7,Lifestyle,55.2,Sunday,Evening,73.6,0,Positive,39.5
+1421,Podcast_14,Episode 15,40.8,Comedy,52.7,Wednesday,Night,20.0,2,Negative,20.6
+1422,Podcast_23,Episode 12,52.8,Comedy,76.3,Saturday,Afternoon,45.5,4,Neutral,18.8
+1423,Podcast_36,Episode 89,73.0,Lifestyle,35.4,Friday,Morning,49.0,1,Neutral,46.9
+1424,Podcast_12,Episode 27,48.6,Music,100.0,Friday,Night,67.9,1,Neutral,53.6
+1425,Podcast_31,Episode 77,26.8,Education,62.5,Friday,Evening,34.3,1,Neutral,38.0
+1426,Podcast_45,Episode 63,61.5,Health,62.6,Wednesday,Morning,,3,Negative,19.3
+1427,Podcast_41,Episode 71,63.4,Education,65.5,Monday,Morning,52.5,1,Negative,34.7
+1428,Podcast_2,Episode 27,58.1,Lifestyle,92.5,Monday,Morning,75.2,1,Positive,51.2
+1429,Podcast_21,Episode 32,59.9,Education,70.9,Wednesday,Afternoon,100.0,0,Negative,46.7
+1430,Podcast_1,Episode 56,39.6,Sports,22.9,Sunday,Afternoon,12.3,1,Neutral,14.6
+1431,Podcast_31,Episode 3,26.4,True Crime,83.1,Friday,Afternoon,57.9,1,Positive,51.3
+1432,Podcast_17,Episode 32,27.6,True Crime,48.2,Friday,Night,22.8,4,Positive,25.4
+1433,Podcast_45,Episode 51,12.3,Business,57.1,Tuesday,Night,75.5,5,Neutral,11.4
+1434,Podcast_9,Episode 21,49.7,True Crime,29.4,Thursday,Evening,26.5,2,Positive,51.0
+1435,Podcast_43,Episode 29,43.3,Comedy,65.5,Wednesday,Evening,33.1,0,Neutral,36.2
+1436,Podcast_18,Episode 99,36.2,Technology,42.0,Monday,Night,35.3,0,Positive,40.2
+1437,Podcast_47,Episode 29,5.0,Music,57.0,Friday,Afternoon,48.1,1,Neutral,7.3
+1438,Podcast_10,Episode 91,20.1,True Crime,49.3,Wednesday,Evening,58.1,2,Positive,16.5
+1439,Podcast_14,Episode 93,67.4,Technology,93.5,Wednesday,Evening,62.1,3,Negative,39.8
+1440,Podcast_18,Episode 68,31.7,Lifestyle,94.6,Friday,Afternoon,49.9,1,Positive,59.3
+1441,Podcast_50,Episode 16,52.2,Lifestyle,55.9,Monday,Night,16.8,2,Positive,47.9
+1442,Podcast_37,Episode 21,17.2,Education,56.3,Sunday,Morning,68.2,1,Positive,31.7
+1443,Podcast_41,Episode 94,73.8,Business,47.5,Tuesday,Morning,,3,Neutral,38.4
+1444,Podcast_28,Episode 1,42.1,Sports,77.1,Friday,Afternoon,79.0,4,Neutral,41.1
+1445,Podcast_40,Episode 51,50.8,Comedy,48.4,Saturday,Night,32.3,0,Neutral,26.9
+1446,Podcast_32,Episode 60,91.5,News,46.6,Tuesday,Afternoon,9.9,2,Positive,50.0
+1447,Podcast_34,Episode 84,75.3,Health,74.6,Tuesday,Morning,49.1,3,Negative,40.7
+1448,Podcast_42,Episode 90,38.9,Health,44.2,Wednesday,Night,82.4,4,Neutral,43.0
+1449,Podcast_50,Episode 29,33.1,True Crime,54.2,Saturday,Morning,54.0,3,Positive,48.5
+1450,Podcast_29,Episode 51,38.5,Comedy,23.4,Friday,Morning,45.0,3,Neutral,19.3
+1451,Podcast_23,Episode 64,55.2,Lifestyle,69.1,Thursday,Night,28.2,4,Neutral,30.4
+1452,Podcast_33,Episode 97,42.9,Business,93.8,Saturday,Afternoon,93.9,2,Neutral,28.5
+1453,Podcast_38,Episode 56,37.1,Sports,69.4,Thursday,Morning,24.3,3,Positive,36.0
+1454,Podcast_50,Episode 13,74.3,Education,84.2,Sunday,Afternoon,31.9,1,Positive,63.6
+1455,Podcast_35,Episode 93,42.7,Health,38.1,Saturday,Evening,64.3,2,Neutral,37.1
+1456,Podcast_48,Episode 52,91.0,Education,59.7,Tuesday,Night,,0,Positive,74.6
+1457,Podcast_37,Episode 18,46.8,Education,36.1,Wednesday,Morning,81.9,2,Positive,40.5
+1458,Podcast_48,Episode 20,80.7,Business,50.4,Monday,Afternoon,,0,Negative,55.7
+1459,Podcast_38,Episode 21,52.1,Lifestyle,70.4,Tuesday,Evening,72.5,1,Neutral,37.6
+1460,Podcast_45,Episode 73,64.3,Sports,57.0,Monday,Evening,64.0,2,Positive,57.7
+1461,Podcast_10,Episode 95,30.5,Business,26.7,Monday,Evening,46.0,3,Positive,23.0
+1462,Podcast_50,Episode 45,27.9,Comedy,28.7,Monday,Afternoon,23.4,5,Neutral,16.2
+1463,Podcast_18,Episode 10,54.2,Health,27.4,Friday,Night,46.5,0,Positive,48.7
+1464,Podcast_40,Episode 89,64.8,Lifestyle,64.8,Wednesday,Morning,25.6,5,Positive,46.9
+1465,Podcast_20,Episode 64,45.8,True Crime,96.3,Thursday,Night,,1,Positive,57.2
+1466,Podcast_23,Episode 58,19.3,Health,82.2,Saturday,Night,70.2,4,Neutral,8.8
+1467,Podcast_38,Episode 7,17.8,True Crime,17.1,Saturday,Evening,86.9,4,Neutral,3.6
+1468,Podcast_28,Episode 98,16.5,Technology,83.4,Thursday,Afternoon,,5,Positive,23.1
+1469,Podcast_36,Episode 8,9.6,Sports,73.7,Thursday,Afternoon,73.1,0,Positive,18.7
+1470,Podcast_4,Episode 62,47.2,True Crime,24.1,Friday,Afternoon,42.6,5,Neutral,20.7
+1471,Podcast_42,Episode 60,67.5,Health,48.9,Wednesday,Morning,38.0,0,Neutral,44.5
+1472,Podcast_21,Episode 52,44.7,Health,76.9,Thursday,Morning,61.8,5,Neutral,42.6
+1473,Podcast_40,Episode 56,5.0,Music,66.0,Wednesday,Evening,40.3,3,Positive,19.6
+1474,Podcast_15,Episode 40,41.2,Lifestyle,28.8,Tuesday,Evening,56.7,2,Neutral,36.1
+1475,Podcast_30,Episode 58,41.7,Health,67.2,Tuesday,Afternoon,23.5,2,Negative,27.7
+1476,Podcast_30,Episode 37,86.9,Comedy,12.2,Friday,Afternoon,28.0,0,Neutral,47.6
+1477,Podcast_7,Episode 48,15.9,Health,50.5,Saturday,Morning,65.9,4,Positive,23.4
+1478,Podcast_24,Episode 68,37.2,Music,77.8,Wednesday,Night,72.2,4,Neutral,36.5
+1479,Podcast_32,Episode 75,79.1,Education,55.4,Monday,Night,25.4,5,Positive,62.4
+1480,Podcast_42,Episode 16,54.0,Health,45.0,Friday,Morning,66.8,4,Positive,41.5
+1481,Podcast_45,Episode 100,56.3,Sports,72.8,Sunday,Afternoon,36.7,5,Positive,30.6
+1482,Podcast_20,Episode 10,47.3,Education,74.5,Thursday,Evening,50.4,5,Negative,12.5
+1483,Podcast_33,Episode 28,51.6,Education,81.2,Monday,Morning,85.4,2,Positive,49.2
+1484,Podcast_9,Episode 35,60.6,Education,72.5,Monday,Morning,70.2,4,Negative,17.9
+1485,Podcast_45,Episode 33,28.8,Music,76.6,Thursday,Night,69.9,1,Neutral,45.5
+1486,Podcast_44,Episode 36,62.6,Education,69.7,Sunday,Morning,97.7,4,Neutral,50.3
+1487,Podcast_50,Episode 33,17.5,True Crime,60.3,Monday,Evening,32.4,3,Positive,18.8
+1488,Podcast_25,Episode 44,51.6,Health,56.8,Saturday,Night,25.4,2,Neutral,26.4
+1489,Podcast_18,Episode 77,48.6,Business,50.3,Saturday,Evening,31.9,3,Positive,47.6
+1490,Podcast_38,Episode 83,32.7,Lifestyle,30.8,Monday,Afternoon,43.6,1,Neutral,15.4
+1491,Podcast_37,Episode 35,44.5,Music,35.9,Tuesday,Morning,0.0,3,Positive,24.3
+1492,Podcast_11,Episode 26,32.5,Sports,49.4,Monday,Evening,44.8,2,Positive,27.2
+1493,Podcast_27,Episode 68,23.6,Sports,59.8,Thursday,Afternoon,36.4,1,Neutral,24.0
+1494,Podcast_33,Episode 6,37.9,Education,83.8,Tuesday,Night,69.6,5,Positive,43.0
+1495,Podcast_23,Episode 45,22.9,True Crime,54.2,Sunday,Evening,58.8,0,Positive,43.0
+1496,Podcast_19,Episode 23,51.5,Health,75.1,Monday,Morning,,4,Negative,37.5
+1497,Podcast_12,Episode 61,22.0,Sports,76.6,Friday,Afternoon,,1,Positive,35.0
+1498,Podcast_21,Episode 8,59.2,Health,50.4,Saturday,Evening,68.1,1,Positive,59.9
+1499,Podcast_13,Episode 83,21.4,News,66.9,Tuesday,Evening,30.8,0,Positive,26.9
+1500,Podcast_16,Episode 27,33.7,Comedy,50.1,Tuesday,Evening,37.7,0,Positive,22.5
+1501,Podcast_10,Episode 52,32.5,Comedy,81.4,Saturday,Morning,0.0,0,Neutral,24.7
+1502,Podcast_19,Episode 58,71.5,Education,67.7,Monday,Morning,22.7,4,Positive,45.7
+1503,Podcast_32,Episode 48,51.6,Sports,31.2,Thursday,Morning,31.4,5,Neutral,21.5
+1504,Podcast_19,Episode 45,40.8,Sports,58.2,Tuesday,Evening,51.9,3,Neutral,22.2
+1505,Podcast_8,Episode 27,55.0,Music,88.0,Monday,Morning,26.4,0,Positive,49.9
+1506,Podcast_41,Episode 78,5.0,Sports,51.4,Thursday,Night,37.2,5,Negative,3.4
+1507,Podcast_22,Episode 52,44.1,Comedy,64.0,Thursday,Afternoon,19.4,3,Negative,37.7
+1508,Podcast_30,Episode 22,85.0,Music,65.9,Wednesday,Afternoon,54.3,3,Positive,49.7
+1509,Podcast_27,Episode 27,47.6,Lifestyle,34.3,Saturday,Morning,,5,Positive,24.9
+1510,Podcast_26,Episode 44,46.4,Music,65.2,Monday,Afternoon,60.1,2,Positive,38.2
+1511,Podcast_22,Episode 85,56.0,Education,27.1,Thursday,Night,50.3,2,Positive,49.4
+1512,Podcast_38,Episode 97,62.9,News,42.5,Tuesday,Morning,11.5,4,Neutral,33.1
+1513,Podcast_43,Episode 39,5.1,Lifestyle,76.5,Saturday,Evening,34.5,3,Neutral,5.8
+1514,Podcast_46,Episode 40,11.4,Technology,62.1,Thursday,Morning,39.8,4,Positive,25.3
+1515,Podcast_23,Episode 13,49.2,Sports,48.9,Friday,Morning,39.9,4,Positive,46.0
+1516,Podcast_18,Episode 55,30.7,Lifestyle,63.9,Monday,Evening,51.9,5,Positive,29.5
+1517,Podcast_5,Episode 24,71.2,Lifestyle,53.8,Thursday,Evening,85.6,1,Negative,39.8
+1518,Podcast_23,Episode 82,38.7,Health,55.3,Monday,Evening,70.3,0,Negative,31.4
+1519,Podcast_50,Episode 54,6.3,Music,68.1,Wednesday,Morning,25.3,2,Positive,18.2
+1520,Podcast_14,Episode 23,19.6,Music,40.5,Sunday,Morning,67.0,3,Neutral,14.9
+1521,Podcast_43,Episode 92,5.0,Lifestyle,55.8,Saturday,Afternoon,66.0,4,Neutral,5.1
+1522,Podcast_38,Episode 82,40.3,True Crime,48.8,Monday,Morning,29.8,1,Neutral,37.5
+1523,Podcast_34,Episode 31,41.2,Business,23.3,Wednesday,Night,71.2,4,Neutral,26.7
+1524,Podcast_29,Episode 13,36.5,Music,36.6,Sunday,Afternoon,46.0,4,Negative,24.3
+1525,Podcast_38,Episode 27,66.6,News,86.4,Tuesday,Evening,14.8,4,Positive,62.2
+1526,Podcast_5,Episode 38,69.0,News,62.7,Saturday,Morning,61.4,4,Positive,56.7
+1527,Podcast_7,Episode 41,41.6,True Crime,28.5,Wednesday,Evening,,5,Negative,12.5
+1528,Podcast_10,Episode 83,5.0,True Crime,24.2,Thursday,Morning,44.3,3,Positive,20.8
+1529,Podcast_39,Episode 97,57.3,Sports,52.8,Sunday,Afternoon,49.1,2,Positive,51.5
+1530,Podcast_22,Episode 75,56.1,Lifestyle,86.2,Friday,Afternoon,32.0,2,Neutral,63.6
+1531,Podcast_11,Episode 85,51.2,Technology,51.3,Tuesday,Morning,65.3,4,Neutral,36.3
+1532,Podcast_3,Episode 13,64.6,True Crime,81.1,Monday,Morning,48.9,1,Neutral,55.4
+1533,Podcast_25,Episode 15,21.7,Lifestyle,62.0,Tuesday,Night,54.2,3,Neutral,22.5
+1534,Podcast_20,Episode 91,85.2,Health,64.4,Wednesday,Afternoon,58.9,3,Neutral,55.0
+1535,Podcast_9,Episode 62,25.8,News,28.3,Monday,Evening,21.1,3,Positive,20.7
+1536,Podcast_2,Episode 24,60.0,Business,73.8,Sunday,Evening,27.6,2,Neutral,45.0
+1537,Podcast_38,Episode 80,11.3,Music,48.3,Monday,Evening,,4,Neutral,10.4
+1538,Podcast_39,Episode 18,26.4,True Crime,72.3,Thursday,Evening,64.1,0,Negative,33.7
+1539,Podcast_13,Episode 77,75.3,Education,38.7,Sunday,Night,19.7,4,Positive,52.1
+1540,Podcast_25,Episode 89,39.8,Business,58.5,Wednesday,Evening,53.3,4,Positive,32.0
+1541,Podcast_13,Episode 49,61.8,Music,62.0,Thursday,Afternoon,59.3,5,Neutral,36.4
+1542,Podcast_21,Episode 66,49.7,Health,51.9,Monday,Afternoon,,5,Positive,28.8
+1543,Podcast_6,Episode 74,42.9,Lifestyle,63.1,Saturday,Night,19.9,2,Positive,52.3
+1544,Podcast_48,Episode 89,72.3,Sports,49.7,Sunday,Afternoon,48.4,0,Negative,40.7
+1545,Podcast_37,Episode 59,40.3,Education,42.0,Saturday,Evening,91.8,3,Neutral,38.1
+1546,Podcast_46,Episode 30,9.4,Education,87.1,Tuesday,Night,92.9,0,Positive,35.9
+1547,Podcast_15,Episode 21,28.9,Business,76.0,Wednesday,Morning,74.7,1,Positive,41.9
+1548,Podcast_44,Episode 36,56.0,Comedy,39.8,Saturday,Morning,58.4,4,Positive,41.3
+1549,Podcast_26,Episode 6,52.9,News,66.4,Saturday,Morning,24.9,3,Neutral,29.3
+1550,Podcast_10,Episode 70,13.7,News,40.1,Wednesday,Morning,68.0,3,Neutral,5.8
+1551,Podcast_17,Episode 37,30.5,Music,31.3,Sunday,Evening,46.0,4,Positive,39.8
+1552,Podcast_41,Episode 72,33.4,Music,75.7,Tuesday,Evening,64.0,0,Positive,43.7
+1553,Podcast_39,Episode 7,37.7,Music,20.9,Saturday,Afternoon,34.2,4,Positive,36.4
+1554,Podcast_37,Episode 33,17.5,Technology,73.5,Thursday,Morning,45.7,3,Positive,38.0
+1555,Podcast_12,Episode 40,32.4,News,49.9,Friday,Evening,54.1,2,Positive,30.8
+1556,Podcast_33,Episode 9,30.4,True Crime,50.8,Friday,Morning,56.2,2,Neutral,28.6
+1557,Podcast_48,Episode 83,60.4,Comedy,63.2,Thursday,Evening,62.3,3,Positive,50.7
+1558,Podcast_3,Episode 60,61.2,News,66.6,Saturday,Night,35.5,3,Positive,39.8
+1559,Podcast_17,Episode 85,42.1,Education,38.5,Saturday,Afternoon,16.4,2,Neutral,25.1
+1560,Podcast_5,Episode 81,37.2,Music,69.4,Saturday,Afternoon,90.6,1,Positive,49.0
+1561,Podcast_6,Episode 4,47.8,Technology,57.3,Monday,Evening,100.0,1,Positive,45.1
+1562,Podcast_50,Episode 87,28.7,Music,29.9,Wednesday,Morning,61.2,2,Positive,26.9
+1563,Podcast_13,Episode 7,22.1,Music,51.6,Saturday,Evening,16.9,1,Positive,26.0
+1564,Podcast_9,Episode 88,26.2,Technology,82.6,Sunday,Afternoon,30.7,3,Positive,48.7
+1565,Podcast_4,Episode 67,32.3,News,88.5,Wednesday,Afternoon,,5,Neutral,12.4
+1566,Podcast_50,Episode 82,21.7,Education,69.3,Saturday,Morning,83.5,0,Positive,41.0
+1567,Podcast_24,Episode 50,48.2,Lifestyle,31.2,Thursday,Night,19.7,1,Neutral,29.0
+1568,Podcast_40,Episode 17,59.6,Sports,64.8,Tuesday,Afternoon,46.9,0,Neutral,41.1
+1569,Podcast_13,Episode 15,13.3,Lifestyle,72.0,Sunday,Morning,54.9,5,Positive,19.3
+1570,Podcast_33,Episode 12,45.5,True Crime,69.5,Thursday,Night,,4,Positive,47.3
+1571,Podcast_45,Episode 81,40.6,Lifestyle,70.7,Friday,Night,41.4,1,Positive,48.2
+1572,Podcast_34,Episode 54,51.8,Lifestyle,62.3,Wednesday,Evening,10.9,2,Positive,44.6
+1573,Podcast_26,Episode 22,44.7,Health,53.6,Monday,Morning,65.5,4,Neutral,39.4
+1574,Podcast_11,Episode 13,15.9,Technology,42.8,Thursday,Night,78.1,5,Positive,30.6
+1575,Podcast_12,Episode 8,19.8,News,17.0,Saturday,Morning,47.9,3,Negative,12.4
+1576,Podcast_30,Episode 26,45.6,Technology,61.8,Wednesday,Morning,60.1,1,Neutral,33.0
+1577,Podcast_23,Episode 75,65.6,Music,58.7,Sunday,Evening,38.1,4,Neutral,44.7
+1578,Podcast_3,Episode 90,5.0,True Crime,66.2,Saturday,Afternoon,28.9,4,Neutral,11.8
+1579,Podcast_10,Episode 61,51.9,Sports,28.2,Friday,Morning,75.7,3,Neutral,26.9
+1580,Podcast_22,Episode 100,68.8,News,67.9,Saturday,Evening,59.7,0,Negative,34.2
+1581,Podcast_9,Episode 40,41.9,Lifestyle,96.1,Sunday,Afternoon,62.3,4,Negative,13.1
+1582,Podcast_28,Episode 34,56.0,Sports,56.6,Saturday,Night,87.6,0,Positive,54.9
+1583,Podcast_16,Episode 70,30.9,True Crime,53.8,Saturday,Morning,23.6,5,Positive,28.4
+1584,Podcast_15,Episode 14,42.6,Education,61.2,Friday,Night,,5,Positive,25.1
+1585,Podcast_6,Episode 92,12.6,Comedy,95.6,Sunday,Evening,53.9,3,Positive,36.6
+1586,Podcast_26,Episode 79,5.0,Technology,34.5,Monday,Morning,35.9,3,Neutral,6.6
+1587,Podcast_10,Episode 4,63.9,Lifestyle,59.1,Wednesday,Evening,69.6,0,Positive,68.3
+1588,Podcast_32,Episode 19,25.3,Music,39.0,Sunday,Night,45.3,5,Neutral,17.4
+1589,Podcast_47,Episode 63,35.9,Music,44.1,Thursday,Morning,25.2,1,Neutral,18.0
+1590,Podcast_46,Episode 74,17.3,Business,54.0,Monday,Night,51.6,1,Positive,31.6
+1591,Podcast_34,Episode 22,16.8,News,81.9,Saturday,Afternoon,54.3,4,Neutral,24.0
+1592,Podcast_41,Episode 75,41.5,Technology,91.0,Friday,Night,73.4,5,Positive,37.0
+1593,Podcast_47,Episode 48,30.4,Sports,64.0,Sunday,Morning,59.8,2,Neutral,16.0
+1594,Podcast_35,Episode 68,52.6,True Crime,47.5,Monday,Evening,61.5,3,Neutral,36.4
+1595,Podcast_13,Episode 43,54.1,Comedy,100.0,Tuesday,Night,,3,Positive,44.0
+1596,Podcast_26,Episode 46,51.4,Comedy,46.4,Thursday,Afternoon,45.3,1,Neutral,46.0
+1597,Podcast_43,Episode 39,49.8,Health,43.6,Tuesday,Morning,,3,Positive,35.8
+1598,Podcast_34,Episode 16,76.6,Music,19.5,Thursday,Afternoon,57.2,5,Neutral,54.4
+1599,Podcast_19,Episode 20,23.6,True Crime,82.9,Wednesday,Evening,,2,Neutral,8.2
+1600,Podcast_9,Episode 17,43.9,Lifestyle,74.4,Tuesday,Evening,92.2,4,Positive,44.6
+1601,Podcast_8,Episode 81,67.7,True Crime,100.0,Saturday,Afternoon,83.6,4,Neutral,63.1
+1602,Podcast_19,Episode 43,70.3,Sports,27.2,Monday,Night,65.8,5,Negative,25.9
+1603,Podcast_41,Episode 38,16.6,News,84.2,Sunday,Evening,59.5,4,Neutral,18.0
+1604,Podcast_28,Episode 86,38.8,Business,56.4,Tuesday,Evening,,5,Neutral,21.4
+1605,Podcast_3,Episode 89,72.2,News,71.1,Friday,Night,18.5,4,Neutral,39.2
+1606,Podcast_46,Episode 24,55.2,Sports,22.0,Sunday,Night,44.6,5,Positive,38.2
+1607,Podcast_21,Episode 36,48.9,Education,84.4,Monday,Afternoon,52.5,4,Neutral,26.2
+1608,Podcast_20,Episode 42,40.6,Comedy,70.7,Sunday,Afternoon,55.7,5,Negative,21.5
+1609,Podcast_41,Episode 84,37.3,News,54.2,Wednesday,Evening,61.7,5,Positive,36.7
+1610,Podcast_19,Episode 68,50.8,True Crime,67.9,Saturday,Evening,73.0,5,Positive,41.2
+1611,Podcast_31,Episode 55,40.0,Education,39.7,Saturday,Afternoon,32.7,3,Positive,25.1
+1612,Podcast_47,Episode 24,44.1,News,43.4,Tuesday,Evening,32.9,4,Positive,42.5
+1613,Podcast_26,Episode 39,46.6,Health,45.7,Wednesday,Evening,86.3,5,Positive,44.2
+1614,Podcast_31,Episode 3,31.4,Lifestyle,17.9,Sunday,Night,69.3,2,Positive,21.6
+1615,Podcast_18,Episode 71,55.6,Sports,72.2,Monday,Afternoon,40.2,0,Neutral,34.3
+1616,Podcast_45,Episode 92,103.3,True Crime,78.8,Monday,Night,47.3,5,Positive,63.8
+1617,Podcast_4,Episode 79,9.5,Business,41.0,Wednesday,Morning,47.4,3,Positive,22.1
+1618,Podcast_14,Episode 31,51.5,Lifestyle,62.0,Friday,Night,50.8,2,Neutral,40.3
+1619,Podcast_50,Episode 49,29.8,News,49.7,Saturday,Morning,61.8,4,Positive,35.9
+1620,Podcast_25,Episode 96,56.5,News,61.6,Thursday,Night,100.0,0,Positive,53.7
+1621,Podcast_9,Episode 43,45.9,Comedy,42.4,Thursday,Morning,54.7,2,Neutral,25.0
+1622,Podcast_21,Episode 84,60.2,Music,37.3,Sunday,Night,66.6,1,Negative,43.6
+1623,Podcast_13,Episode 58,68.5,Music,76.0,Tuesday,Night,7.8,1,Neutral,43.5
+1624,Podcast_27,Episode 50,48.8,Education,53.7,Sunday,Night,37.9,5,Positive,38.4
+1625,Podcast_12,Episode 59,67.6,Music,95.4,Wednesday,Night,80.7,3,Positive,48.2
+1626,Podcast_20,Episode 23,5.0,Business,55.9,Tuesday,Afternoon,60.1,0,Negative,5.4
+1627,Podcast_46,Episode 43,76.8,Lifestyle,36.5,Sunday,Morning,0.0,2,Neutral,52.2
+1628,Podcast_5,Episode 31,52.5,Lifestyle,79.5,Friday,Night,66.9,1,Neutral,38.6
+1629,Podcast_39,Episode 76,66.6,Lifestyle,67.6,Thursday,Evening,98.0,5,Neutral,52.1
+1630,Podcast_4,Episode 62,20.6,True Crime,69.5,Wednesday,Night,0.1,1,Positive,9.3
+1631,Podcast_23,Episode 40,28.4,Business,78.8,Thursday,Evening,88.0,2,Positive,34.4
+1632,Podcast_34,Episode 83,47.9,Technology,41.9,Saturday,Evening,0.0,2,Neutral,27.7
+1633,Podcast_48,Episode 46,44.7,Music,52.5,Tuesday,Afternoon,73.4,1,Negative,44.4
+1634,Podcast_13,Episode 96,50.7,True Crime,51.6,Tuesday,Afternoon,49.8,4,Positive,31.0
+1635,Podcast_3,Episode 61,66.7,Education,29.2,Wednesday,Afternoon,0.0,3,Neutral,41.0
+1636,Podcast_38,Episode 89,9.7,Health,49.7,Thursday,Evening,61.2,2,Positive,30.5
+1637,Podcast_45,Episode 99,64.5,Sports,81.7,Saturday,Evening,,2,Negative,38.7
+1638,Podcast_29,Episode 33,45.2,Sports,59.7,Tuesday,Morning,59.1,4,Positive,36.3
+1639,Podcast_4,Episode 27,40.9,Lifestyle,28.1,Saturday,Morning,,0,Neutral,33.0
+1640,Podcast_26,Episode 84,15.6,Sports,23.9,Sunday,Morning,39.7,5,Positive,2.5
+1641,Podcast_20,Episode 24,55.1,Sports,88.3,Thursday,Evening,3.5,3,Neutral,34.8
+1642,Podcast_23,Episode 76,5.0,Health,53.2,Sunday,Evening,,1,Neutral,24.5
+1643,Podcast_3,Episode 18,58.0,Education,42.1,Sunday,Morning,93.7,3,Positive,52.5
+1644,Podcast_16,Episode 87,15.2,Lifestyle,49.5,Saturday,Evening,78.2,5,Negative,5.8
+1645,Podcast_50,Episode 69,46.1,True Crime,25.5,Wednesday,Morning,0.3,1,Negative,22.3
+1646,Podcast_3,Episode 53,42.6,Business,83.5,Wednesday,Night,,3,Negative,30.2
+1647,Podcast_46,Episode 45,68.4,News,47.1,Sunday,Evening,28.9,3,Positive,55.8
+1648,Podcast_26,Episode 64,41.4,Education,82.3,Thursday,Evening,10.2,4,Neutral,24.3
+1649,Podcast_30,Episode 39,31.1,True Crime,56.0,Monday,Evening,51.1,3,Neutral,36.5
+1650,Podcast_47,Episode 40,34.9,News,83.6,Saturday,Afternoon,59.8,4,Neutral,39.8
+1651,Podcast_11,Episode 21,70.5,Music,60.1,Wednesday,Night,14.2,4,Neutral,47.1
+1652,Podcast_50,Episode 16,55.7,Sports,72.1,Sunday,Evening,69.4,5,Neutral,31.3
+1653,Podcast_14,Episode 90,37.3,Sports,69.4,Saturday,Morning,,2,Positive,32.4
+1654,Podcast_18,Episode 75,40.3,Comedy,67.5,Monday,Night,,4,Positive,33.4
+1655,Podcast_23,Episode 45,13.7,News,62.0,Sunday,Evening,45.7,1,Positive,27.1
+1656,Podcast_31,Episode 84,52.8,News,50.3,Sunday,Afternoon,1.3,5,Positive,21.5
+1657,Podcast_17,Episode 61,9.8,Sports,93.3,Saturday,Night,41.7,5,Positive,25.7
+1658,Podcast_40,Episode 60,60.0,Music,36.9,Tuesday,Morning,50.2,1,Positive,59.1
+1659,Podcast_2,Episode 12,47.6,True Crime,55.1,Friday,Evening,54.2,3,Neutral,38.0
+1660,Podcast_34,Episode 54,92.7,True Crime,55.3,Sunday,Evening,59.5,4,Neutral,51.5
+1661,Podcast_33,Episode 11,23.0,Health,63.0,Saturday,Night,56.1,0,Positive,28.2
+1662,Podcast_27,Episode 69,42.9,Lifestyle,46.4,Thursday,Evening,43.4,4,Neutral,29.3
+1663,Podcast_31,Episode 7,81.0,True Crime,61.3,Friday,Night,57.2,4,Negative,43.9
+1664,Podcast_38,Episode 52,68.8,News,51.6,Wednesday,Afternoon,,5,Negative,40.1
+1665,Podcast_46,Episode 37,31.1,Health,23.4,Tuesday,Night,47.6,1,Negative,21.4
+1666,Podcast_11,Episode 14,49.5,Lifestyle,55.2,Friday,Morning,57.9,4,Negative,35.7
+1667,Podcast_24,Episode 48,45.0,Sports,33.0,Thursday,Night,45.3,4,Neutral,17.1
+1668,Podcast_29,Episode 21,50.6,Health,20.3,Tuesday,Night,,0,Negative,29.4
+1669,Podcast_18,Episode 25,31.0,Sports,57.7,Friday,Evening,63.1,4,Negative,14.7
+1670,Podcast_49,Episode 89,43.2,Comedy,64.8,Wednesday,Morning,36.1,3,Positive,38.2
+1671,Podcast_26,Episode 35,13.0,Sports,65.5,Friday,Afternoon,59.7,5,Negative,13.7
+1672,Podcast_30,Episode 41,47.7,Comedy,66.3,Wednesday,Morning,50.7,0,Neutral,48.0
+1673,Podcast_10,Episode 1,54.0,True Crime,16.3,Sunday,Night,42.4,5,Neutral,37.7
+1674,Podcast_21,Episode 31,40.5,True Crime,27.8,Saturday,Afternoon,41.8,3,Negative,21.8
+1675,Podcast_32,Episode 36,12.7,Business,94.5,Thursday,Night,37.3,1,Positive,29.5
+1676,Podcast_22,Episode 72,64.8,News,34.1,Friday,Night,8.9,2,Positive,43.8
+1677,Podcast_39,Episode 12,52.3,News,67.2,Tuesday,Morning,59.6,4,Neutral,22.5
+1678,Podcast_7,Episode 93,30.5,Music,41.3,Sunday,Night,55.8,5,Neutral,29.1
+1679,Podcast_8,Episode 13,39.4,Education,56.6,Tuesday,Afternoon,71.2,1,Negative,25.5
+1680,Podcast_17,Episode 66,15.0,Sports,42.3,Sunday,Morning,,5,Negative,6.6
+1681,Podcast_16,Episode 1,24.5,Health,66.2,Saturday,Afternoon,,3,Neutral,31.2
+1682,Podcast_41,Episode 82,34.2,Business,57.7,Tuesday,Evening,,1,Negative,13.0
+1683,Podcast_44,Episode 70,69.6,Business,46.0,Monday,Night,28.1,3,Positive,42.6
+1684,Podcast_24,Episode 84,32.2,Business,34.0,Saturday,Evening,25.2,4,Negative,24.0
+1685,Podcast_26,Episode 94,57.8,Lifestyle,60.4,Sunday,Morning,6.7,0,Positive,51.7
+1686,Podcast_15,Episode 84,34.2,Sports,30.7,Saturday,Afternoon,88.3,0,Neutral,25.9
+1687,Podcast_27,Episode 63,50.0,True Crime,63.5,Monday,Afternoon,84.3,0,Positive,50.7
+1688,Podcast_36,Episode 84,42.2,Technology,100.0,Friday,Evening,65.0,3,Neutral,46.7
+1689,Podcast_37,Episode 10,62.5,Music,82.0,Wednesday,Evening,,0,Positive,64.3
+1690,Podcast_49,Episode 65,34.3,True Crime,69.4,Sunday,Morning,95.3,5,Positive,24.2
+1691,Podcast_29,Episode 99,13.5,True Crime,53.3,Saturday,Morning,41.2,0,Neutral,31.8
+1692,Podcast_18,Episode 38,17.4,Technology,16.2,Saturday,Morning,43.3,0,Neutral,23.2
+1693,Podcast_4,Episode 98,34.4,Health,28.6,Wednesday,Night,85.9,1,Positive,35.0
+1694,Podcast_35,Episode 51,20.0,Health,80.7,Wednesday,Evening,66.5,4,Neutral,11.7
+1695,Podcast_41,Episode 47,53.2,Music,39.2,Saturday,Afternoon,100.0,5,Positive,50.6
+1696,Podcast_28,Episode 31,35.7,Sports,41.0,Monday,Night,,1,Positive,40.3
+1697,Podcast_47,Episode 11,92.5,Sports,51.7,Monday,Morning,40.1,3,Positive,52.8
+1698,Podcast_16,Episode 88,10.2,Health,33.8,Monday,Morning,34.7,4,Neutral,4.4
+1699,Podcast_3,Episode 73,49.1,Music,30.5,Thursday,Afternoon,3.8,4,Neutral,49.7
+1700,Podcast_32,Episode 41,22.4,Lifestyle,54.0,Monday,Morning,43.0,0,Neutral,24.0
+1701,Podcast_7,Episode 97,35.1,Music,37.2,Friday,Night,78.6,5,Negative,10.3
+1702,Podcast_5,Episode 19,47.8,True Crime,40.2,Tuesday,Night,65.0,5,Neutral,20.5
+1703,Podcast_36,Episode 78,5.0,News,39.4,Sunday,Evening,,4,Neutral,19.7
+1704,Podcast_22,Episode 46,49.7,Comedy,65.4,Thursday,Night,25.1,3,Negative,34.6
+1705,Podcast_31,Episode 63,83.1,Lifestyle,50.4,Monday,Afternoon,55.7,2,Positive,73.3
+1706,Podcast_38,Episode 4,35.9,Sports,51.4,Friday,Morning,75.3,5,Positive,34.5
+1707,Podcast_20,Episode 62,50.2,Lifestyle,66.9,Wednesday,Afternoon,60.8,5,Positive,51.5
+1708,Podcast_31,Episode 68,65.5,Sports,52.2,Tuesday,Morning,54.2,3,Neutral,36.0
+1709,Podcast_27,Episode 98,41.7,Education,49.4,Friday,Night,30.1,4,Neutral,26.9
+1710,Podcast_30,Episode 35,33.4,Technology,64.4,Sunday,Evening,71.7,2,Positive,40.5
+1711,Podcast_36,Episode 8,5.0,Comedy,68.4,Sunday,Night,,4,Negative,10.9
+1712,Podcast_20,Episode 7,57.8,Sports,52.1,Thursday,Afternoon,59.6,0,Negative,40.9
+1713,Podcast_26,Episode 15,42.7,True Crime,56.6,Saturday,Evening,100.0,5,Positive,34.0
+1714,Podcast_30,Episode 30,24.7,True Crime,39.4,Tuesday,Afternoon,12.3,3,Positive,23.6
+1715,Podcast_8,Episode 84,47.5,Music,37.8,Saturday,Afternoon,44.0,3,Positive,24.5
+1716,Podcast_11,Episode 20,33.3,Education,70.4,Sunday,Evening,49.8,1,Positive,20.5
+1717,Podcast_5,Episode 15,34.4,Lifestyle,63.9,Thursday,Night,38.4,3,Negative,26.8
+1718,Podcast_10,Episode 4,57.1,Health,64.1,Thursday,Evening,75.9,0,Neutral,44.1
+1719,Podcast_22,Episode 39,18.2,Music,60.6,Thursday,Evening,61.8,5,Positive,21.0
+1720,Podcast_47,Episode 61,65.9,Technology,55.9,Monday,Evening,53.8,4,Neutral,48.4
+1721,Podcast_47,Episode 29,17.0,True Crime,68.9,Sunday,Afternoon,69.9,2,Positive,40.9
+1722,Podcast_39,Episode 50,31.7,Technology,73.7,Saturday,Night,50.4,5,Positive,35.8
+1723,Podcast_28,Episode 25,83.5,Comedy,73.2,Sunday,Night,100.0,4,Positive,81.1
+1724,Podcast_11,Episode 81,67.5,Lifestyle,53.0,Monday,Afternoon,53.8,0,Neutral,53.4
+1725,Podcast_18,Episode 3,47.0,Health,82.7,Saturday,Night,54.9,0,Neutral,45.0
+1726,Podcast_39,Episode 21,26.2,True Crime,59.6,Wednesday,Afternoon,7.2,1,Negative,18.0
+1727,Podcast_46,Episode 57,34.4,True Crime,67.6,Saturday,Evening,36.4,0,Positive,29.7
+1728,Podcast_49,Episode 85,46.5,News,60.6,Sunday,Evening,78.7,3,Neutral,43.2
+1729,Podcast_20,Episode 41,45.8,Technology,59.9,Sunday,Night,16.6,3,Positive,18.5
+1730,Podcast_25,Episode 7,43.2,Lifestyle,40.3,Sunday,Night,0.0,3,Positive,27.7
+1731,Podcast_26,Episode 56,44.4,Technology,69.0,Monday,Afternoon,50.8,0,Negative,33.0
+1732,Podcast_3,Episode 28,40.7,True Crime,100.0,Wednesday,Evening,84.3,5,Neutral,28.8
+1733,Podcast_6,Episode 31,16.2,Technology,47.5,Wednesday,Evening,51.1,5,Positive,15.5
+1734,Podcast_3,Episode 93,34.7,Lifestyle,56.4,Thursday,Night,41.6,3,Neutral,40.2
+1735,Podcast_37,Episode 95,63.3,News,46.1,Sunday,Morning,3.5,0,Neutral,50.8
+1736,Podcast_12,Episode 26,17.6,True Crime,45.2,Friday,Evening,61.3,2,Negative,6.3
+1737,Podcast_36,Episode 60,41.2,Sports,85.9,Thursday,Evening,66.5,4,Neutral,29.9
+1738,Podcast_19,Episode 55,28.6,Health,41.5,Saturday,Afternoon,,4,Positive,13.0
+1739,Podcast_40,Episode 97,47.2,True Crime,45.5,Tuesday,Afternoon,78.4,1,Neutral,42.9
+1740,Podcast_6,Episode 95,37.2,Health,23.3,Friday,Evening,69.1,4,Positive,28.3
+1741,Podcast_17,Episode 36,74.5,Education,39.8,Thursday,Afternoon,78.3,5,Positive,36.5
+1742,Podcast_11,Episode 3,55.1,News,20.8,Tuesday,Morning,,3,Neutral,34.0
+1743,Podcast_22,Episode 1,18.8,Health,67.6,Friday,Night,66.3,2,Neutral,25.7
+1744,Podcast_29,Episode 1,58.4,True Crime,100.0,Saturday,Afternoon,63.0,3,Positive,62.5
+1745,Podcast_9,Episode 79,29.5,Lifestyle,47.7,Saturday,Morning,71.7,0,Neutral,28.5
+1746,Podcast_34,Episode 74,33.5,Education,21.7,Saturday,Morning,4.5,3,Neutral,13.6
+1747,Podcast_49,Episode 83,51.3,Sports,73.0,Saturday,Night,,0,Neutral,56.0
+1748,Podcast_3,Episode 14,35.2,News,40.5,Thursday,Afternoon,,0,Positive,36.0
+1749,Podcast_5,Episode 6,62.9,Business,81.0,Monday,Afternoon,46.8,3,Positive,58.8
+1750,Podcast_48,Episode 18,29.5,Health,49.4,Sunday,Afternoon,59.7,3,Positive,26.7
+1751,Podcast_33,Episode 63,32.6,Sports,42.4,Thursday,Morning,58.1,5,Positive,33.5
+1752,Podcast_46,Episode 1,31.9,Education,51.4,Friday,Evening,77.9,3,Positive,22.4
+1753,Podcast_36,Episode 67,33.7,Sports,70.2,Monday,Morning,78.7,5,Positive,30.7
+1754,Podcast_36,Episode 89,67.0,Comedy,50.5,Sunday,Night,28.2,4,Positive,37.8
+1755,Podcast_8,Episode 15,57.6,Business,45.1,Sunday,Afternoon,56.0,2,Positive,42.5
+1756,Podcast_26,Episode 74,79.2,Sports,51.0,Sunday,Morning,28.8,5,Negative,48.5
+1757,Podcast_19,Episode 56,90.4,Education,29.6,Tuesday,Afternoon,45.3,2,Neutral,49.3
+1758,Podcast_42,Episode 95,24.4,Comedy,62.9,Saturday,Morning,,3,Positive,35.8
+1759,Podcast_3,Episode 25,46.4,Health,19.3,Friday,Afternoon,0.0,0,Negative,34.6
+1760,Podcast_1,Episode 23,21.5,Sports,46.1,Tuesday,Morning,100.0,1,Positive,32.7
+1761,Podcast_28,Episode 2,29.4,Education,70.2,Thursday,Evening,64.2,3,Positive,42.4
+1762,Podcast_49,Episode 71,32.4,Comedy,61.1,Thursday,Night,35.1,1,Negative,26.2
+1763,Podcast_50,Episode 87,23.9,True Crime,66.8,Friday,Afternoon,98.2,3,Positive,34.5
+1764,Podcast_30,Episode 2,24.0,Lifestyle,53.7,Monday,Morning,41.3,0,Positive,38.5
+1765,Podcast_22,Episode 50,42.1,News,78.4,Thursday,Morning,53.3,1,Positive,60.1
+1766,Podcast_14,Episode 73,20.7,Health,73.5,Friday,Night,37.8,3,Neutral,14.9
+1767,Podcast_50,Episode 79,61.8,True Crime,63.9,Saturday,Afternoon,91.3,3,Neutral,37.8
+1768,Podcast_10,Episode 94,26.6,Sports,73.6,Saturday,Afternoon,47.4,5,Positive,20.3
+1769,Podcast_7,Episode 73,101.2,Education,70.0,Friday,Morning,53.7,5,Positive,77.4
+1770,Podcast_26,Episode 93,36.0,True Crime,46.2,Friday,Evening,80.1,4,Positive,43.0
+1771,Podcast_20,Episode 100,46.4,Health,28.1,Monday,Morning,64.6,0,Neutral,30.6
+1772,Podcast_25,Episode 93,19.1,Health,63.4,Saturday,Night,48.6,3,Positive,9.4
+1773,Podcast_46,Episode 44,79.1,Education,65.9,Wednesday,Morning,77.8,1,Negative,46.4
+1774,Podcast_14,Episode 41,67.4,News,76.8,Thursday,Morning,100.0,1,Neutral,59.2
+1775,Podcast_44,Episode 43,50.9,Technology,36.3,Thursday,Evening,,1,Positive,43.8
+1776,Podcast_11,Episode 96,18.1,Business,36.9,Sunday,Afternoon,52.9,2,Neutral,17.5
+1777,Podcast_17,Episode 29,49.2,True Crime,64.2,Wednesday,Evening,54.3,0,Positive,44.9
+1778,Podcast_1,Episode 76,22.6,Business,53.6,Wednesday,Morning,82.8,3,Positive,37.8
+1779,Podcast_34,Episode 63,74.2,True Crime,17.3,Saturday,Night,35.0,0,Positive,57.0
+1780,Podcast_43,Episode 7,61.2,Music,62.5,Friday,Afternoon,43.0,3,Neutral,45.8
+1781,Podcast_45,Episode 49,46.9,Sports,18.0,Wednesday,Night,11.6,3,Neutral,25.3
+1782,Podcast_9,Episode 20,5.0,Education,36.1,Wednesday,Night,20.4,1,Negative,6.2
+1783,Podcast_39,Episode 73,25.3,True Crime,82.0,Saturday,Evening,37.1,0,Positive,40.9
+1784,Podcast_8,Episode 45,58.8,Sports,91.5,Saturday,Afternoon,48.6,4,Positive,43.3
+1785,Podcast_32,Episode 36,69.3,Comedy,30.7,Tuesday,Afternoon,,4,Neutral,46.0
+1786,Podcast_36,Episode 7,67.2,Comedy,48.4,Wednesday,Evening,63.4,1,Positive,61.8
+1787,Podcast_8,Episode 14,13.2,Comedy,55.9,Saturday,Morning,27.2,5,Positive,26.0
+1788,Podcast_6,Episode 77,51.0,True Crime,90.6,Monday,Morning,31.8,1,Negative,39.7
+1789,Podcast_4,Episode 87,65.3,Education,45.1,Tuesday,Evening,84.4,5,Negative,26.7
+1790,Podcast_36,Episode 30,11.8,News,45.5,Tuesday,Morning,78.2,0,Negative,7.1
+1791,Podcast_31,Episode 83,44.8,Technology,86.0,Thursday,Afternoon,50.7,3,Positive,40.7
+1792,Podcast_6,Episode 56,50.5,True Crime,47.5,Thursday,Evening,,0,Positive,47.5
+1793,Podcast_26,Episode 36,39.0,Education,69.4,Wednesday,Afternoon,78.1,1,Positive,43.3
+1794,Podcast_40,Episode 46,8.0,News,25.5,Monday,Night,25.2,2,Negative,1.0
+1795,Podcast_12,Episode 70,38.5,Health,51.6,Friday,Night,59.8,0,Positive,32.6
+1796,Podcast_31,Episode 91,38.5,True Crime,21.8,Saturday,Morning,,2,Positive,20.0
+1797,Podcast_15,Episode 50,42.0,Lifestyle,33.9,Tuesday,Morning,55.1,1,Positive,13.9
+1798,Podcast_14,Episode 35,33.7,Lifestyle,71.8,Friday,Night,30.6,0,Neutral,30.7
+1799,Podcast_20,Episode 77,36.1,Business,54.0,Saturday,Morning,60.3,5,Neutral,42.4
+1800,Podcast_18,Episode 53,44.2,Health,48.6,Thursday,Afternoon,,5,Neutral,40.0
+1801,Podcast_25,Episode 40,53.8,Comedy,40.0,Friday,Night,,5,Positive,28.0
+1802,Podcast_11,Episode 46,38.9,Business,50.6,Tuesday,Evening,67.5,0,Neutral,35.6
+1803,Podcast_20,Episode 54,36.8,True Crime,61.0,Sunday,Afternoon,77.9,2,Positive,28.3
+1804,Podcast_32,Episode 15,46.8,News,74.7,Sunday,Morning,42.2,1,Positive,36.0
+1805,Podcast_20,Episode 6,6.6,Sports,2.5,Friday,Afternoon,40.6,1,Positive,3.9
+1806,Podcast_33,Episode 67,54.5,Comedy,38.4,Sunday,Evening,,2,Neutral,32.4
+1807,Podcast_6,Episode 18,45.0,News,58.2,Friday,Morning,46.3,3,Positive,38.3
+1808,Podcast_7,Episode 54,45.8,Sports,53.0,Friday,Evening,35.9,2,Negative,28.4
+1809,Podcast_44,Episode 79,64.2,Lifestyle,63.1,Saturday,Afternoon,24.7,1,Neutral,50.3
+1810,Podcast_24,Episode 22,5.9,Health,60.4,Monday,Afternoon,97.3,5,Positive,16.4
+1811,Podcast_31,Episode 39,5.5,Health,48.9,Tuesday,Night,61.7,5,Neutral,6.6
+1812,Podcast_37,Episode 98,50.5,Lifestyle,44.5,Tuesday,Night,64.3,1,Neutral,29.0
+1813,Podcast_8,Episode 4,44.9,Comedy,50.1,Friday,Evening,72.1,1,Positive,33.4
+1814,Podcast_49,Episode 76,48.4,Education,78.0,Tuesday,Evening,,3,Neutral,26.5
+1815,Podcast_22,Episode 17,35.8,News,40.4,Wednesday,Afternoon,,2,Positive,38.5
+1816,Podcast_45,Episode 91,58.3,Education,53.7,Thursday,Morning,56.8,5,Positive,41.0
+1817,Podcast_21,Episode 42,63.7,Lifestyle,58.7,Saturday,Afternoon,43.3,2,Neutral,28.7
+1818,Podcast_21,Episode 1,54.7,Health,86.2,Thursday,Morning,61.0,0,Neutral,47.4
+1819,Podcast_31,Episode 72,39.8,Lifestyle,49.0,Monday,Afternoon,,0,Positive,31.9
+1820,Podcast_10,Episode 15,5.0,Health,74.2,Friday,Afternoon,,0,Positive,38.4
+1821,Podcast_31,Episode 37,60.4,Music,79.6,Wednesday,Evening,16.8,2,Neutral,38.3
+1822,Podcast_50,Episode 51,69.4,Technology,53.7,Monday,Afternoon,53.7,1,Positive,62.2
+1823,Podcast_33,Episode 75,57.9,True Crime,50.8,Friday,Afternoon,44.9,5,Negative,36.8
+1824,Podcast_4,Episode 42,27.4,News,48.4,Tuesday,Evening,2.7,5,Neutral,5.9
+1825,Podcast_35,Episode 86,58.5,Sports,49.9,Thursday,Morning,62.7,0,Negative,39.3
+1826,Podcast_2,Episode 49,62.2,Health,72.1,Sunday,Morning,74.1,5,Positive,54.4
+1827,Podcast_6,Episode 35,76.2,News,59.6,Tuesday,Evening,100.0,3,Negative,48.4
+1828,Podcast_15,Episode 34,27.5,Technology,59.7,Sunday,Evening,40.2,1,Positive,36.4
+1829,Podcast_16,Episode 81,40.5,True Crime,32.5,Thursday,Night,36.5,2,Positive,23.8
+1830,Podcast_1,Episode 67,59.9,Technology,35.7,Sunday,Evening,22.3,2,Positive,48.9
+1831,Podcast_1,Episode 13,46.1,Business,97.9,Saturday,Night,55.2,1,Positive,46.8
+1832,Podcast_40,Episode 76,22.7,Music,51.4,Saturday,Evening,55.1,5,Negative,12.4
+1833,Podcast_23,Episode 42,53.3,Lifestyle,39.5,Tuesday,Night,29.7,0,Neutral,45.0
+1834,Podcast_10,Episode 35,56.6,News,83.6,Saturday,Morning,45.6,0,Neutral,52.7
+1835,Podcast_22,Episode 10,46.8,Education,60.6,Wednesday,Evening,0.5,1,Neutral,35.8
+1836,Podcast_35,Episode 100,49.4,Health,66.6,Sunday,Night,73.2,0,Neutral,48.1
+1837,Podcast_37,Episode 6,39.8,Education,52.2,Sunday,Night,30.7,0,Neutral,37.7
+1838,Podcast_15,Episode 100,74.6,Education,48.6,Friday,Afternoon,49.1,2,Negative,54.6
+1839,Podcast_9,Episode 7,27.0,News,51.6,Sunday,Night,14.3,2,Neutral,19.9
+1840,Podcast_48,Episode 51,33.3,Technology,27.3,Thursday,Afternoon,35.4,0,Neutral,26.5
+1841,Podcast_32,Episode 11,45.2,Education,53.2,Monday,Morning,,4,Positive,44.6
+1842,Podcast_50,Episode 50,62.6,Comedy,60.9,Sunday,Night,49.7,5,Negative,28.6
+1843,Podcast_16,Episode 84,15.1,Comedy,92.0,Thursday,Afternoon,62.0,4,Positive,17.2
+1844,Podcast_6,Episode 60,18.8,Health,56.7,Monday,Morning,86.0,3,Positive,32.3
+1845,Podcast_20,Episode 55,5.0,Music,8.3,Monday,Morning,68.3,5,Negative,1.0
+1846,Podcast_17,Episode 12,45.7,Health,53.1,Saturday,Morning,,2,Positive,33.7
+1847,Podcast_36,Episode 95,22.6,Comedy,100.0,Sunday,Night,86.2,2,Positive,42.7
+1848,Podcast_36,Episode 38,37.3,Music,72.3,Friday,Night,64.2,0,Positive,56.0
+1849,Podcast_4,Episode 54,58.2,Business,38.8,Thursday,Night,49.1,4,Positive,29.5
+1850,Podcast_30,Episode 90,32.2,True Crime,66.8,Wednesday,Morning,75.2,0,Negative,35.9
+1851,Podcast_18,Episode 63,49.6,News,40.2,Wednesday,Night,,3,Negative,7.8
+1852,Podcast_31,Episode 74,39.0,Music,27.9,Wednesday,Evening,,4,Neutral,20.5
+1853,Podcast_20,Episode 19,58.4,Education,48.0,Tuesday,Afternoon,13.6,1,Negative,47.4
+1854,Podcast_27,Episode 47,54.5,Technology,56.8,Monday,Evening,29.0,3,Neutral,32.8
+1855,Podcast_36,Episode 55,31.2,News,17.6,Thursday,Night,43.1,1,Negative,16.1
+1856,Podcast_15,Episode 18,41.6,News,32.0,Tuesday,Afternoon,69.5,2,Positive,43.8
+1857,Podcast_10,Episode 39,65.9,Education,55.2,Tuesday,Morning,49.5,3,Neutral,29.3
+1858,Podcast_36,Episode 84,52.9,True Crime,46.8,Tuesday,Night,78.4,1,Positive,49.2
+1859,Podcast_48,Episode 94,17.1,Health,62.9,Saturday,Morning,,4,Positive,26.8
+1860,Podcast_23,Episode 83,58.1,True Crime,30.7,Friday,Morning,,2,Neutral,54.3
+1861,Podcast_50,Episode 94,23.3,Business,69.3,Thursday,Evening,80.1,2,Positive,24.1
+1862,Podcast_10,Episode 100,73.3,Education,31.3,Friday,Night,,4,Neutral,36.7
+1863,Podcast_41,Episode 20,65.5,Lifestyle,87.9,Thursday,Night,62.1,1,Neutral,44.9
+1864,Podcast_50,Episode 86,50.8,Music,20.7,Thursday,Night,34.8,2,Positive,30.0
+1865,Podcast_15,Episode 63,48.1,True Crime,33.1,Saturday,Night,8.8,5,Positive,40.2
+1866,Podcast_8,Episode 86,40.8,Comedy,63.3,Saturday,Morning,42.8,2,Neutral,32.0
+1867,Podcast_34,Episode 64,58.6,Health,88.3,Tuesday,Afternoon,,0,Negative,41.7
+1868,Podcast_44,Episode 13,37.6,True Crime,61.3,Saturday,Evening,61.5,1,Positive,36.8
+1869,Podcast_5,Episode 57,49.7,Lifestyle,66.3,Tuesday,Afternoon,100.0,5,Negative,25.8
+1870,Podcast_33,Episode 77,62.4,Education,55.4,Monday,Evening,54.4,4,Negative,30.0
+1871,Podcast_44,Episode 13,33.8,News,34.5,Wednesday,Afternoon,100.0,4,Neutral,14.4
+1872,Podcast_2,Episode 51,32.7,True Crime,45.2,Wednesday,Afternoon,54.4,1,Positive,33.2
+1873,Podcast_26,Episode 66,21.1,Music,30.8,Saturday,Morning,50.6,5,Neutral,8.4
+1874,Podcast_4,Episode 47,23.7,Technology,29.4,Friday,Evening,18.0,2,Negative,3.2
+1875,Podcast_9,Episode 80,8.4,Lifestyle,63.0,Monday,Night,77.8,4,Positive,22.4
+1876,Podcast_25,Episode 13,59.6,News,32.5,Thursday,Night,37.4,5,Negative,27.6
+1877,Podcast_17,Episode 35,81.2,Music,61.4,Saturday,Afternoon,33.8,1,Negative,44.3
+1878,Podcast_5,Episode 96,73.5,Health,29.0,Saturday,Evening,82.0,5,Neutral,41.2
+1879,Podcast_41,Episode 52,12.5,Health,60.9,Thursday,Morning,79.0,3,Neutral,34.2
+1880,Podcast_11,Episode 19,59.5,News,45.2,Friday,Evening,78.3,4,Neutral,55.5
+1881,Podcast_44,Episode 12,73.4,Sports,83.1,Thursday,Afternoon,40.9,4,Neutral,40.5
+1882,Podcast_9,Episode 60,35.9,Business,61.5,Tuesday,Night,48.7,1,Negative,17.7
+1883,Podcast_26,Episode 94,47.0,Education,79.7,Thursday,Evening,48.5,4,Positive,34.0
+1884,Podcast_37,Episode 5,5.0,Education,39.9,Friday,Morning,69.6,1,Positive,29.0
+1885,Podcast_25,Episode 11,50.3,Health,56.1,Monday,Night,88.8,1,Positive,46.2
+1886,Podcast_21,Episode 38,23.7,Education,35.4,Friday,Evening,59.2,0,Negative,19.0
+1887,Podcast_38,Episode 21,49.0,Lifestyle,46.7,Tuesday,Morning,99.4,1,Positive,64.1
+1888,Podcast_1,Episode 13,13.8,Comedy,49.8,Monday,Afternoon,72.4,5,Negative,5.8
+1889,Podcast_42,Episode 30,55.9,News,40.5,Saturday,Morning,44.1,1,Neutral,44.2
+1890,Podcast_35,Episode 65,65.5,Music,30.7,Wednesday,Afternoon,70.7,2,Positive,54.8
+1891,Podcast_39,Episode 83,29.3,Sports,26.7,Wednesday,Night,92.6,2,Negative,13.3
+1892,Podcast_22,Episode 31,22.3,True Crime,8.2,Friday,Night,100.0,4,Neutral,22.7
+1893,Podcast_20,Episode 71,5.0,Health,33.9,Thursday,Evening,79.7,3,Positive,10.0
+1894,Podcast_29,Episode 83,39.7,Comedy,67.5,Friday,Afternoon,50.6,3,Positive,49.3
+1895,Podcast_33,Episode 1,33.4,Technology,23.0,Sunday,Afternoon,44.6,5,Positive,19.7
+1896,Podcast_47,Episode 86,14.0,Lifestyle,27.6,Friday,Night,64.4,2,Positive,17.6
+1897,Podcast_43,Episode 19,54.1,Business,90.8,Monday,Morning,91.8,4,Positive,42.8
+1898,Podcast_3,Episode 69,36.0,Comedy,42.3,Tuesday,Night,60.8,5,Neutral,14.6
+1899,Podcast_8,Episode 76,23.5,Sports,61.4,Thursday,Night,61.4,4,Positive,24.4
+1900,Podcast_48,Episode 85,33.9,Education,67.8,Thursday,Night,51.3,0,Positive,21.5
+1901,Podcast_20,Episode 41,66.4,Health,68.3,Wednesday,Evening,,1,Positive,54.4
+1902,Podcast_30,Episode 66,57.1,Music,24.6,Tuesday,Night,45.9,3,Positive,37.3
+1903,Podcast_3,Episode 3,42.4,Music,50.4,Monday,Morning,53.4,2,Negative,31.9
+1904,Podcast_6,Episode 45,57.4,Technology,22.6,Tuesday,Night,93.0,1,Positive,52.0
+1905,Podcast_21,Episode 97,21.8,True Crime,100.0,Sunday,Morning,44.0,2,Positive,29.2
+1906,Podcast_36,Episode 16,45.6,News,23.1,Wednesday,Morning,51.3,0,Neutral,29.0
+1907,Podcast_39,Episode 16,47.9,Lifestyle,34.0,Sunday,Morning,28.4,1,Negative,24.1
+1908,Podcast_45,Episode 71,35.6,Sports,34.2,Wednesday,Evening,67.9,4,Neutral,34.8
+1909,Podcast_10,Episode 52,53.7,Business,25.1,Wednesday,Morning,84.2,0,Negative,27.5
+1910,Podcast_11,Episode 46,29.4,Comedy,82.1,Thursday,Evening,90.6,5,Negative,15.0
+1911,Podcast_28,Episode 25,55.2,Music,100.0,Sunday,Morning,55.1,2,Neutral,37.1
+1912,Podcast_28,Episode 18,56.0,Health,45.5,Thursday,Evening,,4,Negative,17.7
+1913,Podcast_2,Episode 74,5.0,News,28.6,Monday,Morning,46.2,1,Positive,19.4
+1914,Podcast_23,Episode 36,68.8,Education,10.3,Tuesday,Evening,63.2,4,Negative,32.9
+1915,Podcast_45,Episode 78,5.0,Education,50.1,Sunday,Morning,57.8,3,Negative,13.8
+1916,Podcast_9,Episode 45,32.7,News,48.7,Tuesday,Night,51.5,5,Negative,22.7
+1917,Podcast_42,Episode 40,65.5,Lifestyle,42.0,Saturday,Afternoon,53.4,0,Neutral,65.8
+1918,Podcast_23,Episode 24,38.7,Lifestyle,59.4,Sunday,Evening,61.3,4,Neutral,27.3
+1919,Podcast_27,Episode 66,15.7,Comedy,62.9,Tuesday,Afternoon,42.6,1,Positive,25.6
+1920,Podcast_33,Episode 29,23.1,Lifestyle,61.5,Thursday,Evening,43.9,2,Neutral,11.5
+1921,Podcast_36,Episode 91,65.5,Education,48.7,Friday,Afternoon,,0,Positive,64.3
+1922,Podcast_32,Episode 41,6.6,Sports,33.0,Saturday,Morning,100.0,5,Neutral,8.5
+1923,Podcast_6,Episode 82,67.6,Sports,68.3,Saturday,Night,,3,Neutral,48.8
+1924,Podcast_15,Episode 47,43.9,Health,55.3,Monday,Evening,18.5,5,Positive,23.8
+1925,Podcast_43,Episode 42,21.2,Sports,72.8,Wednesday,Afternoon,26.1,3,Positive,30.0
+1926,Podcast_3,Episode 46,33.3,Business,70.8,Sunday,Morning,47.4,0,Positive,42.4
+1927,Podcast_36,Episode 45,24.7,Music,26.6,Wednesday,Night,72.4,2,Neutral,20.8
+1928,Podcast_27,Episode 48,62.3,Education,26.3,Tuesday,Afternoon,64.8,2,Neutral,34.3
+1929,Podcast_6,Episode 89,59.6,Sports,39.9,Friday,Night,54.3,0,Neutral,52.6
+1930,Podcast_7,Episode 71,10.6,Lifestyle,33.9,Tuesday,Night,63.2,5,Positive,31.4
+1931,Podcast_50,Episode 4,36.9,Lifestyle,70.1,Tuesday,Night,32.7,5,Negative,9.6
+1932,Podcast_2,Episode 6,27.7,Technology,62.0,Saturday,Evening,43.9,3,Neutral,28.4
+1933,Podcast_2,Episode 3,70.9,Education,77.0,Monday,Morning,49.5,3,Positive,34.1
+1934,Podcast_1,Episode 70,18.0,Health,62.9,Sunday,Morning,10.4,4,Positive,26.3
+1935,Podcast_32,Episode 21,77.1,Business,59.2,Tuesday,Morning,21.0,4,Neutral,30.8
+1936,Podcast_47,Episode 39,44.3,Business,79.0,Monday,Afternoon,22.0,0,Positive,41.8
+1937,Podcast_9,Episode 83,21.8,Music,64.4,Saturday,Evening,,3,Positive,19.3
+1938,Podcast_40,Episode 14,31.5,Health,56.4,Tuesday,Night,56.1,4,Positive,29.3
+1939,Podcast_36,Episode 16,29.0,Sports,84.6,Wednesday,Morning,65.3,4,Positive,41.4
+1940,Podcast_12,Episode 8,19.5,Music,57.3,Wednesday,Evening,4.0,3,Positive,7.4
+1941,Podcast_4,Episode 29,46.9,Technology,48.9,Thursday,Morning,12.9,5,Positive,30.3
+1942,Podcast_25,Episode 9,20.4,Business,38.2,Thursday,Afternoon,66.6,3,Negative,6.8
+1943,Podcast_5,Episode 63,5.0,True Crime,69.1,Tuesday,Morning,0.0,2,Neutral,22.2
+1944,Podcast_6,Episode 74,37.4,Lifestyle,79.7,Tuesday,Afternoon,80.6,2,Positive,46.8
+1945,Podcast_24,Episode 19,8.9,Health,54.0,Tuesday,Evening,4.4,4,Neutral,1.0
+1946,Podcast_41,Episode 53,30.0,Business,81.2,Monday,Evening,71.1,5,Neutral,21.6
+1947,Podcast_50,Episode 31,26.8,Sports,15.6,Friday,Night,27.8,1,Positive,38.0
+1948,Podcast_32,Episode 9,27.6,News,53.9,Thursday,Evening,76.2,1,Positive,41.3
+1949,Podcast_14,Episode 47,85.0,Health,54.2,Monday,Afternoon,,3,Positive,58.1
+1950,Podcast_17,Episode 70,46.1,Sports,40.5,Wednesday,Night,0.0,4,Neutral,22.1
+1951,Podcast_31,Episode 23,49.9,Sports,100.0,Friday,Night,67.4,2,Neutral,42.4
+1952,Podcast_9,Episode 79,9.5,News,53.7,Tuesday,Night,4.8,3,Positive,11.9
+1953,Podcast_26,Episode 100,31.9,Music,46.8,Wednesday,Night,60.7,0,Neutral,15.8
+1954,Podcast_39,Episode 6,49.3,Technology,55.5,Saturday,Night,44.8,1,Negative,25.8
+1955,Podcast_43,Episode 17,24.5,News,14.9,Friday,Morning,53.2,5,Positive,30.1
+1956,Podcast_3,Episode 29,63.2,Music,39.8,Friday,Evening,27.2,3,Neutral,34.4
+1957,Podcast_15,Episode 85,20.9,Business,74.7,Wednesday,Afternoon,,5,Neutral,18.5
+1958,Podcast_13,Episode 15,39.3,Health,42.4,Thursday,Afternoon,,1,Neutral,28.4
+1959,Podcast_28,Episode 48,33.3,Health,38.4,Saturday,Morning,81.0,1,Neutral,46.5
+1960,Podcast_10,Episode 54,48.3,Lifestyle,81.2,Sunday,Morning,39.8,5,Neutral,33.0
+1961,Podcast_48,Episode 13,32.2,News,81.8,Monday,Night,14.9,5,Positive,38.9
+1962,Podcast_46,Episode 5,39.6,News,65.3,Saturday,Night,89.9,5,Positive,33.0
+1963,Podcast_17,Episode 12,40.3,Education,45.9,Sunday,Evening,48.3,1,Negative,23.0
+1964,Podcast_21,Episode 6,30.3,Music,50.2,Sunday,Morning,97.7,4,Positive,32.9
+1965,Podcast_22,Episode 51,54.7,Health,38.9,Tuesday,Evening,80.5,2,Negative,26.6
+1966,Podcast_3,Episode 94,49.8,Sports,35.1,Thursday,Morning,30.0,5,Positive,32.4
+1967,Podcast_45,Episode 36,43.2,Music,34.1,Monday,Evening,47.9,5,Neutral,30.8
+1968,Podcast_39,Episode 26,36.4,Music,42.6,Monday,Morning,53.0,2,Neutral,20.6
+1969,Podcast_17,Episode 24,60.9,Education,34.3,Thursday,Afternoon,88.2,1,Positive,51.9
+1970,Podcast_28,Episode 99,40.3,Education,23.7,Tuesday,Morning,60.9,5,Negative,21.3
+1971,Podcast_20,Episode 96,38.9,Comedy,59.4,Tuesday,Night,,2,Positive,32.4
+1972,Podcast_12,Episode 65,47.1,Comedy,59.7,Wednesday,Evening,45.0,2,Neutral,43.6
+1973,Podcast_16,Episode 47,78.9,Education,89.0,Thursday,Night,48.7,3,Neutral,55.8
+1974,Podcast_6,Episode 16,18.2,Sports,41.6,Tuesday,Morning,82.6,5,Negative,6.5
+1975,Podcast_41,Episode 93,60.4,Music,60.9,Saturday,Evening,50.1,0,Neutral,30.3
+1976,Podcast_33,Episode 1,7.1,Education,61.3,Friday,Afternoon,40.1,5,Negative,1.0
+1977,Podcast_47,Episode 17,49.3,Health,49.9,Saturday,Afternoon,35.9,2,Negative,30.9
+1978,Podcast_1,Episode 68,76.5,Music,69.9,Sunday,Night,36.2,0,Positive,77.4
+1979,Podcast_32,Episode 19,54.8,True Crime,70.5,Friday,Morning,14.9,1,Negative,38.6
+1980,Podcast_29,Episode 11,48.4,Technology,61.5,Wednesday,Night,31.2,2,Negative,37.8
+1981,Podcast_32,Episode 60,33.8,Lifestyle,49.9,Sunday,Morning,,4,Positive,24.2
+1982,Podcast_50,Episode 3,45.6,Health,47.8,Thursday,Afternoon,,3,Neutral,29.4
+1983,Podcast_20,Episode 27,40.0,Technology,27.6,Thursday,Morning,67.6,0,Positive,49.3
+1984,Podcast_8,Episode 65,29.3,News,38.9,Wednesday,Evening,0.0,2,Neutral,11.2
+1985,Podcast_1,Episode 19,39.2,True Crime,42.6,Monday,Evening,64.2,1,Positive,47.0
+1986,Podcast_25,Episode 76,49.0,News,32.5,Sunday,Evening,46.0,1,Neutral,39.6
+1987,Podcast_9,Episode 10,29.7,Education,63.8,Saturday,Night,38.0,4,Positive,31.9
+1988,Podcast_8,Episode 62,28.9,Music,78.9,Friday,Night,54.5,4,Neutral,22.3
+1989,Podcast_8,Episode 8,17.8,Sports,36.8,Tuesday,Night,37.6,0,Positive,18.4
+1990,Podcast_14,Episode 74,52.8,Lifestyle,60.7,Sunday,Afternoon,0.0,3,Neutral,47.0
+1991,Podcast_6,Episode 76,55.9,Music,34.3,Tuesday,Morning,,2,Neutral,43.2
+1992,Podcast_25,Episode 80,49.6,True Crime,48.9,Tuesday,Morning,56.1,2,Neutral,38.2
+1993,Podcast_33,Episode 29,64.3,Comedy,41.2,Monday,Afternoon,42.2,4,Positive,42.4
+1994,Podcast_15,Episode 24,46.8,Technology,67.0,Wednesday,Evening,25.8,1,Positive,44.3
+1995,Podcast_7,Episode 98,52.8,Sports,41.4,Wednesday,Morning,13.3,4,Positive,38.5
+1996,Podcast_29,Episode 73,51.1,True Crime,75.2,Saturday,Night,55.6,2,Negative,37.4
+1997,Podcast_5,Episode 19,43.2,Sports,50.1,Wednesday,Night,,0,Positive,52.4
+1998,Podcast_37,Episode 3,34.4,Education,42.0,Sunday,Morning,55.1,4,Neutral,16.2
+1999,Podcast_20,Episode 36,89.3,Music,29.9,Wednesday,Night,15.4,5,Positive,42.1
